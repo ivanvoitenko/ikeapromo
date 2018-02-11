@@ -1,0 +1,29 @@
+.newImgLarge {
+	width:6.67em;/*64px;*/
+	height:1.88em;/*18px;*/
+}
+
+.leftNavigation .navigationBlock .productItem .newImgSmall {
+	float:left;
+	margin-right:0.83em; /*8px*/
+    margin-top:0.94em; /*9px;*/
+}
+
+.leftNavigation .navigationBlock .productItem .prodNameNewImg {
+    float:left;
+    width:69%; /*137px;*/
+    padding:1.04em 0;
+}
+
+.prodStyle3_B.seoProduct {
+  margin-top: 10px;
+}
+
+/** NNC fix **/
+.productLists .product .productDetails .nlpImage {
+	top: 200px;
+}
+
+#prodInfoLanding .productLists .product .productDetails .nlpImage {
+    top: 200px!important;
+}

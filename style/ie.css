@@ -1,0 +1,1831 @@
+.logoContainer.halfBox {
+  text-align: left;
+}
+
+
+/* ----- form ---------------- */
+
+select {
+  position: none;
+  left: 1px;
+}
+
+
+/* ----- Select Store Ad ----- */
+
+.leftNavigation .navigationBlock .sideModule .selectStore .buttonContainer {
+  float: none;
+}
+
+
+/* ----- Long Benifit Ad ----- */
+
+.longBenifitAd .imageContainer {
+  position: absolute;
+  top: 50%;
+  height: auto;
+}
+
+.longBenifitAd .imageContainer .image {
+  position: relative;
+  top: -50%;
+}
+
+
+/* For all buttons on the site except the header */
+
+DIV.buttonContainer {
+  TOP: 0px;
+}
+
+#categoryPage .buttonContainer {
+  width: 100%;
+}
+
+DIV.buttonContainer A INPUT {
+  POSITION: relative;
+  MARGIN: 0px 0px -7px;
+  HEIGHT: 22px;
+  OVERFLOW: visible;
+  TOP: 0px;
+  LEFT: 0px;
+}
+
+DIV.buttonContainer A INPUT.down {
+  TOP: -6px;
+  LEFT: -1px;
+}
+
+DIV.buttonContainer A INPUT.downNoMove {
+  TOP: -5px;
+  LEFT: 0px;
+}
+
+DIV.linkButtonContainer A INPUT {
+  MARGIN: 0px;
+}
+
+DIV.linkButtonContainer A:hover INPUT {
+  TEXT-DECORATION: underline;
+}
+
+DIV.linkButtonContainer A INPUT:hover {
+  TEXT-DECORATION: underline;
+}
+
+
+/* ----- Button layout ------------ */
+
+div.logoContainer .buttonContainer {
+  top: -2px;
+}
+
+div.logoContainer .buttonContainer a .buttonCaption {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+div.logoContainer .buttonContainer a input {
+  position: relative;
+  left: 0;
+  margin: 0px auto;
+  height: 20px;
+  overflow: visible;
+}
+
+div.logoContainer .buttonContainer a span input {
+  position: relative;
+  left: 0;
+  margin: 0px -4px auto;
+  height: 20px;
+  overflow: visible;
+}
+
+div.logoContainer .buttonContainer a input.down {
+  /*    top:-6px; */
+  left: -1px;
+}
+
+div.logoContainer .buttonContainer a input.downNoMove {
+  margin-top: 8px;
+  left: 0px;
+}
+
+div.logoContainer .linkButtonContainer a input {
+  margin: 0;
+}
+
+div.logoContainer .linkButtonContainer a:hover input, div.linkButtonContainer a input:hover {
+  text-decoration: underline;
+}
+
+
+/* ----- Compare checkbox ------- */
+
+.rightContent .productsContainer .productContainer .cartContainer .compare input {
+  margin-left: -4px;
+}
+
+.rightContent .productsContainer .compareRow .compare input {
+  margin-top: 0px;
+  margin-left: -4px;
+}
+
+
+/* ----- Shoppinglist email ----- */
+
+#shoppingListEmail .formField .check {
+  margin-left: -4px;
+}
+
+#shoppingListEmail .formField .checkBoxLink {
+  margin: 0;
+  margin-left: 21px;
+  display: block;
+}
+
+#shoppingListEmail div.buttonContainer {
+  top: 13px;
+}
+
+
+/* ----- Slideshow ------- */
+
+#slideshowBg {
+  background-color: #FFF;
+}
+
+#slideshowContainer {
+  background-color: #c1c1c1;
+}
+
+#slideshowContainer #slideshowContent {
+  zoom: 1;
+  /* IE fix to add hasLayout for layer to behave correct when using position:relative */
+}
+
+#slideshowNavigation .thumbContainerActive {
+  height: 42px;
+  /*IE */
+}
+
+#slideshowContainer .buttonsContainer {
+  clear: both;
+  width: 100%;
+}
+
+#slideshowContainer .moreLink {
+  clear: both;
+  width: 100%;
+}
+
+
+/* Newsroom and Newsitem page*/
+
+.categoryListHeadlineWrapper {
+  padding: 0.4em 0 0;
+}
+
+.newsItemHeadline {
+  padding: 0 0 1.1em 0;
+}
+
+.newsItemPreamble {
+  padding: 0.7em 1.042em 0 0;
+}
+
+.compactNewsArticleHeadline {
+  margin: 0.8em 0 0.7em 0;
+}
+
+.compactAllNews {
+  margin: 0.6em 0 1em 0;
+}
+
+.newItem {
+  padding-bottom: 0.8em;
+}
+
+#newsItemDivider {
+  padding-bottom: 1.35em;
+}
+
+.textContentModulesSpacings {
+  margin: 1.67em 0 1.8em 0;
+}
+
+
+/* Newsroom and Newsitem page ends here*/
+
+
+/* Search page starts here*/
+
+div#searchlist div#results .itemSearch {
+  padding: 1.1em 0 0.6em 0;
+}
+
+div#searchlist div#results .searchIRWHeadline {
+  padding-bottom: 0.1em;
+}
+
+.rightContent .productsContainer .productContainer .nlpImage {
+  left: 1.56em;
+  position: absolute;
+  top: 9.1em;
+  z-index: 10
+}
+
+
+/*
+    Category page - product listing page
+*/
+
+#popupContent .productContainerCategory {
+  padding: 1.45em 1.5em 1.658em 1.7em;
+  width: 109px;
+}
+
+#popupContent .productContainerCategory .prodName {
+  margin-top: -2px;
+}
+
+#popupContent .productContainerCategory .prodImg {
+  margin-bottom: 9px !important
+}
+
+.rightContent .productsContainer td {
+  width: 138px !important;
+}
+
+#miniPip .productContainer .newImgSmall {
+  position: absolute;
+  top: 12.3em !important;
+  z-index: 10;
+}
+
+.productContainerPip .popupImg {
+  margin-bottom: 6px;
+}
+
+#miniPip .productContainerPip .newImgSmall {
+  position: absolute;
+  top: 12.9em !important;
+  z-index: 10;
+}
+
+#miniPip .productContainer .nlpImage {
+  left: 1.6em !important;
+}
+
+#miniPip .prevPrice {
+  margin-left: 1px;
+}
+
+#miniPip .productBtiBack {
+  width: 105px !important;
+}
+
+#miniPip .productBtiFront {
+  padding-top: 0.53em !important;
+}
+
+
+/* ----- Textbox --------- */
+
+.backgroundImage .textbox .textboxCorner {
+  _background-image: none;
+}
+
+.backgroundImage .textbox_00abbd .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_00abbd.png');
+}
+
+.backgroundImage .textbox_eedb00 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_eedb00.png');
+}
+
+.backgroundImage .textbox_f49ac1 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_f49ac1.png');
+}
+
+.backgroundImage .textbox_00bdf2 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_00bdf2.png');
+}
+
+.backgroundImage .textbox_00a650 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_00a650.png');
+}
+
+.backgroundImage .textbox_ff6600 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_ff6600.png');
+}
+
+.backgroundImage .textbox_b3d334 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_b3d334.png');
+}
+
+.backgroundImage .textbox_ed1c24 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_ed1c24.png');
+}
+
+.backgroundImage .textbox_f68b1f .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_f68b1f.png');
+}
+
+.backgroundImage .textbox_d6007f .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_d6007f.png');
+}
+
+.backgroundImage .textbox_2db33a .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_2db33a.png');
+}
+
+.backgroundImage .textbox_0293d0 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_0293d0.png');
+}
+
+.backgroundImage .textbox_fff200 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_fff200.png');
+}
+
+.backgroundImage .textbox_ffcc00 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_ffcc00.png');
+}
+
+.backgroundImage .textbox_003399 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_003399.png');
+}
+
+.backgroundImage .textbox_cc0000 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_cc0000.png');
+}
+
+.backgroundImage .textbox_5ddaec .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_5ddaec.png');
+}
+
+.backgroundImage .textbox_5a217b .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_5a217b.png');
+}
+
+.backgroundImage .textbox_502f13 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_502f13.png');
+}
+
+.backgroundImage .textbox_773300 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_773300.png');
+}
+
+.backgroundImage .textbox_000000 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_000000.png');
+}
+
+.backgroundImage .textbox_333333 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_333333.png');
+}
+
+.backgroundImage .textbox_666666 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_666666.png');
+}
+
+.backgroundImage .textbox_999999 .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_999999.png');
+}
+
+.backgroundImage .textbox_cccccc .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_cccccc.png');
+}
+
+.backgroundImage .textbox_ffffff .textboxCorner .textboxCornerImage {
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_ffffff.png');
+}
+
+.textAndTextBox_25 .rightColumn {
+  width: 74.99%;
+}
+
+.textAndTextBox_33 .rightColumn {
+  width: 66.99%;
+}
+
+.textAndTextBox_50 .rightColumn {
+  width: 49.99%;
+}
+
+.textAndTextBox_67 .rightColumn {
+  width: 32.99%;
+}
+
+.textAndTextBox_75 .rightColumn {
+  width: 24.99%;
+}
+
+
+/* ---------- PIP_EM Complementary and Matching Expression---------- */
+
+#matchingProductContainer, #complementaryProductContainer {
+  width: 546px;
+}
+
+#matchingProductContainer ul, #complementaryProductContainer ul {
+  width: 100%;
+}
+
+#matchingProductContainer li, #complementaryProductContainer li {
+  display: inline-block;
+  vertical-align: top;
+  height: 100%;
+}
+
+#matchingProductContainer li, #complementaryProductContainer li {
+  width: 135px !important;
+}
+
+#matchingProductContainer, #complementaryProductContainer {
+  overflow: hidden;
+}
+
+#matchingProductContainer li, #complementaryProductContainer li {
+  voice-family: "\"}\"";
+  voice-family: inherit;
+  padding-bottom: 999px;
+  margin-bottom: -999px;
+}
+
+#popupContent .productContainerPip, .productContainerPip {
+  padding: 1.6em 1.4em 1.158em 1.5em;
+  width: 111px;
+}
+
+#popupContent .productBtiBack .prodName {
+  margin-top: 0 !important;
+}
+
+#popupContent .productContainer .productBtiBack {
+  margin-top: 2px;
+}
+
+.productContainer .listLink {
+  margin-top: 1px !important;
+}
+
+.productContainer .moreLink {
+  margin: 0.83em 0.182em 0.05em -0.5em !important;
+}
+
+.productContainer .buttonsContainer .buttonContainer {
+  padding-right: 23px !important;
+}
+
+#popupMustBeCompleted .rightArrow {
+  left: 109px;
+}
+
+#popupMustBeCompleted .corner-a {
+  top: 0px !important;
+}
+
+
+/* ---------- PIP_EM litebox---------- */
+
+.lbContentContainer {
+  zoom: 1;
+  /* IE fix to add hasLayout for layer to behave correct when using position:relative */
+}
+
+
+/* SEO - Body copy ad IE hacks */
+
+.bodyCopyColumnContainer li {
+  display: inline-block;
+  vertical-align: top;
+  height: 100%;
+}
+
+.bodyCopyColumnContainer li {
+  display: inline;
+}
+
+.bodyCopyColumnContainer {
+  overflow: hidden;
+}
+
+.bodyCopyColumnContainer li {
+  voice-family: "\"}\"";
+  voice-family: inherit;
+  padding-bottom: 999px;
+  margin-bottom: -999px;
+}
+
+.rightContent .bodyCopyContainer .bodyCopyRow h2.bodyCopyHeadline {
+  padding-top: 0.38em;
+}
+
+.rightContent .bodyCopyContainer hr.bodyCopyDivider {
+  margin-top: 0em;
+  background-color: #DDD;
+  border: #DDD;
+  color: #DDD;
+}
+
+.localStoreContainer .offerOfWeek {
+  margin-bottom: 0px !important;
+}
+
+
+/* SEO - Body copy ad IE hacks */
+
+
+/* =============================================================
+==                                                              ==
+==                    NEW CATALOGUE REQUEST PAGE START          ==
+==                                                              ==
+==============================================================*/
+
+
+/* ------------------ Main Catalogue Start ------------------ */
+
+.mainCatalogue {
+  display: block;
+  margin-top: 30px;
+  clear: both;
+  width: 100%;
+}
+
+.mainCatalogue img {
+  display: block;
+  float: left;
+}
+
+.mainCatalogueHeader {
+  display: block;
+  font-family: Verdana, sans-serif;
+  font-size: 20px;
+  float: left;
+  height: auto;
+}
+
+.mainCatalogue h1 {
+  font-size: 14px;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+.mainCatalogue a input {
+  font-family: Verdana, sans-serif;
+  font-size: 11px;
+  float: left;
+  margin-top: 20px;
+}
+
+.mainCatalogue p {
+  display: block;
+  width: 380px;
+  height: auto;
+  margin-top: 18px;
+  line-height: 160%;
+}
+
+.mainCatalogueContentWrapper {
+  display: block;
+  width: 380px;
+  margin-left: 230px;
+}
+
+.mainCatalogue ul {
+  padding-left: 0;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.mainCatalogue li {
+  padding-top: 5px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.mainCatalogue input, textarea {
+  vertical-align: middle;
+  margin-bottom: 0px;
+}
+
+
+/* ------------------ Main Catalogue End ------------------ */
+
+
+/* ------------------ Main Brochures start ------------------ */
+
+.mainBrochures {
+  position: relative;
+  width: auto;
+  border-top: 1px solid #ccc;
+}
+
+.mainBrochuresContainer {
+  width: 134px;
+  height: 250px;
+  margin-left: 0px;
+  float: left;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.mainBrochuresContainer0 {
+  float: left;
+  width: 134px;
+  height: 250px;
+  border-left: 1px solid #ccc;
+  margin-bottom: 15px;
+  padding-bottom: 0px;
+}
+
+
+/* Second, third and fourth row */
+
+.mainBrochuresContainerSTF {
+  width: 134px;
+  margin-left: 0px;
+  height: 250px;
+  float: left;
+  margin-top: 0px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+
+.mainBrochuresContainerSTF0 {
+  float: left;
+  width: 134px;
+  height: 250px;
+  border-left: 1px solid #ccc;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+}
+
+
+/* End second, third and fourth row */
+
+
+/* First row */
+
+.mainBrochuresWrapperInside {
+  width: 124px;
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+.mainBrochuresWrapperInside0 {
+  width: 124px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.mainBrochuresWrapperInside1 {
+  width: 124px;
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+
+/* End first row */
+
+
+/* Second, third, fourth row */
+
+.mainBrochuresWrapperInsideSTF {
+  width: 124px;
+  height: 280px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.mainBrochuresWrapperInsideSTF0 {
+  width: 124px;
+  height: 280px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.mainBrochuresWrapperInsideSTF1 {
+  width: 124px;
+  height: 280px;
+  margin-left: 10px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+
+/* End second, third, fourth row */
+
+.mainBrochuresWrapperInside img, .mainBrochuresWrapperInside0 img, .mainBrochuresWrapperInside1 img {
+  width: 114px;
+  height: 114px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+
+
+/* Second, third and fourth row images */
+
+.mainBrochuresWrapperInsideSTF img, .mainBrochuresWrapperInsideSTF0 img, .mainBrochuresWrapperInsideSTF1 img {
+  width: 114px;
+  height: 114px;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+
+/* End second, third and fourth row images */
+
+.mainBrochures h2 {
+  font-size: 14px;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  text-align: left;
+  margin: 20px 0 20px 0;
+  padding: 0;
+}
+
+.mainBrochures span {
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  display: block;
+}
+
+.mainBrochures ul {
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-top: 4px;
+}
+
+.mainBrochures li {
+  padding-top: 5px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.mainBrochures input, textarea {
+  vertical-align: middle;
+  margin-bottom: 0px;
+}
+
+.lineBreak {
+  display: block;
+  overflow: hidden;
+  border-top: 1px solid #ccc;
+  width: 70.521em;
+}
+
+
+/* Charted lines */
+
+.layoutBottom0 {
+  float: left;
+  margin-left: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 5px;
+  overflow: hidden;
+  width: 124px;
+  height: 1px;
+  background-color: #dddddd;
+}
+
+.layoutBottom1, .layoutBottom2, .layoutBottom3, .layoutBottom4 {
+  float: left;
+  margin-left: 5px;
+  margin-right: 6px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  overflow: hidden;
+  width: 124px;
+  height: 1px;
+  background-color: #dddddd;
+}
+
+.layoutContainerlong {
+  display: block;
+  overflow: hidden;
+  width: 70.521em;
+  float: left;
+  margin-bottom: 5px;
+  margin-top: -5px;
+}
+
+
+/* End Charted Lines */
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  .mainBrochuresContainer, .mainBrochuresContainer0, .mainBrochuresContainerSTF, .mainBrochuresContainerSTF0 {
+    margin-left: 0px;
+  }
+  .layoutBottom0 {
+    margin-left: 5px;
+  }
+}
+
+
+/* Validation box */
+
+.break {
+  margin: 0;
+  width: 100%;
+  border-top: 1px solid #CCC;
+}
+
+.catreqOrderCount {
+  margin: 20px 0 0 0;
+  width: 100%;
+  height: auto;
+  border: 1px solid #CCC;
+}
+
+.catreqOrderCount p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  font-size: 11px;
+  font-family: Verdana, sans-serif;
+}
+
+
+/* =============================================================
+==                                                              ==
+==                    NEW CATALOGUE REQUEST PAGE END              ==
+==                                                              ==
+==============================================================*/
+
+
+/*
+* Login Page CSS
+*/
+
+.formHeadline {
+  padding-top: 12px;
+}
+
+.memberBenefits ul {
+  padding: 0 0 36px 15px;
+}
+
+.loginId {
+  margin-top: 2px;
+}
+
+.loginPadd {
+  margin-top: 2px;
+}
+
+.loginPassPadd {
+  padding-bottom: 1px !important;
+}
+
+.loginCheck {
+  padding: 7px 0 11px 0;
+}
+
+.loginChkField {
+  overflow: hidden;
+}
+
+.descList ul {
+  margin-left: 1px;
+  padding: 0px 0px 33px 15px;
+}
+
+.adSearchCloudBorder .adSearchCloudLinkArea li {
+  zoom: 1;
+  display: inline;
+}
+
+
+/* Share framework css */
+
+#layoutPlugin .pluginRows li {
+  overflow: hidden;
+}
+
+#emailSharePage .content {
+  width: 205px;
+}
+
+#emailSharePage .buttonsContainer {
+  width: 200px;
+}
+
+#emailSharePage .buttonsContainer .buttonContainer a {
+  float: left;
+}
+
+#layoutPlugin .pluginRows {
+  zoom: 1;
+}
+
+#pluginPopup #layoutPlugin {
+  zoom: 1;
+}
+
+.slPopup #layoutPlugin {
+  zoom: 1;
+}
+
+#pluginOutsideBg {
+  filter: alpha(opacity=0);
+}
+
+#emailSharePage .formField input {
+  margin-bottom: 6px;
+}
+
+
+/* Share framework css */
+
+.productContainer .buttonsContainer {
+  width: 113.5px !important;
+}
+
+.productBtiBack {
+  width: 95% !important;
+}
+
+#popupContainer #poupIkeaPriceContainer a {
+  text-decoration: none !important;
+}
+
+.prodNlpTroPrice, .troDate, .popupProdUnitPrice {
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+
+#popupContainer {
+  zoom: 1 !important;
+  background-color: #ffffff !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+  padding-left: 5px !important;
+}
+
+.popupProdName, .popupProdType, .prodPrice {
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+
+#slideshowContainer .buttonsContainer .buttonContainer {
+  padding-right: 40px !important;
+  float: left !important;
+}
+
+
+/* Styles from pip_em.css starts here */
+
+#leftMainContainer .cartTxtMoreLink {
+  margin: 0.4168em 0 0.1042em 0 !important;
+}
+
+#leftMainContainer .moreModel {
+  margin-left: 4.9em !important;
+}
+
+#leftMainContainer .noMarginLeft {
+  margin-left: 0em !important;
+}
+
+.fixedRowHeight {
+  height: 4.689em !important;
+}
+
+.tNail {
+  cursor: hand !important;
+}
+
+h1 div.productType {
+  margin-bottom: 0.11em !important;
+}
+
+.productWrapper2padd {
+  padding: 0.8em 0.95em 0.9em 0.95em !important;
+}
+
+#famsection {
+  padding-bottom: 0.45em !important;
+}
+
+#prfCharge {
+  padding-bottom: 0.45em !important;
+}
+
+#prodPrice {
+  margin-bottom: -0.1042em !important;
+}
+
+.subdivpad {
+  margin: -0.2084em 0 1.5em 0 !important;
+}
+
+.rightContent .servicesContainer {
+  padding: 1.415em 0 2.620em 0.93em !important;
+}
+
+.rightNavSubContainer {
+  padding: 1.3em 1.3em 1.3em 1.56em !important;
+}
+
+#rightNavContainer .servTd {
+  margin-top: -1.3em !important;
+}
+
+#rightNavContainer .salesArguments {
+  margin: 0.55em 0 1.2em 0 !important;
+}
+
+#rightNavContainer .disclaimerPdf {
+  padding: 0.5em 0 0.45em 0 !important;
+}
+
+.errorMsgDiv {
+  width: 27.5em !important;
+}
+
+.stockSearchPaddBottom {
+  padding-bottom: 9px !important;
+}
+
+.stockChkTxt {
+  padding: 1px 0 4px 0 !important;
+}
+
+.downloadBottomPad {
+  padding-bottom: 1.2em !important;
+}
+
+#leftNavBottom .productInformationContainerBox {
+  padding: 0.521em 1.352em 0 1.56em !important;
+}
+
+.bottomRightContainer .moreProduct .moreHead {
+  margin: 0.208em 0 0.5em 0 !important;
+}
+
+.rightContent .troPrice span {
+  line-height: 14px !important;
+}
+
+
+/* Styles from pip_em.css ends here */
+
+
+/*Local price CSS start here */
+
+#localPriceHeader {
+  zoom: 1;
+}
+
+.headerOuterContainer {
+  zoom: 1;
+}
+
+#localPriceButton {
+  margin-top: -2px;
+}
+
+.localPriceContainer .formContainer select {
+  margin-top: 4px;
+}
+
+.localPriceContainer .buttonContainer {
+  margin-top: -3px;
+}
+
+.localPriceContainer .overlapNewimg {
+  margin-bottom: 0px !important;
+  position: static !important;
+}
+
+.lbContainerTopFullScrn .lbBorderFullScrn {
+  margin-bottom: 60px !important;
+}
+
+.liteboxOutsideBgFullScrn {
+  filter: alpha(opacity=40) !important;
+}
+
+.prodInfoSubSection .sc_find_it_shadow {
+  position: static !important;
+  border-right: 2px solid #CCC !important;
+  border-bottom: 2px solid #CCC !important;
+}
+
+#localPriceBti {
+  float: left;
+}
+
+#localPriceBti .localPriceBtiTop {
+  background: #ffcc00;
+  height: 6px;
+  margin-right: 6px;
+  over-flow: hidden;
+}
+
+#localPriceBti .localPriceBtiBottom {
+  background: #ff0000;
+  height: 6px;
+  margin-left: 6px;
+}
+
+#localPriceBti .localPriceBtiMid {
+  background: #ffcc00;
+  padding: 2px 12px 10px 12px;
+  background-image: url(/ms/img/btired.gif);
+  background-position: top right;
+  background-repeat: repeat-y;
+  text-align: center;
+}
+
+
+/*Local price CSS end here */
+
+.parentContainer .prevPrice {
+  margin-left: 2px;
+}
+
+
+/* Landing page IE Hacks start*/
+
+.product {
+  zoom: 1 !important;
+  z-index: 9999;
+}
+
+#prodInfoLanding .product .btiSpace {
+  clear: both;
+  padding-top: 5px !important;
+}
+
+.gridRow .imageStyle {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=125, Color='#CCCCCC')";
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=125, Color='#CCCCCC');
+}
+
+.filterBlock .productsFilter .productsFilterLinks {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=125, Color='#CCCCCC')";
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=125, Color='#CCCCCC');
+}
+
+.filterBlock {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=125, Color='#CCCCCC')";
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=125, Color='#CCCCCC');
+}
+
+.filterBlock .productsFilterButtons .active {
+  background-color: #f56426;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+.filterBlock .productsFilterColors .color {
+  border: 0;
+  width: 20px;
+  height: 20px;
+  background: #FFF url(../images/color_transp.png) no-repeat scroll 0 0;
+}
+
+.orangeBtn {
+  background-color: #d7d7d7;
+}
+
+.orangeBtn:hover {
+  background-color: #f56426;
+}
+
+.orangeBtn:active {
+  background-color: #f56426;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+.blueBtn {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e7fd5', endColorstr='#0172c9', GradientType=0);
+}
+
+.blueBtn:hover {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2495eb', endColorstr='#0274cb', GradientType=0);
+}
+
+.blueBtn:active {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0374cb', endColorstr='#1182d9', GradientType=0);
+}
+
+.greyBtn {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4', endColorstr='#eeeeee', GradientType=0);
+}
+
+.greyBtn:hover {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#e1e1e1', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+.greyBtn:active {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#fbfbfb', GradientType=0);
+}
+
+#prodInfoLanding .productLists {
+  zoom: 1 !important;
+  background-color: #fff;
+}
+
+#prodInfoLanding .productLists {
+  padding: 4px 6px 18px 8px;
+}
+
+.filterBlock .productsFilter .productsFilterOptions {
+  margin-top: 1px;
+  width: 1017px;
+  padding-bottom: 5px;
+}
+
+.filterBlock .productsFilter .productsFilterLinks ul {
+  overflow: hidden;
+}
+
+.choiceGallery .gridRow {
+  width: 102% !important;
+}
+
+.choiceGallery .gridRow ul {
+  width: 102%;
+}
+
+.filterBlock .productsFilterSortBy {
+  position: relative;
+  z-index: 10;
+}
+
+.subContainer {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 100000;
+}
+
+.choiceGallery .transperent {
+  filter: alpha(opacity=60);
+}
+
+.clearAll {
+  height: 0px;
+}
+
+.filterBlock .productsFilterButtons .active {
+  background: -ms-linear-gradient(top, #f56426 0%, #f56426 100%);
+  /* IE10+ */
+}
+
+.filterBlock .orangeBtn {
+  background: -ms-linear-gradient(top, #d7d7d7 0%, #c9c9c9 100%);
+  /* IE10+ */
+}
+
+.filterBlock .orangeBtn:hover {
+  background: -ms-linear-gradient(top, #f56426 0%, #f56426 100%);
+  /* IE10+ */
+}
+
+.allSeries .allSeriesContainer .allSeriesButton .orangeBtn {
+  background-color: #d7d7d7;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+.allSeries .allSeriesContainer:hover .allSeriesButton .orangeBtn {
+  background-color: #f56426;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+.allSeries .allSeriesButton .orangeBtn:active {
+  background-color: #f56426;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+* html .choiceGallery .positionDiv {
+  /* for IE6 */
+  display: inline;
+}
+
+* html .choiceGallery .transperent {
+  /* for IE6 */
+  position: absolute;
+  text-align: left;
+  padding-bottom: 7px;
+  padding-left: 9px;
+  padding-right: 9px;
+  background: #fff;
+  FONT-SIZE: 14px;
+  font-weight: bold;
+  padding-top: 6px;
+  filter: alpha(opacity=60);
+}
+
+.blueBtn input, .orangeBtn input {
+  line-height: 20px !important;
+}
+
+#local_shoponline div.logoContainer .buttonContainer {
+  top: -2px;
+}
+
+#local_shoponline div.logoContainer .buttonContainer a .buttonCaption {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+#local_shoponline div.logoContainer .buttonContainer a input {
+  position: relative;
+  left: 0;
+  margin: 0px auto;
+  height: 20px;
+  overflow: visible;
+}
+
+#local_shoponline div.logoContainer .buttonContainer a span input {
+  position: relative;
+  left: 0;
+  margin: 0px -4px auto;
+  height: 20px;
+  overflow: visible;
+}
+
+form#login form div.loginNamePadd label.subText, form div.loginPassPadd label.subText {
+  width: 180px;
+  padding-bottom: 5px;
+}
+
+#createUser div.buttonContainer a input, #privateUser div.buttonContainer a input, #changePassword div.buttonContainer a input, #familyUser div.buttonContainer a input, #changeUsername div.buttonContainer a input, #deleteUser div.buttonContainer a input, #shippingAddress div.buttonContainer a input, #familypreferences div.buttonContainer a input, #additionalInfo div.buttonContainer a input, {
+  margin-bottom: -10px;
+  margin-right: 0px;
+  height: 22px;
+  line-height: 22px;
+  top: -5px;
+  padding: 0px;
+}
+
+#createUser #saveButton div.buttonContainer a input {
+  margin-bottom: -10px;
+  margin-right: 0px;
+  height: 22px;
+  line-height: 22px;
+  top: -5px;
+  padding: 0px;
+}
+
+#createUser div.buttonContainer, #privateUser div.buttonContainer, #changePassword div.buttonContainer, #familyUser div.buttonContainer, #changeUsername div.buttonContainer, #deleteUser div.buttonContainer, #shippingAddress div.buttonContainer, #preferences div.buttonContainer, #familypreferences div.buttonContainer, #additionalInfo div.buttonContainer {
+  top: 0px;
+}
+
+#createUser div.buttonContainer a input.down, #privateUser div.buttonContainer a input.down, #changePassword div.buttonContainer a input.down, #familyUser div.buttonContainer a input.down, #changeUsername div.buttonContainer a input.down, #deleteUser div.buttonContainer a input.down, #shippingAddress div.buttonContainer a input.down, #preferences div.buttonContainer a input.down, #familypreferences div.buttonContainer a input.down, #additionalInfo div.buttonContainer a input.down {
+  top: -6px;
+  left: -1px;
+  right: 2px;
+  bottom: 5px;
+}
+
+#createUser .rememberMeCheckbox, #resetPassword .rememberMeCheckbox {
+  margin-top: 40px;
+}
+
+form#login div#loginFormErrorsServer {
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+}
+
+form#catreq div.buttonContainer a {
+  font-size: 1.15em;
+}
+
+form#resetPassword div.checkBoxGroupItem input {
+  border: 0px;
+}
+
+.priceFilter #warningMsg {
+  TEXT-ALIGN: right;
+  LINE-HEIGHT: 7px !important;
+  MARGIN-TOP: -9px !important;
+  MARGIN-BOTTOM: 0px !important;
+  FLOAT: none;
+  CLEAR: left;
+  RIGHT: 0px !important;
+  PADDING-TOP: 3px !important;
+}
+
+#filterImageTooltip a:hover span {
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+.allSeries .allSeriesContainer .contentDetails {
+  margin-top: 10px !important;
+}
+
+.adproductLists .gridrow {
+  overflow: visible !important;
+}
+
+.expandedview .active {
+  background-color: #f56426;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+.roomsettingexpandedhide .bottomView .hide-btn {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4', endColorstr='#eeeeee', GradientType=0);
+}
+
+.roomsettingexpandedhide .bottomView .hide-btn {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#e1e1e1', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=45, Color='#000000');
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#000000');
+}
+
+.roomsettingexpandedhide .bottomView .hide-btn {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#fbfbfb', GradientType=0);
+}
+
+.hide-btn {
+  float: left;
+  margin-left: 10px !important;
+  margin-top: 0px! important;
+}
+
+.rightLine {
+  width: 45%! important;
+}
+
+#addToCart {
+  margin-top: -7px;
+}
+
+.contentInnerArea .formField .buttonContainer .buttonCaption input {
+  height: 13px;
+  margin-top: 1px;
+}
+
+.marginForCartConatiner {
+  padding: 9px 1.25em 4px !important;
+}
+
+#liteboxBg {
+  position: absolute;
+  z-index: 100;
+  background-color: #FFF;
+  overflow: auto;
+  height: 360px;
+  width: 640px;
+}
+
+.choiceGallery .shareMPAContainer {
+  width: 90%;
+}
+
+
+/*roomset*/
+
+.newRoomsetContainer {
+  margin-top: -2px;
+  margin-bottom: 64px;
+}
+
+.galleryContainer {
+  margin-top: -5px;
+}
+
+.roomsettingdetailsjsenabled {
+  margin-bottom: 12px !important;
+}
+
+.roomsettingdetailsjsdisabled {
+  margin-bottom: 12px !important;
+}
+
+#allContent #mainPadding #main div.galleryRow * {
+  zoom: 0;
+}
+
+
+/*--Courosil.css : START--*/
+
+.corrosilnavigatingarrow {
+  filter: alpha(opacity=80);
+}
+
+.corrosilnavigatingarrow:hover {
+  filter: alpha(opacity=100);
+}
+
+
+/*--Courosil.css : END--*/
+
+#hotAreaToolTip.product .productDetails .redPrice {
+  margin-top: -5px;
+}
+
+#back-hov {
+  filter: alpha(opacity=90);
+  cursor: hand;
+}
+
+#back-top {
+  filter: alpha(opacity=40);
+}
+
+.contentArea .formField .checkBoxContainer {
+  float: left;
+}
+
+
+/** new forms impl */
+
+#allContent #mainPadding #main div {
+  /**	zoom: 1 ; */
+}
+
+#allContent #mainPadding #main div.buttonContainer * {
+  zoom: 0;
+}
+
+div.buttonWrapper input[type=button], div.buttonWrapper input[type=submit] {
+  width: auto;
+  overflow: visible;
+}
+
+.contentArea table {
+  *border-collapse: expression('separate', cellSpacing='20px');
+}
+
+
+/* IB join banner */
+
+#ppContentContainer #adContentLP .ppRightAd {
+  color: #666666;
+  font-weight: bold;
+  margin: 0;
+  width: 50%;
+  text-align: left;
+  overflow: visible;
+  display: inline;
+}
+
+
+/** 5.19 fix for IE **/
+
+.bottomMargin~.bottomMargin {
+  margin-bottom: 8px;
+}
+
+.prodStyle3_B .familyOfferPriceDate {
+  margin: 1px 0 6px !important;
+  /*ie8 n below*/
+}
+
+.prodStyle1_B .familyOfferPriceDate {
+  margin: 2px 0 6px !important;
+  /*firefox*/
+}
+
+.productDetails a div.familyOfferPriceDate {
+  margin: 3px 0 0px !important;
+}
+
+form .formField .primary.noshow {
+  display: none;
+  position: relative;
+}
+
+#beginCheckout #totalValue .VATinforContainer {
+  margin-left: 10px;
+}
+
+#ppContentContainer #adContentLP .upgradeBusinessFamily {
+  margin-top: 9px;
+}
+
+#completeProdContainer .soldSeparately {
+  color: #999999;
+  font-size: 11px;
+  font-style: italic;
+  line-height: 12px;
+  padding-top: 0px;
+}
+
+#topNavigation {
+  font-size: 0;
+  overflow: hidden;
+  width: 100%;
+  margin: 0 0 46px 0px !important;
+}
+
+.gridRow.headThreeGray {
+  line-height: 45px;
+}
+
+div.lessprf {
+  position: absolute;
+}
+
+.floatRight .orangeBtn {
+  padding-top: 15px;
+  padding-left: 20px;
+}
+
+
+/**BV  R&R IE9 emulation */
+
+.divPopupMid {
+  padding-left: 5px;
+}
+
+
+/*.ratingsCount {margin-left: 10px !important;}
+/**** rating stars large hack for IE ****/
+
+
+/**
+/**** rating stars small hack for IE ***
+.ratingStarsOffSmall {
+    font-size: 16px;
+}
+.ratingStarsOnSmall {
+    margin-top: -19px;
+    font-size: 16px;
+}
+.ratingStarsContainerSmall {
+    margin-top: 0px;
+    margin-bottom: 3px;
+	width:80px !important;
+}
+/**** rating in mini popup ****
+#popupContainer .ratingStarsContainer .ratingStarsOffLarge {
+    font-size: 16px;
+}
+#popupContainer .ratingStarsContainer .ratingStarsOnLarge {
+    margin-top: -20px;
+    font-size: 16px;
+}
+#popupContainer .ratingStarsContainer  {
+    width: 80px !important;
+}
+#popupContainer .ratingsCountContainer{
+    margin-top: -16px;
+	margin-left: 5px !important;
+}
+/*** slideshow **
+#slideshowContainer .prodInfo .ratingStarsContainer {
+	margin-top: -5px !important;
+}
+
+/***slide showw from pip ***
+.prodInfo  .ratingStarsContainer .ratingStarsOnLarge{
+	margin-top: -18px !important;
+}
+.prodInfo  .ratingStarsContainer .ratingsCountContainer{
+	margin-top: -22px !important;
+}
+/***slide showw from search ***
+
+#productDisplay .prodInfo .ratingStarsContainer .ratingStarsOnLarge{
+	margin-top: -22px !important;
+}
+#slideshowContainer .prodInfo .ratingsCountContainer {
+	margin-top: -17px !important;
+	font:11px !important;
+}
+/*** search *****
+
+.cartContainer  {
+	margin-top:5px !important;
+}
+
+.cartContainer  .ratingStarsContainer {
+	margin-bottom:5px !important;
+
+}
+.cartContainer  .ratingStarsContainer .ratingStarsOffLarge{
+	margin-top: 2px !important;
+
+
+}
+.cartContainer  .ratingStarsContainer .ratingStarsOnLarge{
+	margin-top: -18px !important;
+	margin-bottom: 0px !important;
+}
+
+.cartContainer  .ratingsCountContainer{
+    margin-top: -22px;
+	margin-left: 10px !important;
+	font-size: 11px;
+	margin-bottom:5px !important;
+	clear:both !important;
+}
+/**** compare ****
+.productPadding  {
+	margin-top:4px !important;
+
+}
+
+.productPadding  .ratingStarsContainer {
+	margin-bottom:5px !important;
+
+}
+.productPadding  .ratingStarsContainer .ratingStarsOffLarge{
+	margin-top: 10px !important;
+
+
+}
+.productPadding  .ratingStarsContainer .ratingStarsOnLarge{
+	margin-top: -18px !important;
+	margin-bottom: 0px !important;
+}
+
+.productPadding  .ratingsCountContainer{
+    margin-top: -22px;
+	margin-left: 10px !important;
+	font-size: 11px;
+	margin-bottom:5px !important;
+	clear:both !important;
+}
+
+/***roomsettig **
+.productDetails .moreInfo .ratingStarsContainer .ratingStarsOnLarge {
+    margin-top: -18px !important;
+}
+
+**/
+
+.ratingStarsOffLarge {
+  font-size: 21px;
+}
+
+.ratingStarsOnLarge {
+  font-size: 21px;
+  margin-top: -25px;
+}
+
+.ratingsContainer {
+  width: 120px;
+  margin-top: 2px;
+}
+
+.ratingsContainerLightbox {
+  width: 130px;
+  margin-bottom: -5px;
+  margin-top: 0px;
+}
+
+.ratingStarsOnLargeLightbox {
+  font-size: 23px;
+  margin-top: -28px;
+}
+
+.hiddenSection .ratingsContainer {
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+.ratingStarsOffLargeLightbox {
+  font-size: 23px;
+}
+
+
+/****mini pip ***/
+
+.txtPriceFamily .hiddenSection {
+  margin-top: -9px !important;
+}
+
+.productDetails .moreInfo .ratingsContainer .ratingStarsContainer .ratingStarsOnLarge {
+  margin-top: -25px !important;
+}
+
+.productDetails .moreInfo .ratingsContainer {
+  margin-top: -7px !important;
+  margin-bottom: 3px !important;
+}
+
+.productPadding .ratingsContainer .ratingStarsContainer .ratingStarsOnLarge {
+  margin-top: -25px !important;
+}
+
+.productPadding .ratingsContainer {
+  margin-top: 7px !important;
+  margin-bottom: 3px !important;
+}
+
+.prodInfo .ratingsContainerLightbox {
+  margin-bottom: 5px !important;
+}

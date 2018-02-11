@@ -1,0 +1,4743 @@
+.topMenu {
+  width: 100%
+}
+
+#menu .mainMenu {
+  background: #0051ba url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -297px;
+  padding: 0;
+  white-space: nowrap;
+  width: 100%
+}
+
+#menu .mainMenu .tableContainer {
+  width: 100%
+}
+
+#menu .mainMenu table {
+  width: 100%
+}
+
+#topNavigation {
+  font-family: Verdana;
+  display: block;
+  margin: 0 0 46px 0;
+  color: #333
+}
+
+#topNavigation .departmentName {
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding-right: 5px;
+  margin-top: 5px
+}
+
+#topNavigation .departmentName h1 {
+  font-size: 12px;
+  letter-spacing: 2px;
+  margin-top: 5px;
+  padding-right: 5px;
+  text-transform: uppercase;
+  font-weight: normal
+}
+
+#topNavigation .departmentName a {
+  color: #333
+}
+
+#topNavigation .departmentName a:hover {
+  text-decoration: underline
+}
+
+#topNavigation .departmentName .colon {
+  letter-spacing: 0!important;
+  display: inline
+}
+
+#topNavigation ul {
+  list-style: none;
+  line-height: 18px;
+  letter-spacing: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 1.15em;
+  font-size: 12px;
+  display: inline
+}
+
+#topNavigation li {
+  margin: 0;
+  padding: 0;
+  display: inline
+}
+
+#topNavigation li a {
+  color: #333
+}
+
+#topNavigation li.divider {
+  padding: 0 5px 0 5px;
+  color: #CCC;
+  font-weight: normal
+}
+
+#topNavigation li h1 {
+  display: inline;
+  font-size: 12px;
+  letter-spacing: -1px;
+  line-height: 18px;
+  font-weight: bold
+}
+
+#topNavigation li.activeLink a {
+  color: #f57129;
+  font-weight: bold
+}
+
+#topNavigation .departmentLinks {
+  overflow: visible
+}
+
+#topNavigation li {
+  margin-top: 5px!important
+}
+
+div#topNavigation:empty {
+  margin: 0 0 43px 0;
+  min-height: 1px
+}
+
+.inactive-color {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 0 5px
+}
+
+.active-color {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 0 5px
+}
+
+a.color-beige {
+  background-color: #F5F5DC;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-lilac {
+  background-color: #C8A2C8;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-grey {
+  background-color: #808080;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-blue {
+  background-color: #00F;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-brown {
+  background-color: #8B4513;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-green {
+  background-color: #008000;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-yellow {
+  background-color: #FF0;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-orange {
+  background-color: #FFA500;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-pink {
+  background-color: #FFC0CB;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-red {
+  background-color: #F00;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-black {
+  background-color: #000;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-turquoise {
+  background-color: #40E0D0;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-white {
+  background-color: #FFF;
+  box-shadow: 0 0 1px #000
+}
+
+a.color-othercolors {
+  background-image: url(http://www.ikea.com/ms/img/filter/othercolors.png);
+  box-shadow: 0 0 1px #000
+}
+
+a.color-othercolors.active-color {
+  background-image: url(http://www.ikea.com/ms/img/filter/active_othercolors.png)
+}
+
+a.color-gray {
+  background-color: #808080;
+  box-shadow: 0 0 1px #000
+}
+
+#allContent #mainPadding #main {
+  Width: 1060px;
+  overflow: visible!important
+}
+
+.clearGrid {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0
+}
+
+.clearAll {
+  clear: both
+}
+
+.floatLeft {
+  float: left
+}
+
+.floatRight {
+  float: right
+}
+
+#mainPadding .gridRow {
+  max-width: 1060px;
+  margin: 0 0 20px 0;
+  overflow: hidden;
+  border: 0;
+  font-family: Verdana;
+  color: #333;
+  width: 100%
+}
+
+.oneColumn, .twoColumn, .threeColumn, .fourColumn, .fiveColumn, .sixColumn, .sevenColumn, .eightColumn, .nineColumn, .tenColumn, .elevenColumn, .twelveColumn {
+  display: inline;
+  float: left;
+  border: 0;
+  padding: 0;
+  margin-right: 1.853%
+}
+
+.gridRow .oneColumn {
+  width: 6.605%
+}
+
+.gridRow .twoColumn {
+  width: 15.095%;
+  word-wrap: break-word
+}
+
+.gridRow .threeColumn {
+  width: 23.585%
+}
+
+.gridRow .fourColumn {
+  width: 32.077%;
+  overflow: visible!important
+}
+
+.gridRow .fiveColumn {
+  width: 40.567%
+}
+
+.gridRow .sixColumn {
+  width: 49.000%
+}
+
+.gridRow .sevenColumn {
+  width: 57.548%
+}
+
+.gridRow .eightColumn {
+  width: 66.038%
+}
+
+.gridRow .nineColumn {
+  width: 74.529%
+}
+
+.gridRow .tenColumn {
+  width: 83.02%
+}
+
+.gridRow .elevenColumn {
+  width: 91.51%
+}
+
+.gridRow .twelveColumn {
+  width: 100%
+}
+
+.gridRow .lastColumn {
+  margin-right: 0
+}
+
+.gridRow .removeMargin {
+  margin-right: 0;
+  margin-left: 1.853%
+}
+
+.gridRow .firstColumn {
+  margin-left: 0
+}
+
+.gridRow h1, .gridRow h2 {
+  margin: 0
+}
+
+.gridRow .categoryGray {
+  padding-bottom: 2px;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333;
+  font-weight: normal
+}
+
+.gridRow .categoryGray h1 {
+  font-size: 12px;
+  font-weight: normal;
+  letter-spacing: 2px;
+  margin: 0
+}
+
+.gridRow .categoryWhite {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  padding-bottom: 2px
+}
+
+.gridRow .categoryWhite h1 {
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin: 0
+}
+
+.gridRow .headZeroGray {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  height: auto!important
+}
+
+.gridRow .headZeroWhite {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  color: #fff
+}
+
+.gridRow .headZeroGray a {
+  font-weight: normal
+}
+
+.gridRow .headZeroWhite a {
+  font-weight: normal
+}
+
+.gridRow .headOneGray {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 20px;
+  height: auto!important;
+  letter-spacing: -1px;
+  margin: 0 0 13px 0
+}
+
+.gridRow .headOneWhite {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: -1px;
+  color: #fff;
+  margin: 0 0 13px 0
+}
+
+.gridRow .headTwoGray {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  height: auto!important;
+  letter-spacing: -1px;
+  padding-top: 0!important;
+  margin: 0 0 13px 0
+}
+
+.gridRow .headTwoWhite {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: -1px;
+  color: #fff;
+  margin: 0;
+  margin: 0 0 11px 0
+}
+
+.gridRow .headThreeGray {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 45px;
+  letter-spacing: -2px;
+  height: auto!important;
+  margin: 0 0 20px
+}
+
+.gridRow .headThreeWhite {
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: -2px;
+  color: #fff
+}
+
+.gridRow .headFourGray {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  height: auto!important;
+  letter-spacing: -1px
+}
+
+.gridRow .headFourWhite {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: -1px;
+  color: #fff
+}
+
+.gridRow .bodyTextGray {
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0;
+  margin: 0 0 11px 0
+}
+
+.gridRow .bodyTextWhite {
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0;
+  color: #fff;
+  margin: 0 0 11px 0
+}
+
+.gridRow .bodyTextGray a, .gridRow .bodyTextWhite a {
+  color: #0269ce
+}
+
+.gridRow .bodyTextGray a:hover, .gridRow .bodyTextWhite a:hover {
+  color: #0269ce
+}
+
+.gridRow .imageStyle {
+  margin-bottom: 3px;
+  box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.3);
+  border: 1px solid #fff
+}
+
+.gridRow .copyTextGray {
+  font-size: 11px
+}
+
+ul {
+  margin: 0;
+  padding: 0
+}
+
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0
+}
+
+.gridRow .gridComponent {
+  position: relative
+}
+
+.gridRow .gridComponent dl {
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  position: absolute
+}
+
+.gridRow .gridComponent .productDetails {
+  text-align: left;
+  display: block
+}
+
+.gridRow .gridComponent .seoProduct .productDetails {
+  float: left
+}
+
+.gridRow .gridComponent a .productTitle {
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 12px;
+  text-transform: uppercase;
+  float: left;
+  letter-spacing: -1px
+}
+
+.gridRow .gridComponent a .productDesp {
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 15px;
+  clear: left;
+  letter-spacing: 0;
+  letter-spacing: -1px
+}
+
+.gridRow .gridComponent a:hover .productTitle, .gridRow .gridComponent a:hover .productDesp {
+  text-decoration: underline
+}
+
+.gridRow .gridComponent a .prodFamily {
+  clear: both;
+  color: #F56526;
+  font-size: 10px;
+  line-height: 16px;
+  font-weight: bold
+}
+
+.gridRow .gridComponent .prodStyle1_W a {
+  color: #fff;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle1_W a .prodPrice, .gridRow .gridComponent .prodStyle1_B a .prodPrice {
+  font-size: 18px;
+  line-height: 20px
+}
+
+.gridRow .gridComponent .prodStyle1_B a {
+  color: #000;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle1_B a .prodType, .gridRow .gridComponent .prodStyle1_W a .prodType {
+  font-size: 12px;
+  margin-left: 5px
+}
+
+.gridRow .gridComponent .prodStyle2_W a {
+  color: #fff;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle2_W a .prodPrice, .gridRow .gridComponent .prodStyle2_B a .prodPrice {
+  font-size: 24px;
+  line-height: 26px
+}
+
+.gridRow .gridComponent .prodStyle2_B a {
+  color: #000;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle2_B a .prodType, .gridRow .gridComponent .prodStyle2_W a .prodType {
+  font-size: 12px;
+  margin-left: 5px
+}
+
+.gridRow .gridComponent .prodStyle3_W a {
+  color: #fff;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle3_W a .prodPrice, .gridRow .gridComponent .prodStyle3_B a .prodPrice {
+  font-size: 36px;
+  line-height: 38px
+}
+
+.gridRow .gridComponent .prodStyle3_B a {
+  color: #000;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle3_B a .prodType, .gridRow .gridComponent .prodStyle3_W a .prodType {
+  font-size: 18px;
+  margin-left: 5px
+}
+
+.gridRow .gridComponent .prodStyle4_B a {
+  font-weight: bold;
+  font-size: 12px;
+  color: #000;
+  text-align: left;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle4_W a {
+  font-weight: bold;
+  font-size: 12px;
+  color: #fff;
+  text-align: left;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle4_B a .prodPrice, .gridRow .gridComponent .prodStyle4_W a .prodPrice {
+  font-size: 48px;
+  line-height: 50px;
+  letter-spacing: -2px
+}
+
+.gridRow .gridComponent .prodStyle4_B a .prodType, .gridRow .gridComponent .prodStyle4_W a .prodType {
+  font-size: 24px;
+  margin-left: 5px;
+  letter-spacing: -1px
+}
+
+.gridRow .gridComponent .prodStyle5_B a {
+  font-weight: bold;
+  font-size: 12px;
+  color: #000;
+  text-align: left;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle5_W a {
+  font-weight: bold;
+  font-size: 12px;
+  color: #fff;
+  text-align: left;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle5_B a .prodPrice, .gridRow .gridComponent .prodStyle5_W a .prodPrice {
+  font-size: 60px;
+  line-height: 63px;
+  letter-spacing: -3px
+}
+
+.gridRow .gridComponent .prodStyle5_B a .prodType, .gridRow .gridComponent .prodStyle5_W a .prodType {
+  font-size: 30px;
+  margin-left: 5px;
+  letter-spacing: -1px
+}
+
+.gridRow .gridComponent .prodStyle6_W a {
+  color: #fff;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle6_W a .prodPrice, .gridRow .gridComponent .prodStyle6_B a .prodPrice {
+  font-size: 14px;
+  line-height: 16px
+}
+
+.gridRow .gridComponent .prodStyle6_B a {
+  color: #000;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle6_B a .prodType, .gridRow .gridComponent .prodStyle6_W a .prodType {
+  font-size: 10px;
+  margin-left: 5px
+}
+
+.gridRow .gridComponent .prodStyle0_W a {
+  color: #fff;
+  text-align: left;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle0_W a .prodPrice, .gridRow .gridComponent .prodStyle0_B a .prodPrice {
+  font-size: 14px;
+  line-height: 20px
+}
+
+.gridRow .gridComponent .prodStyle0_B a {
+  color: #000;
+  text-align: left;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: -1px;
+  cursor: pointer
+}
+
+.gridRow .gridComponent .prodStyle0_B a .prodType, .gridRow .gridComponent .prodStyle0_W a .prodType {
+  font-size: 14px;
+  margin-left: 5px
+}
+
+.gridRow .gridComponent .plainTxt {
+  font-size: 14px;
+  color: #999
+}
+
+.gridRow .gridComponent a {
+  color: #0269ce;
+  text-decoration: none
+}
+
+.gridRow .gridComponent .productDetails .priceNote {
+  font-size: 12px;
+  line-height: 14px;
+  font-style: italic;
+  font-weight: normal;
+  clear: left;
+  line-height: 14px
+}
+
+.gridRow .gridComponent .productDetails .newImgSmall {
+  height: auto!important;
+  left: 0;
+  position: absolute;
+  top: -22px;
+  width: auto!important;
+  z-index: 1000
+}
+
+.gridRow .gridComponent .seoProduct .productDetails .newImgSmall {
+  position: relative;
+  top: 0;
+  padding-bottom: 2px;
+  padding-top: 0
+}
+
+.gridRow .gridComponent .productDetails .btiSpace {
+  clear: both;
+  padding-top: 9px!important
+}
+
+.gridRow .gridComponent .productDetails .strikePrice {
+  text-decoration: line-through;
+  margin-left: 5px;
+  float: left;
+  font-weight: bold
+}
+
+.gridRow .gridComponent .productDetails .regularPrice .strikePrice {
+  margin-left: 0
+}
+
+.gridRow .gridComponent .productDetails .productBtiBack {
+  margin: 0 0 6px 4px;
+  float: left
+}
+
+.gridRow .gridComponent .productDetails .productBtiFront {
+  left: -3px;
+  top: -3px;
+  margin: 0;
+  padding: 8px 10px;
+  text-align: center
+}
+
+.gridRow .gridComponent .productDetails .price {
+  clear: left;
+  font-weight: bold;
+  text-decoration: none
+}
+
+.gridRow .gridComponent .productDetails .regularPrice .price {
+  float: left;
+  font-weight: normal;
+  text-decoration: none;
+  clear: none
+}
+
+.gridRow .gridComponent .productDetails .redPrice {
+  color: #c00!important
+}
+
+.gridRow .gridComponent .productDetails .productWidth {
+  display: block;
+  width: 100%;
+  word-wrap: normal;
+  clear: both
+}
+
+.gridRow .gridComponent .productDetails .regularPriceHead {
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: normal
+}
+
+.gridRow .gridComponent .productDetails .regularPrice {
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 14px
+}
+
+.gridRow .gridComponent .productDetails .prodType {
+  display: inline;
+  margin-left: 0!important
+}
+
+.gridRow .gridComponent .productDetails .regularPrice .prodType {
+  font-size: 12px
+}
+
+.gridRow .gridComponent .productDetails .strikePrice .prodType {
+  text-decoration: none
+}
+
+.gridRow .gridComponent .productDetails .prodPrice .regularPrice {
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: normal
+}
+
+.gridRow .gridComponent .productDetails .prodPrice .regularPrice .prodType {
+  font-size: 12px;
+  font-weight: normal
+}
+
+.gridRow .gridComponent .productDetails .overlapNewimg {
+  padding-bottom: 4px
+}
+
+.gridRow .gridComponent .productDetails .lightSourceInfoDiv {
+  font-size: 8px;
+  font-weight: normal;
+  line-height: 12px;
+  text-align: left
+}
+
+.gridRow .gridComponent .productDetails .lightSourceInfoDiv a {
+  clear: both;
+  color: #0269CE;
+  font-size: 8px;
+  font-weight: normal;
+  line-height: 12px
+}
+
+.gridRow .gridComponent .productDetails .familyRegularPrice {
+  font-size: 14px;
+  line-height: 14px
+}
+
+.gridRow .gridComponent .productDetails .familyRegularPrice .prodType {
+  font-size: 10px
+}
+
+.gridRow .gridComponent .lightSourceInfoDiv {
+  width: 250px;
+  word-wrap: normal;
+  font-size: 8px;
+  line-height: 12px;
+  clear: left;
+  text-align: left
+}
+
+.gridRow .gridComponent .lightSourceInfoDiv a {
+  color: #0269CE;
+  font-size: 8px;
+  font-weight: normal;
+  line-height: 10px
+}
+
+.gridRow .gridComponent #prfCharge {
+  font-size: 12px;
+  line-height: 14px;
+  width: 250px;
+  text-align: left;
+  clear: left
+}
+
+.gridRow .gridComponent #prfCharge .prfcontainer {
+  margin: 0
+}
+
+.gridRow .gridComponent #prfCharge .prfcontainer a {
+  color: #0269CE
+}
+
+.prodStyle1_W .lightSourceInfoDiv, .prodStyle2_W .lightSourceInfoDiv, .prodStyle3_W .lightSourceInfoDiv, .prodStyle4_W .lightSourceInfoDiv, .prodStyle5_W .lightSourceInfoDiv, .prodStyle1_W #prfCharge, .prodStyle2_W #prfCharge, .prodStyle3_W #prfCharge, .prodStyle4_W #prfCharge, .prodStyle5_W #prfCharge, .prodStyle6_W .lightSourceInfoDiv, .prodStyle6_W #prfCharge {
+  color: #fff
+}
+
+.prodStyle1_B .lightSourceInfoDiv, .prodStyle2_B .lightSourceInfoDiv, .prodStyle3_B .lightSourceInfoDiv, .prodStyle4_B .lightSourceInfoDiv, .prodStyle5_B .lightSourceInfoDiv, .prodStyle1_B #prfCharge, .prodStyle2_B #prfCharge, .prodStyle3_B #prfCharge, .prodStyle4_B #prfCharge, .prodStyle5_B #prfCharge, .prodStyle6_B .lightSourceInfoDiv, .prodStyle6_B #prfCharge {
+  color: #000
+}
+
+#readMorDiv {
+  width: 1099px;
+  float: left
+}
+
+#readMorDiv .lbBorderFullScrn {
+  width: 1080px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  height: 450px;
+  overflow: hidden;
+  float: left;
+  padding-bottom: 20px
+}
+
+#readMorDiv .lbBorderFullScrn .lbContentContainerFullScrn {
+  padding: 47px 10px 20px
+}
+
+.scrollBackground {
+  position: absolute;
+  right: 1px;
+  text-align: center;
+  height: 100%;
+  width: 8px;
+  background-color: #ccc;
+  border-radius: 4px 4px 4px 4px;
+  top: 0;
+  float: left;
+  margin-top: 100px;
+  height: 450px
+}
+
+.scrollHandle {
+  background-color: #333;
+  height: 50px;
+  width: 10px;
+  border-radius: 4px 4px 4px 4px;
+  border: 1px solid #999;
+  margin-left: -2px;
+  cursor: pointer
+}
+
+.scrollBackground {
+  position: absolute;
+  right: 5px;
+  text-align: center;
+  height: 100%;
+  width: 8px;
+  background-color: #ccc;
+  border-radius: 4px 4px 4px 4px;
+  top: 0;
+  float: left;
+  margin-top: 100px;
+  height: 450px
+}
+
+.scrollHandle {
+  background-color: #333;
+  height: 50px;
+  width: 10px;
+  border-radius: 4px 4px 4px 4px;
+  border: 1px solid #999;
+  margin-left: -2px;
+  cursor: pointer
+}
+
+#readMorDiv .gridRow .gridComponent {
+  overflow: hidden
+}
+
+#readMorDiv #readMoreMainImgContainer {
+  height: 400px;
+  overflow: hidden;
+  position: relative
+}
+
+.hideBtnContent {
+  border-top: 1px solid #DDD;
+  padding-top: 20px
+}
+
+.hide-btn {
+  font-family: Verdana;
+  font-size: 12px;
+  color: #333;
+  text-shadow: 0 -1px 0 rgba(204, 204, 204, 0.2), 0px 1px 0 rgba(255, 255, 255, 0.2);
+  letter-spacing: 2px;
+  display: inline-block;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 1;
+  width: auto;
+  position: relative;
+  padding: 5px 30px;
+  border: none;
+  background: -moz-linear-gradient(top, #f4f4f4 0, #eee);
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: -1%
+}
+
+.hide-btn:hover {
+  background: -moz-linear-gradient(top, #fbfbfb 0, #e1e1e1)
+}
+
+.hide-btn:active {
+  background: -moz-linear-gradient(top, #f2f2f2 0, #fbfbfb);
+  border: 0 solid #000
+}
+
+.bottomView {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px
+}
+
+.leftLine {
+  border-bottom: 1px solid #DDD;
+  width: 44%
+}
+
+.rightLine {
+  border-bottom: 1px solid #DDD;
+  width: 44%
+}
+
+#readMorDiv #lbCloseBtn {
+  background-image: none;
+  height: auto;
+  color: #0269CE;
+  right: 10px;
+  top: 17px;
+  width: auto
+}
+
+.gridRow .gridComponent .productDetails .insteadOf {
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 14px;
+  clear: left
+}
+
+.toolTipClass {
+  display: none
+}
+
+#hotAreaToolTip {
+  font-size: 12px;
+  float: left;
+  color: #333;
+  padding: 6px 0;
+  background-color: #fff;
+  width: 100%
+}
+
+#hotAreaToolTip.product {
+  padding: 6px
+}
+
+#hotAreaToolTip .productTitle {
+  font-weight: bold;
+  text-transform: uppercase;
+  display: inline
+}
+
+#hotAreaToolTip .prodPrice {
+  font-weight: bold;
+  margin-left: 4px;
+  display: inline
+}
+
+#hotAreaToolTip .productDesp {
+  display: inline;
+  margin-right: 5px
+}
+
+#hotAreaToolTip.product .productDetails {
+  text-align: left;
+  display: block;
+  float: none
+}
+
+#hotAreaToolTip.product .productTitle {
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 12px;
+  text-transform: uppercase;
+  float: left;
+  letter-spacing: -1px;
+  display: block
+}
+
+#hotAreaToolTip.product .productDesp {
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 12px;
+  clear: left;
+  letter-spacing: -1px;
+  margin-right: 5px
+}
+
+#hotAreaToolTip.product .prodFamily {
+  clear: both;
+  color: #F56526;
+  font-size: 10px;
+  line-height: 16px;
+  font-weight: bold
+}
+
+#hotAreaToolTip.product .productDetails .priceNote {
+  font-size: 12px;
+  line-height: 14px;
+  font-style: italic;
+  font-weight: normal;
+  clear: left
+}
+
+#hotAreaToolTip.product .productDetails .newImgSmall {
+  height: auto!important;
+  left: 0;
+  position: absolute;
+  top: -18px;
+  width: auto!important;
+  z-index: 1000
+}
+
+#hotAreaToolTip.product .productDetails .btiSpace {
+  clear: both;
+  padding-top: 9px!important
+}
+
+#hotAreaToolTip.product .productDetails .strikePrice {
+  text-decoration: line-through;
+  margin-left: 5px;
+  float: left
+}
+
+#hotAreaToolTip.product .productDetails .productBtiBack {
+  margin: 0 0 0 4px;
+  float: left
+}
+
+#hotAreaToolTip.product .productDetails .productBtiFront {
+  left: -3px;
+  margin: 0;
+  padding: 8px 10px;
+  text-align: center;
+  top: -3px
+}
+
+#hotAreaToolTip.product .productDetails .price {
+  clear: left;
+  font-weight: bold;
+  text-decoration: none
+}
+
+#hotAreaToolTip.product .productDetails .redPrice {
+  color: #F33E20!important
+}
+
+#hotAreaToolTip.product .productDetails .regularPriceHead {
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: normal
+}
+
+#hotAreaToolTip.product .productDetails .regularPrice {
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 14px
+}
+
+#hotAreaToolTip .productDetails .prodType {
+  display: inline
+}
+
+#hotAreaToolTip.product .productDetails .prodType {
+  display: inline
+}
+
+#hotAreaToolTip.product .productDetails .regularPrice .prodType {
+  font-size: 12px
+}
+
+#hotAreaToolTip.product .productDetails .strikePrice .prodType {
+  text-decoration: none
+}
+
+#hotAreaToolTip.product .productDetails .prodPrice .regularPrice {
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: normal
+}
+
+#hotAreaToolTip.product .productDetails .prodPrice .regularPrice .prodType {
+  font-size: 12px;
+  font-weight: normal
+}
+
+#hotAreaToolTip.product .productDetails .overlapNewimg {
+  padding-bottom: 4px
+}
+
+#hotAreaToolTip.product .productDetails .lightSourceInfoDiv {
+  font-size: 8px;
+  font-weight: normal;
+  line-height: 12px;
+  text-align: left
+}
+
+#hotAreaToolTip.product .productDetails .lightSourceInfoDiv a {
+  clear: both;
+  color: #0269CE;
+  font-size: 8px;
+  font-weight: normal;
+  line-height: 12px
+}
+
+#hotAreaToolTip.product .productDetails .familyRegularPrice {
+  font-size: 14px;
+  line-height: 14px
+}
+
+#hotAreaToolTip.product .productDetails .familyRegularPrice .prodType {
+  font-size: 10px
+}
+
+#hotAreaToolTip.product .lightSourceInfoDiv {
+  width: 250px;
+  word-wrap: normal;
+  font-size: 8px;
+  line-height: 12px;
+  clear: left;
+  text-align: left
+}
+
+#hotAreaToolTip.product .lightSourceInfoDiv a {
+  color: #0269CE;
+  font-size: 8px;
+  font-weight: normal;
+  line-height: 10px
+}
+
+#hotAreaToolTip.product #prfCharge {
+  font-size: 12px;
+  line-height: 14px;
+  width: 250px;
+  text-align: left;
+  clear: left
+}
+
+#hotAreaToolTip.product #prfCharge .prfcontainer {
+  margin: 0
+}
+
+#hotAreaToolTip.product #prfCharge .prfcontainer a {
+  color: #0269CE
+}
+
+#hotAreaToolTip .productDetails .prodPrice {
+  display: block;
+  font-weight: bold
+}
+
+#hotAreaToolTip.product .prodPrice {
+  display: block;
+  font-size: 18px;
+  margin: 0
+}
+
+#hotAreaToolTip.product .unitMeasure .price {
+  display: inline
+}
+
+#hotAreaToolTip.product .prodPrice .unitMeasure {
+  letter-spacing: -1px
+}
+
+.gridRow .gridComponent .unitMeasure {
+  display: block;
+  font-weight: normal;
+  letter-spacing: -1px;
+  text-transform: capitalize
+}
+
+.gridRow .gridComponent .unitMeasure .price {
+  clear: none;
+  display: inline;
+  font-weight: bold;
+  float: none!important
+}
+
+.gridRow .gridComponent .productDetails .productBtiFront .unitMeasure {
+  font-size: 10px;
+  line-height: 10px;
+  text-align: left
+}
+
+.gridRow .gridComponent .productDetails .familyRegularPrice .unitMeasure {
+  font-size: 10px;
+  line-height: 12px
+}
+
+.gridRow .gridComponent .productDetails .regularPrice .unitMeasure {
+  font-size: 10px;
+  line-height: 12px
+}
+
+.gridRow .gridComponent .prodStyle3_W a .prodPrice .unitMeasure, .gridRow .gridComponent .prodStyle3_B a .prodPrice .unitMeasure {
+  font-size: 12px;
+  line-height: 14px
+}
+
+.gridRow .gridComponent .prodStyle4_W a .prodPrice .unitMeasure, .gridRow .gridComponent .prodStyle4_B a .prodPrice .unitMeasure {
+  font-size: 14px;
+  line-height: 18px
+}
+
+.gridRow .gridComponent .prodStyle2_W a .prodPrice .unitMeasure, .gridRow .gridComponent .prodStyle2_B a .prodPrice .unitMeasure, .gridRow .gridComponent .prodStyle1_W a .prodPrice .unitMeasure, .gridRow .gridComponent .prodStyle1_B a .prodPrice .unitMeasure {
+  font-size: 12px;
+  line-height: 14px
+}
+
+.gridRow .gridComponent .prodStyle5_W a .prodPrice .unitMeasure, .gridRow .gridComponent .prodStyle5_B a .prodPrice .unitMeasure {
+  font-size: 18px;
+  line-height: 24px
+}
+
+.gridRow .gridComponent .prodStyle6_W a .prodPrice .unitMeasure, .gridRow .gridComponent .prodStyle6_B a .prodPrice .unitMeasure {
+  font-size: 10px;
+  line-height: 10px
+}
+
+.gridRow .gridComponent .productDetails .unitMeasure .strikePrice {
+  float: none;
+  margin-left: 0;
+  text-decoration: line-through!important
+}
+
+#guranteeLogo {
+  display: block;
+  position: absolute
+}
+
+#guranteeLogo #logo {
+  float: left
+}
+
+#guaranteeContent {
+  float: left;
+  color: #333
+}
+
+.guaranteeHeadline {
+  font-size: 12px;
+  letter-spacing: 2px;
+  padding-bottom: 3px;
+  text-transform: uppercase
+}
+
+.guaranteeTitle {
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 28px;
+  padding-bottom: 6px
+}
+
+.guaranteeDescription {
+  font-size: 12px;
+  line-height: 18px;
+  padding-bottom: 2px
+}
+
+.guaranteeURL {
+  color: #0269CE;
+  font-size: 12px;
+  line-height: 18px;
+  padding-bottom: 5px
+}
+
+.guaranteeURL a {
+  float: none!important
+}
+
+#logo.logoTop {
+  float: none
+}
+
+#logo.logoLeft {
+  float: left;
+  margin-right: 10px
+}
+
+#logo.logoRight {
+  float: right;
+  margin-left: 10px
+}
+
+#logo.logoTop {
+  float: none
+}
+
+#logo.logoTop img {
+  margin-bottom: 10px
+}
+
+#logo.logoBottom {
+  float: left
+}
+
+.familyOfferPriceDate {
+  font-size: 10px;
+  font-style: italic;
+  line-height: 10px;
+  font-weight: normal!important;
+  margin: 2px 0 -3px!important
+}
+
+.productDetails a div.familyOfferPriceDate {
+  font-size: 11px;
+  font-style: italic;
+  line-height: 16px;
+  margin: 3px 0 -2px!important
+}
+
+.gridRow .gridComponent .prodStyle6_W a .familyOfferPriceDate {
+  font-size: 8px;
+  font-style: italic;
+  line-height: 8px;
+  margin: 3px 0 2px!important
+}
+
+.prodStyle3_B .familyOfferPriceDate {
+  margin: 0 0 3.5px!important
+}
+
+.prodStyle1_B .familyOfferPriceDate {
+  margin: 2px 0 6px!important
+}
+
+.prodStyle2_B .familyOfferPriceDate {
+  margin: 2px 0 6px!important
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  .familyOfferPriceDate {
+    margin: 2px 0 -3px!important
+  }
+  .productDetails a div.familyOfferPriceDate {
+    margin: 4px 0 -1px!important
+  }
+  .gridRow .gridComponent .prodStyle6_W a .familyOfferPriceDate {
+    margin: 2px 0 2px!important
+  }
+  .prodStyle3_B .familyOfferPriceDate {
+    margin: 1px 0 6px!important
+  }
+  .prodStyle2_B .familyOfferPriceDate {
+    margin: 1px 0 6px!important
+  }
+}
+
+.choiceGallery {
+  padding: 1px 0 26px 0
+}
+
+.choiceGallery .gridRow ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none
+}
+
+.choiceGallery .gridRow li, .choiceGallery .gridRow li a {
+  float: left
+}
+
+.choiceGallery .gridRow li a .imageStyle {
+  margin-bottom: 3px;
+  box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.3);
+  border: 1px solid #fff
+}
+
+.choiceGallery .gridRow li a:hover .imageStyle {
+  border: 1px solid #333
+}
+
+.choiceGallery .gridRow li a .activeImgStyle {
+  margin-bottom: 3px;
+  box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.3);
+  border: 1px solid #333
+}
+
+.choiceGallery .gridRow li a:hover .imageStyle {
+  border: none!important
+}
+
+.choiceGallery .gridRow li a img.choiceItem, .choiceGallery .gridRow a {
+  border: none;
+  overflow: hidden;
+  float: left
+}
+
+.choiceGallery .gridRow li a:hover {
+  border: 1px solid #333
+}
+
+.choiceGallery .gridRow li a:hover img.choiceItem {
+  margin: -1px
+}
+
+.outerContainer a:hover {
+  border: none
+}
+
+.choiceGallery .sectionName {
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333;
+  margin: 40px 0 20px 0;
+  text-align: center
+}
+
+.choiceGallery .commonBlock {
+  width: 1058px;
+  overflow: hidden;
+  text-align: center;
+  margin-bottom: 9px
+}
+
+.choiceGallery .positionDiv {
+  position: relative;
+  margin: 0 auto;
+  width: auto;
+  display: inline-block;
+  margin-bottom: 40px
+}
+
+.choiceGallery .commonBlock .imgShadow {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3);
+  border: 2px solid #fff;
+  margin-bottom: 3px
+}
+
+.choiceGallery .commonBlock .nextArrow {
+  background-image: url("http://www.ikea.com/ms/img/choiceImg/forwardNormalBtn.png");
+  background-repeat: no-repeat;
+  height: 33px;
+  width: 40px;
+  position: absolute;
+  top: 195px;
+  z-index: 100;
+  right: 0
+}
+
+.choiceGallery .commonBlock .nextArrow:hover {
+  background-image: url("http://www.ikea.com/ms/img/choiceImg/forwardHoverBtn.png")
+}
+
+.choiceGallery .commonBlock .prevArrow {
+  background-image: url("http://www.ikea.com/ms/img/choiceImg/backNormalBtn.png");
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 30px;
+  position: absolute;
+  top: 195px;
+  left: 0;
+  z-index: 100
+}
+
+.choiceGallery .commonBlock .prevArrow:hover {
+  background-image: url("http://www.ikea.com/ms/img/choiceImg/backHoverBtn.png")
+}
+
+.choiceGallery .commonBlock .closeButton {
+  background-image: url("http://www.ikea.com/ms/img/choiceImg/closeNormalBtn.png");
+  background-repeat: no-repeat;
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 100
+}
+
+.choiceGallery .commonBlock .closeButton :hover {
+  background-image: url("http://www.ikea.com/ms/img/choiceImg/closeHoverBtn.png")
+}
+
+.choiceGallery .transperent {
+  opacity: .6;
+  background: #fff;
+  text-align: left;
+  padding: 6px 9px 7px 9px;
+  font-weight: bold;
+  font-size: 14px;
+  position: absolute;
+  letter-spacing: -1px;
+  line-height: 18px;
+  padding: 10px;
+  word-wrap: break-word
+}
+
+.choiceGallery .commonBlock img {
+  max-width: 960px
+}
+
+.choiceGallery .linkContainer {
+  margin-top: 9px;
+  text-align: center;
+  width: auto;
+  padding-bottom: 20px;
+  left: 0;
+  position: absolute;
+  width: 100%
+}
+
+.choiceGallery .linkShareContainer {
+  width: 65%
+}
+
+.choiceGallery .linkShareContainer .shareMPAContainer {
+  float: left
+}
+
+.choiceGallery .linkContainer .plannerLink {
+  color: #0269CE;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin: 2px 20px 0 0
+}
+
+.choiceGallery .linkContainer #buyOnlineProduct {
+  margin-right: 5px
+}
+
+.sectionMenu {
+  text-align: center;
+  margin: 0 0 18px 0
+}
+
+.sectionMenu li {
+  display: inline;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #f57129
+}
+
+.sectionMenu li a {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333
+}
+
+.sectionMenu .divider {
+  padding: 0 1px 0 1px;
+  color: #CCC
+}
+
+.choiceContainer .choiceCategory {
+  margin-bottom: 1px;
+  padding-bottom: 1px!important
+}
+
+.choiceContainer .bodyTextGray {
+  margin-top: 11px;
+  font-style: italic;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 16px
+}
+
+.choiceContainer .gridRow .seoContainer {
+  width: 420px
+}
+
+.choiceContainer .mainImgBorder {
+  display: inline-block;
+  margin: 0 auto;
+  position: relative;
+  width: auto
+}
+
+.choicePage .content {
+  padding: 4px!important
+}
+
+.choicePage .content .headline {
+  background: #f2f2f2!important;
+  margin-bottom: 0;
+  padding-bottom: .6em
+}
+
+.choicePage .content form, .choicePage .content .scroll {
+  background: #f2f2f2!important
+}
+
+.choicePage .saveToListContainer {
+  background: #f2f2f2!important;
+  text-align: center
+}
+
+.choicePage .shoppingSignupBg {
+  background: none!important;
+  border-top: 1px solid #fff
+}
+
+.choicePage .choiceNotification {
+  color: #333;
+  font-size: 14px;
+  letter-spacing: -0.5px;
+  padding: 10px 10px 5px 10px
+}
+
+.choicePage .choiceLink {
+  padding: 5px 10px 10px 10px
+}
+
+.choicePage a:hover {
+  text-decoration: none!important
+}
+
+#formShoppingListPopup .shoppingListClose {
+  display: inline;
+  height: auto;
+  padding: 0;
+  position: relative;
+  top: 5px
+}
+
+.choicePage .content form:after {
+  clear: both;
+  content: ".";
+  display: block;
+  visibility: hidden
+}
+
+#slPopup.choicePage #iconLoad {
+  margin: 56px auto
+}
+
+.choicePage .content .scContentDialogue {
+  padding: 28px .6em 2.65em .5em;
+  text-align: left;
+  background: none repeat scroll 0 0 #F2F2F2!important
+}
+
+.choicePage .content .scContentDialogue .headline {
+  letter-spacing: -0.5px;
+  padding: 0 0 2px!important;
+  white-space: nowrap;
+  font-weight: bold;
+  margin: 0 auto!important;
+  padding: 0 16px 2px!important;
+  text-align: center;
+  margin-bottom: 4px!important;
+  color: #333;
+  font-family: verdana;
+  font-size: 1.46em
+}
+
+.choicePage .content .scContentDialogue .shoppinglistStyle {
+  margin: 0!important;
+  padding: 0 16px 6px!important;
+  text-align: center;
+  color: #333;
+  font-family: verdana;
+  font-size: 11px!important
+}
+
+.choicePage .content .scContentDialogue .listLink {
+  color: #0269CE;
+  font-family: Verdana;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center
+}
+
+.choicePage .content .scContentDialogue .errorHeadline {
+  letter-spacing: -0.5px;
+  padding: 0 0 2px!important;
+  white-space: nowrap;
+  font-weight: bold;
+  margin: 0 auto!important;
+  padding: 0 16px 2px!important;
+  text-align: center;
+  margin-bottom: 4px!important;
+  color: #f33;
+  font-family: verdana;
+  font-size: 1.46em
+}
+
+.choicePage .content .scContentDialogue .errorText {
+  color: #333;
+  font-family: Verdana;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center
+}
+
+.filterBlock {
+  display: block;
+  box-shadow: 0 5px 2px -2px rgba(0, 0, 0, 0.04), 0 0 0 0 rgba(0, 0, 0, 0.04)
+}
+
+.filterBlock .productsFilter {
+  width: 1058px;
+  float: left;
+  border: 1px solid #DDD;
+  height: auto;
+  background-color: #FAFAFA!important
+}
+
+.filterBlock .productsFilterButtons {
+  width: 100%
+}
+
+.filterBlock .productsFilterFullWidth {
+  width: 100%!important;
+  max-width: 100%!important
+}
+
+.filterBlock .productsFilterFullWidth .productsFilterChapters {
+  max-width: 100%!important;
+  width: 100%!important
+}
+
+.filterBlock .productsFilterButtons .productsFilterChapters {
+  padding-top: 10px;
+  max-width: 80%;
+  float: left
+}
+
+.filterBlock .productsFilter .productsFilterLinks {
+  background-color: #FFF!important;
+  box-shadow: 0 5px 2px -2px rgba(0, 0, 0, 0.19), 0 0 0 0 rgba(0, 0, 0, 0.19);
+  vertical-align: middle;
+  margin-bottom: 0;
+  z-index: 2;
+  box-shadow: 0 5px 2px -2px rgba(0, 0, 0, 0.19), 0 0 0 0 rgba(0, 0, 0, 0.19);
+  width: 100%
+}
+
+.filterBlock .productsFilter .productsFilterLinks ul {
+  font-size: 12px;
+  list-style: none outside none;
+  margin: 0;
+  padding: 10px 17px 12px 17px
+}
+
+.filterBlock .productsFilter .productsFilterLinks li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  line-height: 20px
+}
+
+.filterBlock .productsFilter .productsFilterLinks li a {
+  color: #333;
+  letter-spacing: -0.5px
+}
+
+.filterBlock .productsFilter .productsFilterLinks li.activeLink a {
+  color: #F57129;
+  font-weight: bold;
+  letter-spacing: -0.5px
+}
+
+.filterBlock .productsFilter .productsFilterLinks li.activeLink h1 {
+  font-size: 12px;
+  display: inline;
+  line-height: 20px;
+  letter-spacing: -0.5px
+}
+
+.filterBlock .productsFilter .productsFilterLinks li.divider {
+  color: #DDD;
+  padding: 0 2px;
+  width: 1px;
+  font-weight: bold
+}
+
+.filterBlock .productsFilter .productsFilterOptions {
+  padding: 10px 20px;
+  margin-top: 0
+}
+
+.filterBlock .productsFilterButtons .button {
+  border: 1px solid #CCC;
+  background-color: #CACACA;
+  color: #666;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  font-size: 13px;
+  border-radius: 3px
+}
+
+.filterBlock .productsFilterButtons .selected {
+  background-color: #F57129;
+  color: #FFF
+}
+
+.filterBlock .productsFilterButtons .active {
+  background: #f56426;
+  background: linear-gradient(top, #f56426 0, #f56426 100%);
+  border: 0 solid #000;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 0 0 transparent, 2px 3px 1px rgba(0, 0, 0, 0.1) inset;
+  color: #FFF!important;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 0 0 0 rgba(128, 37, 128, 0)
+}
+
+.filterBlock .productsFilterButtons .active h1 {
+  font-size: 12px;
+  margin: 0
+}
+
+.filterBlock .productsFilterButtons a {
+  margin: 0 6px 10px 0;
+  text-decoration: none;
+  font-size: 11px!important
+}
+
+.filterBlock .productsFilterButtonsExtra {
+  padding-top: 10px
+}
+
+.filterBlock .productsFilterButtons .boxShadow {
+  display: none
+}
+
+.filterBlock .productsFilterSortBy .button .dropdown {
+  padding: 2px;
+  vertical-align: middle;
+  border-left: 1px solid #666
+}
+
+.filterBlock .productsFilterSortBy {
+  position: relative;
+  z-index: 10;
+  padding: 10px 0;
+  display: none
+}
+
+.filterBlock .productsFilterSortBy .sortLeft {
+  background: url(http://www.ikea.com/ms/img/filter/sortingLeft.png) no-repeat scroll left center transparent;
+  width: 4px;
+  height: 26px
+}
+
+.filterBlock .productsFilterSortBy .sortRight {
+  background: url("/ms/img/filter/sortingRight.png") no-repeat scroll right center transparent;
+  height: 26px;
+  width: 28px;
+  margin-right: -1px
+}
+
+.filterBlock .productsFilterSortBy .sortMiddle {
+  background: url("/ms/img/filter/sortingMid.png") repeat-x scroll right center transparent;
+  border: medium none;
+  color: #666;
+  font-size: 12px;
+  height: 26px;
+  width: auto;
+  line-height: 25px;
+  padding: 0 20px 0 10px
+}
+
+.filterBlock .productsFilterSortBy .sortBy {
+  float: right
+}
+
+.filterBlock .productsFilterSortBy .sortBy .buttonContainer {
+  float: right
+}
+
+#subContainer {
+  position: absolute;
+  margin-right: 1px;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.19), 0 0 0 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid #e7e7e7;
+  text-align: left;
+  background: #fff;
+  width: auto;
+  top: 0;
+  z-index: 23000
+}
+
+#subContainer a {
+  display: block;
+  color: #333;
+  font-size: 12px;
+  padding: 10px 10px 0;
+  text-decoration: none
+}
+
+#subContainer a:hover {
+  color: #F60
+}
+
+#subContainer a.activeLink {
+  font-weight: bold;
+  color: #F57129
+}
+
+#subContainer #containerTemp {
+  padding-bottom: 15px
+}
+
+.filterBlock .productsFilterColors {
+  padding: 10px 0 7px 0;
+  display: block
+}
+
+.filterBlock .productsFilterColors .activeColor {
+  float: left;
+  width: 21px;
+  height: 21px;
+  margin-left: 0;
+  margin-right: 5px
+}
+
+.filterBlock .productsFilterColors .selectedactiveColor {
+  float: left;
+  width: 21px;
+  height: 21px;
+  margin-left: 0;
+  margin-left: -3px;
+  margin-right: 10px
+}
+
+.filterBlock .productsFilterColors .inactiveColor {
+  float: left;
+  width: 15px;
+  height: 15px;
+  margin-top: 3px;
+  margin-right: 11px
+}
+
+.filterBlock .productsFilterColors .inactiveColor:first-child {
+  margin-left: 3px
+}
+
+#filterImageTooltip {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana;
+  font-size: 12px;
+  color: #333;
+  background-color: #fff
+}
+
+#filterImageTooltip a {
+  position: relative;
+  text-decoration: none
+}
+
+#filterImageTooltip a:hover {
+  z-index: 10000
+}
+
+#filterImageTooltip a span {
+  position: absolute;
+  left: -10000px;
+  overflow: hidden
+}
+
+#filterImageTooltip a:hover span {
+  display: block;
+  position: absolute;
+  width: auto;
+  background-color: #fff;
+  text-transform: capitalize;
+  color: #333;
+  padding: 3px 6px;
+  -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.20), 0 0 0 0 rgba(0, 0, 0, 0.20);
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.20), 0 0 0 0 rgba(0, 0, 0, 0.20);
+  white-space: nowrap
+}
+
+#filterImageTooltip .inactiveColor a:hover span {
+  left: 1.2em;
+  top: -2em
+}
+
+#filterImageTooltip .selectedactiveColor a:hover span {
+  left: 1.8em;
+  top: -2.6em
+}
+
+#filterImageTooltip .activeColor a:hover span {
+  left: 1.8em;
+  top: -2.6em
+}
+
+.filterBlock .productsFilterColors .color {
+  display: block;
+  float: left;
+  margin-left: 1px;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #CCC;
+  border-radius: 10px
+}
+
+.filterBlock .blueBtn, .filterBlock .greyBtn, .filterBlock .orangeBtn {
+  font-size: 12px;
+  width: auto;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-weight: normal;
+  line-height: 1px;
+  font-family: Verdana;
+  position: relative;
+  cursor: pointer;
+  border: none
+}
+
+.filterBlock .blueBtn {
+  padding: 7px 10px 8px;
+  font-weight: 500!important;
+  color: #fff;
+  background: linear-gradient(top, #0e7fd5 0, #0172c9);
+  background: -moz-linear-gradient(top, #0e7fd5 0, #0172c9);
+  border-radius: 12px;
+  border: 0 solid #000;
+  box-shadow: 0 1px 1px rgba(000, 000, 000, 0.2), inset 0 0 1px rgba(255, 255, 255, 0.7);
+  text-shadow: 0 -1px 0 rgba(000, 000, 000, 0.2), 0px 1px 0 rgba(255, 255, 255, 0.2)
+}
+
+.filterBlock .blueBtn:hover {
+  color: #fff!important;
+  background: linear-gradient(top, #2495eb 0, #0274cb);
+  background: -moz-linear-gradient(top, #2495eb 0, #0274cb);
+  border-radius: 12px;
+  border: 0 solid #000;
+  box-shadow: 0 1px 1px rgba(000, 000, 000, 0.2), inset 0 0 1px rgba(255, 255, 255, 0.7);
+  text-shadow: 0 -1px 0 rgba(000, 000, 000, 0.2), 0px 1px 0 rgba(255, 255, 255, 0.2)
+}
+
+.filterBlock .blueBtn:active {
+  color: #fff!important;
+  background: linear-gradient(top, #0374cb 0, #1182d9);
+  background: -moz-linear-gradient(top, #0374cb 0, #1182d9);
+  border-radius: 12px;
+  border: 0 solid #000;
+  box-shadow: 0 1px 0 rgba(000, 000, 000, 0), inset 3px 1px 2px rgba(0, 0, 0, 0.2);
+  text-shadow: 0 -1px 0 rgba(000, 000, 000, 0.2), 0px 1px 0 rgba(255, 255, 255, 0.2)
+}
+
+.filterBlock .greyBtn {
+  font-weight: 500!important;
+  padding: 7px 10px 8px;
+  color: #333;
+  background: linear-gradient(top, #f4f4f4 0, #eee);
+  background: -moz-linear-gradient(top, #f4f4f4 0, #eee);
+  border-radius: 12px;
+  box-shadow: 0 1px 1px rgba(000, 000, 000, 0.2), inset 0 0 1px rgba(255, 255, 255, 0.7);
+  text-shadow: 0 -1px 0 rgba(204, 204, 204, 0.2), 0px 1px 0 rgba(255, 255, 255, 0.2)
+}
+
+.filterBlock .greyBtn:hover {
+  color: #333!important;
+  background: linear-gradient(top, #fbfbfb 0, #e1e1e1);
+  background: -moz-linear-gradient(top, #fbfbfb 0, #e1e1e1);
+  border-radius: 12px;
+  box-shadow: 0 1px 1px rgba(000, 000, 000, 0.2), inset 0 0 1px rgba(255, 255, 255, 0.7);
+  text-shadow: 0 -1px 0 rgba(204, 204, 204, 0.2), 0px 1px 0 rgba(255, 255, 255, 0.2)
+}
+
+.filterBlock .greyBtn:active {
+  background: linear-gradient(top, #f2f2f2 0, #fbfbfb);
+  background: -moz-linear-gradient(top, #f2f2f2 0, #fbfbfb);
+  border-radius: 12px;
+  border: 0 solid #000;
+  box-shadow: 0 0 0 rgba(000, 000, 000, 0), inset 2px 2px 2px rgba(0, 0, 0, 0.1);
+  text-shadow: 0 -1px 0 rgba(204, 204, 204, 0.2), 0px 1px 0 rgba(255, 255, 255, 0.2)
+}
+
+.filterBlock .orangeBtn {
+  padding: 6px 10px 7px;
+  font-weight: bold!important;
+  color: #666!important;
+  background: linear-gradient(top, #d7d7d7 0, #c9c9c9 100%);
+  background: -moz-linear-gradient(top, #d7d7d7 0, #c9c9c9);
+  border-radius: 3px;
+  border: 0 solid #000;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2), 0px 1px 0 rgba(128, 37, 128, 0)
+}
+
+.filterBlock .orangeBtn:hover {
+  color: #fff!important;
+  background: linear-gradient(top, #f56426 0, #f56426 100%);
+  background: -moz-linear-gradient(top, #f56426 0, #f56426);
+  border: 0 solid #000;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 0 0 transparent, 2px 3px 1px rgba(0, 0, 0, 0.1) inset;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 0 0 0 rgba(128, 37, 128, 0)
+}
+
+.filterBlock .orangeBtn:active {
+  color: #fff!important;
+  background: linear-gradient(top, #f56426 0, #f56426);
+  background: -moz-linear-gradient(top, #f56426 0, #f56426);
+  border-radius: 3px;
+  border: 0 solid #000;
+  text-shadow: 0 1px 0 rgba(000, 000, 000, 0.1), 0px 0 0 rgba(128, 37, 128, 0)
+}
+
+.filterBlock .SortBtn {
+  padding: 5px 10px 5px 10px;
+  font-weight: bold!important;
+  color: #666!important;
+  border-radius: 3px;
+  border: 0 solid #000;
+  box-shadow: 1px 1px 1px rgba(000, 000, 000, 0.2), inset 0 0 0 rgba(0, 0, 0, 0);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2), 0px 1px 0 rgba(128, 37, 128, 0)
+}
+
+.filterBlock .productsFilterSlider {
+  padding-top: 20px;
+  font-size: 13px
+}
+
+.filterBlock .productsFilterSlider input {
+  border: 1px solid #666;
+  text-align: center;
+  width: 25px;
+  float: left;
+  margin: 0 5px
+}
+
+.filterBlock .productsFilterSlider .slider {
+  background-color: #666;
+  height: 10px;
+  margin: 5px;
+  vertical-align: middle;
+  width: 100px;
+  border-radius: 10px
+}
+
+.priceFilter {
+  float: right;
+  font-size: 12px;
+  color: #666;
+  letter-spacing: -0.5px;
+  vertical-align: middle;
+  padding: 9px 1px 7px 0
+}
+
+.priceFilter #text {
+  padding-right: 5px;
+  float: left;
+  text-align: center;
+  padding-top: 2px
+}
+
+.priceFilter input {
+  width: 54px;
+  float: left;
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+  letter-spacing: -0.5px
+}
+
+.priceFilter #hypen {
+  width: 20px;
+  float: left;
+  margin: 0 auto;
+  text-align: center;
+  vertical-align: middle
+}
+
+.priceFilter .orangeBtn {
+  margin-left: 10px;
+  padding: 2px 5px;
+  font-weight: bold!important;
+  color: #666!important;
+  background: -moz-linear-gradient(top, #d7d7d7 0, #c9c9c9 100%);
+  background: linear-gradient(top, #d7d7d7 0, #c9c9c9 100%);
+  border-radius: 3px;
+  border: 0 solid #000;
+  -moz-box-shadow: 1px 1px 1px rgba(000, 000, 000, 0.2), inset 0 0 0 rgba(0, 0, 0, 0);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2), 0px 1px 0 rgba(128, 37, 128, 0)
+}
+
+.priceFilter .orangeBtn:hover {
+  margin-left: 10px;
+  padding: 2px 5px;
+  color: #fff!important;
+  background: -moz-linear-gradient(top, #f56426 0, #f56426 100%);
+  background: linear-gradient(top, #f56426 0, #f56426 100%);
+  border: 0 solid #000;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 0 0 transparent, 2px 3px 1px rgba(0, 0, 0, 0.1) inset;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 0 0 0 rgba(128, 37, 128, 0)
+}
+
+.priceFilter .orangeBtn:active {
+  margin-left: 10px;
+  padding: 2px 5px;
+  color: #fff!important;
+  background: -moz-linear-gradient(top, #f56426 0, #f56426);
+  background: -webkit-gradient(linear, left top, left bottom, from(#f56426), to(#f56426));
+  border-radius: 3px;
+  border: 0 solid #000;
+  -moz-box-shadow: 0 0 0 rgba(000, 000, 000, 0), inset 2px 3px 1px rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 0 rgba(000, 000, 000, 0.1), 0px 0 0 rgba(128, 37, 128, 0)
+}
+
+.priceFilter #warningMsg {
+  color: #F33;
+  font-size: 12px;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  margin-bottom: -17px;
+  padding-top: 5px;
+  text-align: right
+}
+
+.zeroSearchResults {
+  border: 1px solid #EEE!important;
+  color: #333;
+  font-size: 12px;
+  letter-spacing: -1px;
+  line-height: 18px;
+  padding: 10px;
+  text-align: center;
+  width: auto!important
+}
+
+.zeroSearchResults .result {
+  background-color: #C9C9C9;
+  color: #FFF;
+  font-weight: bold;
+  left: 45%;
+  margin: 0 auto;
+  padding: 2px 50px;
+  position: absolute;
+  text-align: center;
+  width: auto
+}
+
+.filterBlock .productsFilterColors #filterImageTooltip div:first-child div.selectedactiveColor {
+  margin-left: 0
+}
+
+#buyableOnline {
+  font-size: 11px;
+  letter-spacing: -0.5px;
+  color: #666!important;
+  text-decoration: none;
+  border: 1px solid #d9d9d9;
+  background: url("/ms/img/filter/BuyableOnline_Inactive.png") no-repeat scroll 9px center #EBEBEB;
+  font-weight: normal;
+  padding: 4px 20px 5px 30px;
+  display: inline-block
+}
+
+#buyableOnline:hover {
+  font-weight: normal;
+  text-decoration: underline;
+  border: 1px solid #e5e5e5;
+  background-color: #F2F2F2
+}
+
+#buyableOnline.active {
+  background: url("/ms/img/filter/BuyableOnline_Active.png") no-repeat scroll 8px center #F2F2F2;
+  padding-right: 9px!important;
+  border: 1px solid #E5E5E5;
+  border-radius: 0;
+  box-shadow: none;
+  font-weight: bold;
+  text-shadow: none
+}
+
+#buyableOnline.active:hover {
+  background: url("/ms/img/filter/BuyableOnline_Active.png") no-repeat scroll 8px center #F2F2F2;
+  border: 1px solid #e5e5e5;
+  font-weight: bold
+}
+
+.productLists .product {
+  position: relative;
+  z-index: 0
+}
+
+.productLists .gridRow {
+  height: auto
+}
+
+.productLists .grid_250 img {
+  border: 0 none
+}
+
+.product .image img {
+  float: left
+}
+
+.productLists .product .image {
+  display: block;
+  height: 250px;
+  overflow: hidden;
+  vertical-align: middle
+}
+
+.productLists .product .productDetails {
+  display: block;
+  height: auto;
+  padding: 0 0
+}
+
+.productLists .product .productDetails .productTitle {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 12px;
+  color: #333;
+  padding-right: 5px;
+  padding-top: 1px;
+  cursor: pointer;
+  font-style: normal
+}
+
+.productLists .product .productDetails .productTitle:hover, .productLists .product .productDetails .productDesp:hover, .productLists .product .prodPrice:hover {
+  text-decoration: underline
+}
+
+.productLists .product .productDetails .productDesp {
+  color: #666;
+  line-height: 16px;
+  font-size: 12px;
+  text-decoration: none;
+  padding-left: 2px;
+  letter-spacing: -0.5px;
+  font-style: normal
+}
+
+.productLists .product .productDetails .productDesp:first-letter {
+  text-transform: capitalize
+}
+
+.productLists .product .productDetails .price {
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 20px;
+  color: #333;
+  font-weight: bold;
+  clear: left;
+  font-style: normal;
+  display: block
+}
+
+.productLists .product .productDetails .price .unit {
+  display: inline;
+  font-size: 14px!important
+}
+
+.productLists .product .newImgSmall {
+  left: 0;
+  position: absolute;
+  top: 232px;
+  z-index: 10;
+  height: auto!important;
+  width: auto!important
+}
+
+.productLists .product .nlpImage {
+  left: 0;
+  position: absolute;
+  top: 209px;
+  z-index: 10
+}
+
+.productLists .product .prodFamily {
+  clear: both;
+  color: #F50;
+  display: block;
+  font-size: 11px;
+  line-height: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px
+}
+
+.productLists .product .regularPriceHead {
+  font-size: 11px;
+  color: black;
+  margin-top: 10px
+}
+
+.productLists .product .prodPrice {
+  color: black;
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 18px;
+  text-decoration: none
+}
+
+.productLists .product .newPrice {
+  display: block;
+  height: auto;
+  vertical-align: middle
+}
+
+.productLists .product .redPrice {
+  color: #c00!important
+}
+
+.productLists .product .strikePrice {
+  text-decoration: line-through;
+  margin-left: 5px;
+  color: #666;
+  font-size: 12px;
+  line-height: 14px;
+  margin-bottom: 6px
+}
+
+.productLists .product .previousPrice {
+  margin-left: 0;
+  color: #666;
+  font-size: 12px;
+  font-weight: Bold;
+  line-height: 14px;
+  margin-bottom: 6px;
+  display: block
+}
+
+.productLists .product .strikePriceNlp {
+  font-size: 12px;
+  color: #666;
+  text-decoration: line-through;
+  font-weight: Bold
+}
+
+.productLists .product .priceNote {
+  font-style: italic;
+  color: #333;
+  font-size: 11px;
+  padding-top: 8px;
+  padding-bottom: 0;
+  line-height: 14px
+}
+
+.productLists .product .prf {
+  font-style: italic;
+  font-size: 11px;
+  color: #333;
+  line-height: 20px
+}
+
+.productLists .product .legal {
+  font-style: italic;
+  font-size: 11px;
+  color: #333;
+  word-wrap: normal;
+  line-height: 14px;
+  padding-bottom: 10px
+}
+
+.productLists .product .prf a:link {
+  font-style: italic;
+  font-size: 11px;
+  color: #3399fd;
+  line-height: 20px
+}
+
+.productLists .product .productBtiBack {
+  background-color: #F00;
+  margin: 10px 0 0 3px;
+  position: relative;
+  z-index: 2;
+  float: left;
+  top: -0.25em;
+  width: auto!important;
+  clear: both
+}
+
+.productLists .product .productBtiFront {
+  background-color: #FFD000!important;
+  left: -0.52em;
+  position: relative;
+  text-align: left;
+  top: -0.52em;
+  padding: 8px 10px;
+  width: auto!important;
+  display: block
+}
+
+.productLists .product .moreInfo {
+  display: none
+}
+
+.productLists .product .productDetails .price .dualPrice {
+  font-size: 12px;
+  letter-spacing: -0.5px;
+  color: #333;
+  font-weight: normal
+}
+
+.productLists .product .productDetails .prodPrice .dualPrice {
+  font-size: 12px;
+  letter-spacing: -0.5px;
+  color: #333;
+  font-weight: normal
+}
+
+.productLists .product .moreProduct {
+  position: absolute;
+  top: 130px;
+  display: none
+}
+
+.productLists .product .prev, .productLists .product .prevDisabled {
+  left: 0
+}
+
+.productLists .product .prev a, .productLists .product .prevDisabled a {
+  text-decoration: none;
+  display: block;
+  width: 24px;
+  height: 24px;
+  background: url('/ms/img/more_options/left.png ') no-repeat center center
+}
+
+.productLists .product .prev a:hover {
+  background: url('/ms/img/more_options/leftHover.png') no-repeat center center
+}
+
+.productLists .product .prevDisabled a {
+  background: url('/ms/img/more_options/leftInactive.png') no-repeat center center
+}
+
+.productLists .product .next, .productLists .product .nextDisabled {
+  right: 0
+}
+
+.productLists .product .next a, .productLists .product .nextDisabled a {
+  text-decoration: none;
+  display: block;
+  width: 24px;
+  height: 24px;
+  background: url('/ms/img/more_options/right.png ') no-repeat center center
+}
+
+.productLists .product .next a:hover {
+  background: url('/ms/img/more_options/rightHover.png') no-repeat center center
+}
+
+.productLists .product .nextDisabled a {
+  background: url('/ms/img/more_options/rightInactive.png') no-repeat center center
+}
+
+#prodInfoLanding {
+  text-align: left
+}
+
+#prodInfoLanding .productLists {
+  padding: 4px 9px 18px
+}
+
+#prodInfoLanding .productLists .product .productDetails {
+  padding: 0
+}
+
+#prodInfoLanding .product .moreProduct {
+  display: block
+}
+
+#prodInfoLanding .product .nlpImage {
+  top: 209px!important
+}
+
+#prodInfoLanding .product .size {
+  color: #333;
+  display: block;
+  font-size: 12px;
+  line-height: 1.2em
+}
+
+#prodInfoLanding .product .options, #mainPadding .gridRow .productDetails .options {
+  color: #666;
+  display: block;
+  font-size: 12px;
+  font-style: italic;
+  line-height: 16px;
+  margin-top: 5px;
+  clear: both
+}
+
+#prodInfoLanding .product .options a, #mainPadding .gridRow .productDetails .options a {
+  color: #333!important
+}
+
+#prodInfoLanding .product .moreInfo {
+  display: block;
+  clear: both;
+  margin-top: 10px;
+  position: relative
+}
+
+#prodInfoLanding .product .moreInfo .ratingsContainer {
+  margin-top: -10px;
+  margin-bottom: -3px
+}
+
+#prodInfoLanding .product .buttonsContainer {
+  padding: 9px 12px 3px 0
+}
+
+#prodInfoLanding .product .prodImg {
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%
+}
+
+#prodInfoLanding .product .buttonsContainer a {
+  margin-right: 7px;
+  margin-top: 10px
+}
+
+#prodInfoLanding .btiSpace {
+  clear: both;
+  padding-top: 10px!important;
+  display: block
+}
+
+#prodInfoLanding .productBtiBack {
+  margin-top: 0!important;
+  width: auto!important
+}
+
+#prodInfoLanding .baseLayout {
+  background: #f2f2f2;
+  position: absolute;
+  left: -13px;
+  width: 258px;
+  top: 0;
+  z-index: 999;
+  overflow: hidden
+}
+
+#prodInfoLanding .baseLayout .shoppingListClose {
+  margin: -6px 0 13px 0;
+  padding: 0
+}
+
+#prodInfoLanding .baseLayout .contentDialogue {
+  padding: 0!important
+}
+
+#prodInfoLanding .baseLayout .contentDialogue .headline {
+  padding: 10px 0 7px 0!important;
+  margin: 0!important;
+  text-align: center;
+  font-weight: bold
+}
+
+#prodInfoLanding .baseLayout .headline {
+  margin-bottom: 4px!important;
+  padding: 0
+}
+
+#prodInfoLanding .baseLayout .contentDialogue .shoppinglistStyle {
+  padding-bottom: 10px!important;
+  text-align: center;
+  margin: 0!important
+}
+
+#prodInfoLanding .baseLayout .contentDialogue .shoppingSignupBg {
+  margin: 0!important;
+  background: #f2f2f2;
+  border-top: 1px solid #fff
+}
+
+#prodInfoLanding .baseLayout .content {
+  background: #f2f2f2!important;
+  padding: 8px 16px 5px!important;
+  margin: 0
+}
+
+#prodInfoLanding .baseLayout .errorContainer .content {
+  width: 100%;
+  text-align: center;
+  padding: 0
+}
+
+#prodInfoLanding .baseLayout .notification {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: -0.5px;
+  line-height: 21px;
+  color: #f33;
+  text-align: Center
+}
+
+#prodInfoLanding .baseLayout .bodyCopy {
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: -0.5px;
+  line-height: 18px;
+  color: #333;
+  text-align: Center
+}
+
+#prodInfoLanding .baseLayout .listLink {
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: -0.5px;
+  color: #0269ce;
+  line-height: 18px;
+  text-align: Center
+}
+
+#prodInfoLanding .baseLayout .errorContainer #formShoppingListPopup {
+  padding: 10px
+}
+
+#prodInfoLanding .baseLayout .errorContainer .shoppingListClose {
+  padding-top: 5px
+}
+
+#prodInfoLanding .baseLayout .buttonContainer {
+  margin-top: 7px;
+  margin-right: 12px
+}
+
+#prodInfoLanding .baseLayout .listRow {
+  margin-bottom: 2px
+}
+
+#prodInfoLanding .baseLayout .scroll {
+  background: #f2f2f2;
+  height: auto!important
+}
+
+.serviceModuleBlock {
+  margin: 0 0 67px 0!important
+}
+
+.serviceModuleBlock .serviceModuleContainerWidth {
+  height: 145px;
+  width: 340px
+}
+
+.serviceModuleBlock .serviceModule .Category {
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333;
+  margin-bottom: -5px
+}
+
+.serviceModuleBlock .serviceModule .Headline {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: -1px;
+  color: #333;
+  clear: left
+}
+
+.serviceModuleBlock .serviceModule .Body {
+  font-family: Verdana;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -1px;
+  color: #333
+}
+
+.serviceModuleBlock .serviceModule .linkButton {
+  font-weight: bold;
+  color: #0269ce
+}
+
+.serviceModuleBlock .serviceModule {
+  border: 1px solid #CCC;
+  padding: 19px
+}
+
+.serviceModuleBlock .backgroundImagePosition {
+  position: absolute;
+  overflow: hidden
+}
+
+.serviceModuleBlock .foregroundContentPosition {
+  position: relative;
+  z-index: 200
+}
+
+.serviceModuleBlock .serviceModule .textContainer {
+  width: 200px
+}
+
+.breadCrumbNew {
+  width: 100%;
+  display: block;
+  margin: 0;
+  color: #333;
+  font-size: 12px;
+  letter-spacing: -1px;
+  padding: 0!important;
+  height: 33px!important;
+  border-bottom: 1px solid #eee!important
+}
+
+.breadCrumbNew ul {
+  float: left;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1.15em;
+  font-size: 12px
+}
+
+.breadCrumbNew li {
+  float: left;
+  margin: 0;
+  padding: 0 3px
+}
+
+.breadCrumbNew li a {
+  color: #333
+}
+
+.breadCrumbNew li a:hover {
+  text-decoration: underline
+}
+
+.breadCrumbNew li.divider {
+  padding: 0 5px;
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: -1px;
+  color: #ddd
+}
+
+.breadCrumbNew li.activeLink a {
+  color: #f57129;
+  font-family: Verdana;
+  font-weight: bold;
+  letter-spacing: -1px;
+  font-size: 12px
+}
+
+.departmentModuleBlock {
+  display: block;
+  margin: 47px 0 0!important;
+  border-bottom: 1px solid #EEE!important
+}
+
+.departmentModuleBlock .horizontalDivider {
+  clear: both;
+  display: block;
+  background-color: #eee;
+  height: 1px;
+  overflow: hidden;
+  margin: 25px 0 0 0
+}
+
+.departmentModuleBlock h3 {
+  font-family: Verdana;
+  font-size: 12px!important;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333;
+  height: 30px;
+  font-weight: normal;
+  margin: 0!important
+}
+
+.departmentModuleBlock .image img {
+  border: 1px solid #DDD;
+  margin-bottom: 8px;
+  box-shadow: 0 3px 2px -2px rgba(0, 0, 0, 0.19), 0 0 0 0 rgba(0, 0, 0, 0.19)
+}
+
+.departmentModuleBlock .linkButton {
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: 0;
+  color: #0269ce;
+  height: 45px
+}
+
+.departmentModuleBlock .linkButton a {
+  color: #0269ce!important;
+  font-size: 12px!important
+}
+
+.departmentModuleBlock .headingMore {
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333;
+  clear: both
+}
+
+.departmentModuleBlock .moreButton {
+  font-family: Verdana;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -1px
+}
+
+.departmentModuleBlock .moreButton a {
+  color: #0269ce!important;
+  font-size: 12px!important;
+  display: block
+}
+
+.departmentModuleBlock .linkContainer {
+  float: left;
+  width: 160px;
+  padding: 0;
+  margin-right: 20px;
+  letter-spacing: .5px;
+  line-height: 17px
+}
+
+.departmentModuleBlock .linkContainer a {
+  color: #333;
+  display: block;
+  font-size: 12px;
+  letter-spacing: 0
+}
+
+.departmentModuleBlock .linkContainer a.seasonalLink {
+  color: #0269ce
+}
+
+.departmentLinkBlock {
+  border-bottom: 1px solid #EEE!important;
+  display: block;
+  margin-top: 50px!important;
+  padding-bottom: 50px!important;
+  margin-bottom: 0!important
+}
+
+.departmentLinkBlock h3 {
+  font-family: Verdana;
+  font-size: 12px!important;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333;
+  height: 30px;
+  font-weight: normal;
+  margin: 0!important
+}
+
+.departmentLinkBlock img {
+  border: 1px solid #DDD;
+  margin-bottom: 8px;
+  box-shadow: 0 3px 2px -2px rgba(0, 0, 0, 0.19), 0 0 0 0 rgba(0, 0, 0, 0.19)
+}
+
+.departmentLinkBlock .linkButton {
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: -1px;
+  color: #0269ce
+}
+
+.departmentLinkBlock .headingMore {
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333;
+  clear: both
+}
+
+.departmentLinkBlock .moreButton {
+  font-family: Verdana;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -1px
+}
+
+.departmentLinkBlock .moreButton a {
+  color: #0269ce;
+  display: block
+}
+
+.departmentLinkBlock .linkContainer {
+  float: left;
+  width: 160px;
+  padding: 0;
+  margin-right: 20px
+}
+
+.departmentLinkBlock .linkContainer a {
+  color: #333;
+  display: block;
+  font-family: Verdana;
+  font-size: 12px!important;
+  letter-spacing: 0;
+  line-height: 18px
+}
+
+.departmentLinkBlock .linkContainer a.seasonalLink {
+  color: #0269ce
+}
+
+.bodyCopyContainer {
+  border: .11em solid #DDD;
+  color: #333;
+  font-family: Verdana, sans-serif;
+  float: left;
+  margin-bottom: 20px
+}
+
+.bodyCopyContainer ul.bodyCopyColumnContainer {
+  background-color: #FFF;
+  margin: 0;
+  padding: 18px 0 11px 0;
+  float: left
+}
+
+.bodyCopyContainer li.bodyCopyColumn {
+  background-color: #FFF;
+  list-style: none outside none;
+  vertical-align: top;
+  float: left;
+  width: 49.9%
+}
+
+.bodyCopyContainer .bodyCopyVerticalDivider {
+  border-left: .11em solid #CCC
+}
+
+.bodyCopyContainer .columnMargins {
+  margin-left: 1.46em;
+  margin-right: 1.46em
+}
+
+.bodyCopyContainer h1, .bodyCopyContainer h2 {
+  font-size: 1.67em;
+  font-weight: normal;
+  margin: 0;
+  overflow: hidden;
+  padding-bottom: .146em
+}
+
+.bodyCopyContainer .bodyCopyText {
+  padding-bottom: 0;
+  padding-top: .91em
+}
+
+.bodyCopyContainer p {
+  font-size: 1.15em;
+  font-weight: normal;
+  margin: 0;
+  overflow: hidden;
+  padding: .658em 0 .708em!important
+}
+
+.productLists .adproduct {
+  position: relative;
+  z-index: 0;
+  width: 250px;
+  border: 0 none;
+  display: inline;
+  float: left;
+  margin-right: 1.853%;
+  padding: 0;
+  color: #333;
+  font-family: Verdana
+}
+
+.myProduct {
+  background-color: #eee;
+  height: 250px;
+  width: 250px;
+  text-align: center
+}
+
+.localStoreFormDiv {
+  width: 300px;
+  display: block;
+  float: left
+}
+
+.subContainerServiceAd a.activeLink {
+  font-weight: bold;
+  color: #F57129
+}
+
+.subContainerServiceAd a:hover {
+  color: #F60
+}
+
+.subContainerServiceAd {
+  position: absolute;
+  margin-right: 1px;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.19), 0 0 0 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid #e7e7e7;
+  text-align: left;
+  background: #fff;
+  width: auto;
+  top: 0;
+  z-index: 23000;
+  overflow-y: hidden;
+  padding-bottom: 0
+}
+
+.subContainerServiceAd a {
+  display: block;
+  color: #333;
+  font-size: 12px;
+  padding: 10px 10px 0;
+  text-decoration: none
+}
+
+.selectStore .productsFilterSortBy .button .dropdown {
+  padding: 2px;
+  vertical-align: middle;
+  border-left: 1px solid #666
+}
+
+.selectStore .productsFilterSortBy {
+  z-index: 300;
+  padding: 0;
+  display: none
+}
+
+.selectStore .productsFilterSortBy .sortLeft {
+  background: url(http://www.ikea.com/ms/img/filter/sortingLeft.png) no-repeat scroll left center transparent;
+  width: 4px;
+  height: 26px
+}
+
+.selectStore .productsFilterSortBy .sortRight {
+  background: url("/ms/img/filter/sortingRight.png") no-repeat scroll right center transparent;
+  height: 26px;
+  width: 28px
+}
+
+.selectStore .productsFilterSortBy .sortMiddle {
+  background: url("/ms/img/filter/sortingMid.png") repeat-x scroll right center transparent;
+  border: medium none;
+  color: #666;
+  font-size: 12px;
+  height: 26px;
+  width: 168px;
+  line-height: 25px;
+  padding: 0 20px 0 10px
+}
+
+.subContainerServiceAd .serviceAdContainerDiv {
+  height: 100px;
+  overflow-y: hidden
+}
+
+.subContainerServiceAd .serviceAdContainerDiv .items {
+  width: auto;
+  cursor: pointer;
+  color: #333;
+  display: block;
+  font-size: 12px;
+  padding: 10px 10px 0;
+  text-decoration: none
+}
+
+.subContainerServiceAd .serviceAdContainerDiv .items:hover {
+  color: #F60
+}
+
+.serviceModuleBlock .serviceModule .selectStore {
+  float: left;
+  display: none
+}
+
+.serviceModuleBlock .serviceModule .serviceAdddropDownButton {
+  display: inline;
+  margin-left: 10px;
+  position: relative;
+  width: 50px
+}
+
+.subContainerServiceAd .serviceAdContainerDiv .serviceAdContainerInnerDiv {
+  height: 100px
+}
+
+.subContainerServiceAd .serviceAdContainerDiv .serviceAdscrollertrack {
+  width: 8px;
+  height: 80px;
+  position: absolute;
+  top: 10px;
+  left: 208px;
+  cursor: pointer;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  background-color: #CCC
+}
+
+.subContainerServiceAd .serviceAdContainerDiv .serviceAdscrollerHandle {
+  width: 10px;
+  height: 25px;
+  margin-left: -2px;
+  cursor: pointer;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  background-color: #333;
+  border: 1px solid #999
+}
+
+h3 {
+  margin: 0
+}
+
+.gridRow .visualNavContainer .categoryContainer {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0
+}
+
+.gridRow .visualNavContainer .categoryName {
+  color: #333
+}
+
+.gridRow .visualNavContainer .categoryNumber {
+  font-weight: normal;
+  color: #b5b5b5;
+  margin-left: 3px
+}
+
+.gridRow .visualNavContainer .categoryName:hover, .gridRow .visualNavContainer .subCategory a:hover {
+  text-decoration: underline!important
+}
+
+.gridRow .visualNavContainer .categoryNumber:hover {
+  text-decoration: none
+}
+
+.gridRow .visualNavContainer .subCategory {
+  font-size: 11px;
+  line-height: 14px;
+  letter-spacing: 0;
+  color: #333
+}
+
+.gridRow .visualNavContainer .link {
+  color: #0269ce
+}
+
+.gridRow .visualNavContainer .moreHead {
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #333;
+  font-weight: normal
+}
+
+.visualNavContainer .prodName {
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 12px;
+  margin-right: 5px
+}
+
+.visualNavContainer .prodType {
+  font-size: 12px
+}
+
+.visualNavContainer .prodPrice {
+  font-size: 24px;
+  font-weight: bold
+}
+
+.visualNavContainer a:hover {
+  text-decoration: none!important
+}
+
+#mainPadding .gridRow .visualNavContainer {
+  margin-bottom: 26px
+}
+
+.allSeries {
+  height: auto;
+  position: relative;
+  z-index: 0;
+  text-decoration: none!important;
+  margin-bottom: 35px!important;
+  overflow: visible!important
+}
+
+.allSeries a.allSeriesLink {
+  text-decoration: none!important
+}
+
+.allSeries a.allSeriesLink:hover {
+  text-decoration: none!important
+}
+
+.allSeries .allSeriesContainer .imageStyle {
+  border: 1px solid #FFF;
+  box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.3);
+  height: 240px;
+  margin-bottom: 3px;
+  width: 340px
+}
+
+.allSeries .allSeriesContainer:hover .imageStyle {
+  border: 1px solid #333
+}
+
+.allSeries .allSeriesContainer .contentDetails {
+  display: block;
+  margin-top: 14px
+}
+
+.allSeries .allSeriesContainer .contentDetails .headline {
+  color: #333;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 16px
+}
+
+.allSeries .allSeriesContainer .contentDetails .description {
+  color: #333;
+  font-size: 12px;
+  line-height: 18px;
+  padding-top: 8px
+}
+
+.allSeries .allSeriesContainer .allSeriesButton {
+  background-color: #FAFAFA;
+  cursor: pointer
+}
+
+.allSeries .allSeriesContainer .allSeriesButton .orangeBtn {
+  border: medium none;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Verdana;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  width: auto
+}
+
+.allSeries .allSeriesContainer .allSeriesButton .orangeBtn {
+  background: -moz-linear-gradient(center top, #D7D7D7 0, #C9C9C9 100%) repeat scroll 0 0 transparent;
+  border: 0 solid #000;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2), 0 0 0 transparent inset;
+  color: #666!important;
+  font-weight: bold!important;
+  padding: 6px 10px 7px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 0 rgba(128, 37, 128, 0)
+}
+
+.allSeries .allSeriesContainer:hover .allSeriesButton .orangeBtn {
+  background: -moz-linear-gradient(center top, #F56426 0, #F56426 100%) repeat scroll 0 0 transparent;
+  border: 0 solid #000;
+  border-radius: 3px;
+  box-shadow: 0 0 0 transparent, 2px 3px 1px rgba(0, 0, 0, 0.1) inset;
+  color: #FFF!important;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 0 0 0 rgba(128, 37, 128, 0)
+}
+
+.allSeries .active .imageStyle {
+  border: 1px solid #333
+}
+
+.allSeries .active .allSeriesButton .orangeBtn {
+  background: -moz-linear-gradient(center top, #F56426 0, #F56426 100%) repeat scroll 0 0 transparent;
+  border: 0 solid #000;
+  border-radius: 3px;
+  box-shadow: 0 0 0 transparent, 2px 3px 1px rgba(0, 0, 0, 0.1) inset;
+  color: #FFF!important;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 0 0 0 rgba(128, 37, 128, 0)
+}
+
+.allSeriesContent {
+  margin-bottom: auto;
+  overflow: visible;
+  padding: 0 0 0
+}
+
+.allSeriesContainer a {
+  text-decoration: none!important
+}
+
+.allSeriesButton {
+  bottom: 0;
+  position: absolute;
+  padding-bottom: 20px
+}
+
+.visualNavContainer {
+  position: relative
+}
+
+.allSeries .allSeriesContent .allSeriesContainer a .categoryContainer {
+  width: 100%;
+  float: left
+}
+
+.allSeries .allSeriesContent .allSeriesContainer .categoryName {
+  float: left;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+  color: #333;
+  margin-top: 9px!important;
+  cursor: pointer
+}
+
+.allSeries .allSeriesContent .allSeriesContainer .categoryNumber {
+  float: left;
+  font-weight: bold;
+  color: #b5b5b5;
+  margin-left: 3px;
+  font-size: 14px;
+  cursor: text;
+  margin-top: 9px!important
+}
+
+.allSeries .allSeriesContent .allSeriesContainer .categoryName:hover {
+  text-decoration: underline
+}
+
+.allSeries .allSeriesContent .allSeriesContainer .categoryNumber:hover {
+  text-decoration: none
+}
+
+.allSeries .allSeriesContent .allSeriesContainer .imageStyle:hover {
+  border: 1px solid black
+}
+
+.allSeries .allSeriesContent .allSeriesContainer .imageStyle:hover+.categoryName {
+  text-decoration: underline
+}
+
+.allSeries .allSeriesContent:hover {
+  cursor: pointer
+}
+
+.allSeries .allSeriesContent:hover .imageStyle {
+  border: 1px solid black
+}
+
+.allSeries .allSeriesContent:hover .categoryName {
+  text-decoration: underline
+}
+
+.roomsetheaderproductsbutton a:hover, .roomsetheaderbackbutton a:hover {
+  text-decoration: underline
+}
+
+.galleryTitle {
+  Font-size: 24px;
+  Font-weight: bold;
+  Line-height: 28px;
+  Letter-spacing: -1px;
+  margin-bottom: 6px;
+  margin-top: 0
+}
+
+.galleryDescription {
+  Font-size: 12px;
+  Line-height: 18px;
+  margin-top: 0;
+  margin-bottom: 20px
+}
+
+.galleryDescription p {
+  Font-size: 12px;
+  Line-height: 18px;
+  margin-top: -8px;
+  margin-bottom: 20px
+}
+
+.galleryHeaderConatiner {
+  text-align: left;
+  margin-top: 0;
+  width: 520px
+}
+
+.galleryHeaderConatiner .gallerySubHeader h1 {
+  font-size: 12px;
+  Letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: normal
+}
+
+.galleryLastRow {
+  margin-right: 0!important;
+  border: 1px solid #fff!important
+}
+
+.galleryLastRow:hover {
+  margin-right: 0!important;
+  border: 1px solid #333!important
+}
+
+.roomblock {
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+  position: relative;
+  -moz-box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #fff;
+  cursor: pointer
+}
+
+.roomblock:hover {
+  border: 1px solid #333
+}
+
+.vedioroomblock {
+  background-image: url("http://www.ikea.com/ms/img/PlayButton-RoomsettingsGallery/Play_0001_Normal.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  z-index: 2;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  cursor: pointer
+}
+
+.vedioroomblock:hover {
+  opacity: .8;
+  filter: alpha(opacity=80)
+}
+
+.galleryContainer {
+  width: 1062px;
+  margin-bottom: 20px;
+  margin-top: -15px;
+  float: left;
+  text-align: left;
+  z-index: 1px
+}
+
+.roomsetlinkContainer {
+  margin-top: 5px;
+  float: left
+}
+
+.newRoomsetContainer {
+  float: left;
+  margin-top: 4px;
+  width: 1062px;
+  margin-bottom: 37px
+}
+
+.galleryRow {
+  float: left;
+  width: 102%
+}
+
+.roomsetheader {
+  width: 1062px;
+  overflow: hidden;
+  border: 0;
+  font-family: Verdana;
+  color: #333;
+  margin-top: 0
+}
+
+.roomsetfooter {
+  width: 1062px;
+  overflow: hidden;
+  font-family: Verdana;
+  color: #333;
+  margin-bottom: 0
+}
+
+.roomsetheaderbackbutton {
+  text-align: left;
+  display: inline;
+  float: left;
+  border: 0;
+  padding: 0;
+  width: 32.077%;
+  margin-bottom: 8px
+}
+
+.roomsetheaderbackbutton a {
+  color: #0269ce;
+  font-size: 12px
+}
+
+.roomsetheaderproductsbutton {
+  text-align: right;
+  display: inline;
+  float: right;
+  border: 0;
+  padding: 0;
+  width: 32.077%
+}
+
+.roomsetheaderproductsbutton a {
+  color: #0269ce;
+  font-size: 12px
+}
+
+.nonjsroompreviouslink {
+  display: inline;
+  float: left;
+  text-align: right;
+  margin-right: 1.853%;
+  width: 15.095%;
+  border: 0;
+  padding: 0
+}
+
+.nonjsroompreviouslink a {
+  color: #0269ce;
+  font-size: 12px
+}
+
+.nonjsroomnextlink {
+  display: inline;
+  float: left;
+  text-align: left;
+  margin-right: 1.853%;
+  width: 15.095%;
+  border: 0;
+  padding: 0
+}
+
+.nonjsroomnextlink a {
+  color: #0269ce;
+  font-size: 12px
+}
+
+.roomComponent {
+  float: left;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  width: 1062px;
+  margin-bottom: 19px
+}
+
+.roomComponentConf {
+  float: left;
+  background-color: #fff;
+  text-align: center;
+  width: 1062px;
+  margin-bottom: 19px
+}
+
+.roomHotSpotComponent {
+  float: left;
+  background-color: #fff;
+  width: 1062px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  position: relative
+}
+
+.roomComponentcontent {
+  vertical-align: middle;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  position: relative
+}
+
+.roomDetails {
+  margin-top: 8px;
+  float: left;
+  width: 1062px
+}
+
+.roomDescriptionDetails {
+  width: 520px;
+  float: left;
+  color: #333;
+  text-align: left
+}
+
+.roomPriceDetails {
+  width: 250px;
+  left: 630px;
+  float: left;
+  color: #333;
+  margin-bottom: -14px
+}
+
+.roomDetailsBlank {
+  float: left;
+  width: 110px
+}
+
+.roomPriceBlocks {
+  float: none;
+  margin-bottom: -5px;
+  margin-top: -1px;
+  width: 90%
+}
+
+.roomPriceBlocksNonJs {
+  float: none;
+  margin-top: -1px;
+  width: 90%;
+  margin-bottom: 13px
+}
+
+.floorPlanDetails {
+  float: left;
+  width: 180px
+}
+
+.roomSubHeader {
+  font-size: 12px;
+  font-weight: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+  line-height: 16px
+}
+
+.roomHeadline {
+  margin-top: -1px!important;
+  font-size: 24px!important;
+  font-weight: bold;
+  line-height: 28px;
+  Letter-spacing: -1px
+}
+
+.roomHeadlinenonjs {
+  margin-top: -1px!important;
+  margin-bottom: -6px!important;
+  font-size: 24px!important;
+  font-weight: bold;
+  line-height: 28px;
+  Letter-spacing: -1px
+}
+
+.roomDescription {
+  font-size: 12px;
+  line-height: 18px;
+  margin-top: 1px
+}
+
+.roomDescription a {
+  color: #0269ce
+}
+
+.roomDescription p {
+  font-size: 12px;
+  line-height: 18px;
+  margin-top: 1px
+}
+
+.roompriceheader {
+  font-size: 12px;
+  letter-spacing: 2px;
+  line-height: 18px;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+  float: none
+}
+
+.roompricevalue {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 28px;
+  float: none
+}
+
+.roompriceexpandedpricetext {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 20px;
+  float: left;
+  margin-top: 2px;
+  margin-bottom: 1px
+}
+
+.roompriceexpandedpricetext p {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 20px;
+  float: left;
+  margin-top: -1px;
+  margin-bottom: 3px
+}
+
+.roompriceexpandedpricetext a {
+  color: #0269ce
+}
+
+.roompriceexpandedpricedesc {
+  font-size: 12px;
+  line-height: 18px;
+  float: none
+}
+
+.roompriceexpandedpricedesc a {
+  color: #0269ce
+}
+
+.roomFloorPlanvalue {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 28px;
+  float: none
+}
+
+.roomFloorPlanlink {
+  font-size: 12px;
+  line-height: 18px;
+  margin-bottom: 10px;
+  margin-top: 2px;
+  float: none
+}
+
+.roomFloorPlanlink a {
+  color: #0269ce
+}
+
+.roompricelink {
+  font-size: 12px;
+  line-height: 18px;
+  margin-bottom: 10px;
+  margin-top: 6px;
+  float: none
+}
+
+.roompricelink a {
+  color: #0269ce!important
+}
+
+.floorplanThumbnailcontainer {
+  width: 158px;
+  height: 120px;
+  border: 1px dashed #ddd;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 5px;
+  margin-left: 20px
+}
+
+.floorplanThumbnailcontainer:hover {
+  border: 1px dashed #ccc
+}
+
+.floorplanThumbnail {
+  vertical-align: middle;
+  margin-top: 10px
+}
+
+.roompriceexpandeddiv {
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  float: left;
+  width: 1062px
+}
+
+.roomfloorplanexpandeddiv {
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  float: left;
+  width: 1062px
+}
+
+.roomsettingdetailsjsenabled {
+  float: left;
+  width: 1062px;
+  margin-bottom: 0;
+  margin-top: -3px
+}
+
+.roomsettingdetailsjsdisabled {
+  float: left;
+  width: 1062px;
+  display: block;
+  margin-bottom: 5px;
+  margin-top: -4px
+}
+
+.roomsettingexpandedbuttontag {
+  margin-top: 20px;
+  margin-bottom: 16px
+}
+
+.roomsettingexpandedhide {
+  text-align: center;
+  width: 1062px;
+  float: left;
+  margin-top: 15px
+}
+
+.floorplancontainer {
+  width: 520px;
+  height: 390px;
+  border: none;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 15px
+}
+
+#roomsettingimagewrapper {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0
+}
+
+#roomsettingimagewrapper td {
+  vertical-align: middle;
+  text-align: center
+}
+
+.floorplanDiscriptionDetail {
+  width: 49.057%;
+  float: left;
+  color: #333;
+  text-align: left;
+  margin-top: 20px
+}
+
+.roomsetproductsComponent {
+  margin-top: 27px;
+  margin-bottom: -8px;
+  float: left;
+  width: 1062px
+}
+
+.roomsettingcompareRow {
+  margin-top: 2px
+}
+
+.roomsettingproductContainerNoBorder {
+  border-right: 0;
+  width: 25%
+}
+
+#roomSettingLeftArrow {
+  display: block;
+  margin-right: 3px
+}
+
+#roomSettingRightArrow {
+  display: block;
+  margin-left: 3px
+}
+
+.roomsettingnavigatingarrow {
+  display: block;
+  position: fixed;
+  top: 50%;
+  z-index: 100;
+  float: left;
+  cursor: pointer;
+  opacity: .8;
+  filter: alpha(opacity=80)
+}
+
+.roomsettingnavigatingarrow:hover {
+  opacity: 1;
+  filter: alpha(opacity=100)
+}
+
+.roomsettingnavigatingarrowinactive {
+  display: block;
+  position: fixed;
+  top: 50%;
+  z-index: 1000;
+  float: left
+}
+
+.roomsettingexpandedhide .bottomView {
+  text-align: center;
+  width: 100%;
+  margin-top: 0
+}
+
+.roomsettingexpandedhide .bottomView .leftLine {
+  border-bottom: 1px solid #DDD;
+  width: 44%
+}
+
+.roomsettingexpandedhide .bottomView .rightLine {
+  border-bottom: 1px solid #DDD;
+  width: 44%
+}
+
+.roomsettingexpandedhide .bottomView .hide-btn {
+  background: -moz-linear-gradient(center top, #F4F4F4 0, #EEE) repeat scroll 0 0 transparent;
+  border: medium none;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 0 1px rgba(255, 255, 255, 0.7) inset;
+  color: #333;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Verdana;
+  font-size: 12px;
+  letter-spacing: 2px;
+  line-height: 1;
+  margin-top: -1%;
+  padding: 5px 30px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0 -1px 0 rgba(204, 204, 204, 0.2), 0 1px 0 rgba(255, 255, 255, 0.2);
+  text-transform: uppercase;
+  width: auto
+}
+
+.expandedview .orangeBtn {
+  background: -moz-linear-gradient(center top, #D7D7D7 0, #C9C9C9 100%) repeat scroll 0 0 transparent;
+  border: 0 solid #000;
+  border-radius: 3px 3px 3px 3px;
+  color: #666!important;
+  font-weight: bold!important;
+  padding: 6px 10px 7px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 0 rgba(128, 37, 128, 0);
+  float: left
+}
+
+.expandedview .orangeBtn:active {
+  color: #fff!important;
+  background: -moz-linear-gradient(top, #f56426 0, #f56426);
+  border-radius: 3px;
+  border: 0 solid #000;
+  box-shadow: 0 0 0 rgba(000, 000, 000, 0), inset 2px 3px 1px rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 0 rgba(000, 000, 000, 0.1), 0px 0 0 rgba(128, 37, 128, 0)
+}
+
+.expandedview .orangeBtn:hover {
+  color: #fff!important;
+  background: #f56426;
+  background: -moz-linear-gradient(top, #f56426 0, #f56426 100%);
+  border: 0 solid #000;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 0 0 transparent, 2px 3px 1px rgba(0, 0, 0, 0.1) inset;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 0 0 0 rgba(128, 37, 128, 0)
+}
+
+.expandedview .active {
+  background: none repeat scroll 0 0 #F56426;
+  border: 0 solid #000;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 0 0 transparent, 2px 3px 1px rgba(0, 0, 0, 0.1) inset;
+  color: #FFF!important;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 0 0 0 rgba(128, 37, 128, 0);
+  cursor: auto
+}
+
+.roomtropricevalue {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 28px;
+  float: left;
+  color: #f33e20;
+  margin-top: -5px
+}
+
+.roomtropreviouspricevalue {
+  font-size: 12px;
+  line-height: 14px;
+  text-decoration: line-through;
+  float: left;
+  margin: 10px 10px 0
+}
+
+.roomtrodesc {
+  font-size: 12px;
+  line-height: 14px;
+  font-style: italic
+}
+
+.productsInRoomTItle {
+  border: 0 none;
+  color: #333;
+  font-family: Verdana;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin: 0 0 20px;
+  text-align: left;
+  font-size: 18px
+}
+
+.jsroompreviouslink {
+  display: inline;
+  float: left;
+  text-align: right;
+  margin-right: 1.853%;
+  width: 15.095%;
+  border: 0;
+  padding: 0
+}
+
+.jsroomnextlink {
+  display: inline;
+  float: left;
+  text-align: left;
+  margin-right: 1.853%;
+  width: 15.095%;
+  border: 0;
+  padding: 0
+}
+
+.roomsetTeamsiteProductsRow {
+  float: left;
+  width: 1062px;
+  height: auto
+}
+
+.roomsetTeamsiteProductsColumn {
+  float: left;
+  width: 250px;
+  height: 120px;
+  padding-top: 120px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: #C0C0C0;
+  text-align: center;
+  vertical-align: middle
+}
+
+.roomsetTeamsiteProductsColumnLast {
+  float: left;
+  width: 250px;
+  height: 120px;
+  padding-top: 120px;
+  margin-right: 0;
+  background-color: #C0C0C0;
+  margin-bottom: 20px;
+  text-align: center;
+  vertical-align: middle
+}
+
+.nonJsPriceContainer {
+  float: left;
+  margin-bottom: 10px
+}
+
+.nonJsFloorContainer {
+  float: left
+}
+
+.nonjsfloorplancontainer {
+  width: 520px;
+  height: 390px;
+  border: none;
+  float: left;
+  margin-top: 1px;
+  margin-bottom: 0
+}
+
+.roomsettronote {
+  font-size: 12px;
+  line-height: 14px;
+  font-style: italic;
+  float: left
+}
+
+.choice_thumbnail_show {
+  background: no-repeat 0 0;
+  position: absolute;
+  right: 0;
+  bottom: 0
+}
+
+.choice_thumbnail_hide {
+  background: no-repeat 0 0;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 0;
+  height: 0
+}
+
+.roomComponent .roomComponentcontent .gridRow {
+  margin-bottom: 0!important
+}
+
+.roomsetlower {
+  text-transform: lowercase
+}
+
+#mainCorrosilContiner {
+  float: left;
+  width: 1062px
+}
+
+.corrosilDisplaylayer {
+  width: 1062px;
+  text-align: center;
+  vertical-align: middle;
+  display: none;
+  min-height: 415px;
+  margin-bottom: 44px
+}
+
+.whatsection .corrosilDisplaylayer .gridRow {
+  margin-bottom: 10px!important
+}
+
+#corrosilLeftArrow {
+  display: block;
+  margin-right: 3px
+}
+
+#corrosilRightArrow {
+  display: block;
+  margin-left: 3px
+}
+
+.corrosilnavigatingarrow {
+  display: block;
+  position: absolute;
+  z-index: 100;
+  float: left;
+  cursor: pointer;
+  opacity: .8
+}
+
+.corrosilnavigatingarrow:hover {
+  opacity: 1
+}
+
+.corrosilnavigatingarrowinactive {
+  display: block;
+  position: fixed;
+  top: 50%;
+  z-index: 1000
+}
+
+#SlideIndiacator {
+  text-align: center;
+  margin-top: 10px
+}
+
+.activeSlideIndiacator {
+  margin-right: 10px
+}
+
+.slideContainerDiv {
+  text-align: center;
+  width: 1060px
+}
+
+.homepagenews {
+  float: left;
+  width: 1062px
+}
+
+.whatsection {
+  float: left;
+  width: 1062px
+}
+
+.whysection {
+  float: left;
+  width: 1062px;
+  position: relative;
+  margin-bottom: 50px
+}
+
+.howsection {
+  float: left;
+  width: 1062px;
+  position: relative
+}
+
+.howsection .howsectionpart1 {
+  float: left;
+  width: 1062px;
+  margin-bottom: 30px
+}
+
+.howsection .howsectionpart2 {
+  float: left;
+  width: 99%
+}
+
+.howsection .howsectionpart2 .storeandhelp {
+  float: left;
+  width: 66.038%;
+  position: relative;
+  margin-bottom: 66px;
+  margin-right: 1.853%
+}
+
+.howsection .howsectionpart2 .productrecall {
+  float: left;
+  width: 32.077%;
+  height: 100%;
+  position: relative;
+  margin-bottom: 66px
+}
+
+.howsection .howsectionpart2 .storeandhelp .gridRow {
+  margin: 0
+}
+
+.howsection .howsectionpart2 .productrecall .gridRow {
+  float: left;
+  margin: 0
+}
+
+.homepageHeading {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: bold
+}
+
+.contentContainer {
+  border: 1px solid #DDD;
+  height: auto;
+  margin: 11px 0 25px;
+  padding: 16px 0;
+  width: 1058px
+}
+
+.contentContainer div {
+  Width: 500px;
+  margin-left: 10px
+}
+
+.contentContainer .subheader {
+  font-size: 12px;
+  letter-spacing: 2px;
+  line-height: 12px;
+  text-transform: uppercase
+}
+
+.contentContainer .headline {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 28px;
+  margin-top: 3px
+}
+
+.contentContainer .paragraph {
+  font-size: 12px;
+  line-height: 18px;
+  margin: 6px 9px
+}
+
+.contentContainer .link {
+  font-size: 12px;
+  line-height: 18px;
+  margin-left: 9px
+}
+
+DIV#newsticker {
+  WIDTH: 1060px;
+  FONT-SIZE: 12px;
+  height: 31px;
+  margin-bottom: 25px
+}
+
+.newsTickerBottomBorder {
+  border-bottom: 1px solid #ddd
+}
+
+#newsticker .tickerText {
+  display: inline;
+  MARGIN: -9px 0 0;
+  FLOAT: left;
+  WIDTH: 970px;
+  PADDING-TOP: 17px;
+  padding-bottom: 10px
+}
+
+#newsticker .tickerHeadline {
+  MARGIN: 0 6px 0 0;
+  FLOAT: left;
+  LETTER-SPACING: 2px;
+  FONT-SIZE: 12px;
+  text-transform: uppercase;
+  font-weight: normal
+}
+
+#controlsContainer {
+  float: right;
+  display: inline;
+  PADDING-TOP: 8px
+}
+
+#newsticker #play {
+  FLOAT: left;
+  MARGIN-RIGHT: 15px;
+  background-image: url("/ms/img/newsticker/Play.png");
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 15px;
+  background-color: transparent;
+  border: none
+}
+
+#newsticker #play:hover {
+  MARGIN-RIGHT: 15px;
+  background-image: url("/ms/img/newsticker/Hover_Play.png");
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 15px;
+  background-color: transparent;
+  border: none
+}
+
+#newsticker #pause {
+  FLOAT: left;
+  MARGIN-RIGHT: 13px;
+  background-image: url("/ms/img/newsticker/Pause.png");
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 15px;
+  background-color: transparent;
+  border: none
+}
+
+#newsticker #pause:hover {
+  background-image: url("/ms/img/newsticker/Hover_Pause.png");
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 15px;
+  background-color: transparent;
+  border: none
+}
+
+#newsticker #next {
+  FLOAT: left;
+  MARGIN-RIGHT: 10px;
+  background-image: url("/ms/img/newsticker/FWD.png");
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 15px;
+  background-color: transparent;
+  border: none
+}
+
+#newsticker #next:hover {
+  background-image: url("/ms/img/newsticker/Hover_FWD.png");
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 15px;
+  background-color: transparent;
+  border: none
+}
+
+#newsticker #prev {
+  FLOAT: left;
+  MARGIN-RIGHT: 10px;
+  background-image: url("/ms/img/newsticker/BKW.png");
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 10px;
+  background-color: transparent;
+  border: none
+}
+
+#newsticker #prev:hover {
+  background-image: url("/ms/img/newsticker/Hover_BKW.png");
+  background-repeat: no-repeat;
+  height: 17px;
+  width: 10px;
+  background-color: transparent;
+  border: none
+}
+
+#newslist SPAN {
+  text-overflow: ellipsis;
+  WHITE-SPACE: nowrap;
+  OVERFLOW: hidden;
+  -o-text-overflow: ellipsis;
+  display: block
+}
+
+#newslist {
+  text-overflow: ellipsis;
+  WHITE-SPACE: nowrap;
+  OVERFLOW: hidden;
+  -o-text-overflow: ellipsis;
+  display: block
+}
+
+#newslist SPAN a {
+  color: #0269CE
+}
+
+#productrecallslideShowContainer {
+  width: 338px;
+  height: 100%;
+  border: 1px solid #9cf;
+  float: left
+}
+
+#productrecallslideShowImage {
+  margin: 20px 15px 20px 20px;
+  width: 110px;
+  height: 110px;
+  float: left
+}
+
+#productrecallslideShow .selected {
+  background-image: url('http://www.ikea.com/ms/img/ProductRecall_Indicator.png');
+  background-repeat: no-repeat;
+  background-position: left center
+}
+
+#productrecallslideShow {
+  margin-top: 16px;
+  margin-right: 20px;
+  float: left;
+  width: 173px
+}
+
+.recallProductName {
+  text-transform: uppercase;
+  color: #333;
+  padding-left: 15px;
+  max-width: 160px;
+  text-align: left
+}
+
+.recallProductType {
+  color: #999;
+  max-width: 160px;
+  padding-left: 15px;
+  text-align: left;
+  margin-bottom: 7px
+}
+
+.recallproductDetails {
+  Font-size: 12px;
+  Line-height: 12px
+}
+
+.productRecallLink a {
+  color: #0269ce;
+  padding-left: 15px;
+  font-size: 12px;
+  line-height: 12px
+}
+
+.productRecallLink {
+  margin-top: 18px;
+  padding-left: 0;
+  margin-bottom: 19px
+}
+
+#productrecallHeadLine {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 20px;
+  text-align: left;
+  margin-top: 16px;
+  margin-left: 18px
+}
+
+.customLink a:hover {
+  color: #0269ce;
+  text-decoration: underline
+}
+
+.customLink a {
+  color: #0269ce!important;
+  text-decoration: none
+}
+
+.gridRow .gridComponent .prodStyle3_B a {
+  color: #000
+}
+
+.gridRow .gridComponent .prodStyle3_B a:hover {
+  color: #000
+}
+
+.gridRow .gridComponent .prodStyle3_B #seoPlannerButton a:hover {
+  color: #3399FD;
+  text-decoration: underline!important
+}
+
+.gridRow .gridComponent a {
+  color: #3399FD
+}
+
+.gridRow .gridComponent .prodStyle3_B .plannerButton a:hover {
+  text-decoration: underline
+}
+
+.plannerButton a, a:link, a:active, a:visited {
+  color: #3399FD;
+  text-decoration: none
+}
+
+.plannerButton a:hover {
+  color: #3399FD;
+  text-decoration: underline
+}
