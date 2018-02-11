@@ -166,7 +166,7 @@
         id: 'products-acc',
         url: '#',
         linkClass: 'menu-link arrow',
-        label: 'Produkty'
+        label: 'GOODS'
       },
       {
         class: 'header-nav-sub-block-cnt menu-rooms',
@@ -176,50 +176,50 @@
         label: 'ROOMS'
       },
       {
-        url: '//www.ikea.com/pl/pl/ideas/?icid=itl|pl|menu|201712131549414989_207',
+        url: '//youtu.be/qZMMJo7jOTQ',
         linkClass: 'menu-link',
-        label: 'IKEA in Poland'
+        label: 'WELCOME TO UKRAINE'
       }
     ];
 
     var roomsLinks = [{
         firstroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/bedroom?icid=itl|pl|menu|201712131549414989_197',
-        firstroomLabel: 'Sypialnia',
+        firstroomLabel: 'BEDROOM',
         firstroomImg: '//www.ikea.com/ms/pl_PL/img/header/bedroom.jpg',
         secondroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/workspaces/?icid=itl|pl|menu|201712131549414989_202',
-        secondroomLabel: 'Domowe biuro',
+        secondroomLabel: 'WORK SPACE',
         secondroomImg: '//www.ikea.com/ms/pl_PL/img/header/office.jpg'
       },
       {
         firstroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room?icid=itl|pl|menu|201712131549414989_198',
-        firstroomLabel: 'PokĂłj dzienny',
+        firstroomLabel: 'LIVING ROOM',
         firstroomImg: '//www.ikea.com/ms/pl_PL/img/header/livingroom.jpg',
         secondroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/bathroom?icid=itl|pl|menu|201712131549414989_203',
-        secondroomLabel: 'Ĺazienka',
+        secondroomLabel: 'BATHROOM',
         secondroomImg: '//www.ikea.com/ms/pl_PL/img/header/bathroom.jpg'
       },
       {
         firstroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/childrens_ikea/?icid=itl|pl|menu|201712131549414989_199',
-        firstroomLabel: 'PokĂłj dzieciÄcy',
+        firstroomLabel: 'CHILDREN\'S',
         firstroomImg: '//www.ikea.com/ms/pl_PL/img/header/children.jpg',
         secondroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/laundry?icid=itl|pl|menu|201712131549414989_204',
-        secondroomLabel: 'Pomiesz. gospodarcze',
+        secondroomLabel: 'LAUNDRY',
         secondroomImg: '//www.ikea.com/ms/pl_PL/img/header/laundry.jpg'
       },
       {
         firstroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/kitchen?icid=itl|pl|menu|201712131549414989_200',
-        firstroomLabel: 'Kuchnia i AGD',
+        firstroomLabel: 'KITCHEN',
         firstroomImg: '//www.ikea.com/ms/pl_PL/img/header/kitchen.jpg',
         secondroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/hallway?icid=itl|pl|menu|201712131549414989_205',
-        secondroomLabel: 'PrzedpokĂłj',
+        secondroomLabel: 'HALLWAY',
         secondroomImg: '//www.ikea.com/ms/pl_PL/img/header/hallway.jpg'
       },
       {
         firstroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/dining?icid=itl|pl|menu|201712131549414989_201',
-        firstroomLabel: 'Jadalnia',
+        firstroomLabel: 'DINNING',
         firstroomImg: '//www.ikea.com/ms/pl_PL/img/header/dinningroom.jpg',
         secondroomUrl: '//www.ikea.com/pl/pl/catalog/categories/departments/outdoor?icid=itl|pl|menu|201712131549414989_206',
-        secondroomLabel: 'Balkon i ogrĂłd',
+        secondroomLabel: 'OUTDOOR',
         secondroomImg: '//www.ikea.com/ms/pl_PL/img/header/garden.jpg'
       }
     ];
@@ -227,88 +227,88 @@
     var sofas = [
       [{
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/39130/?icid=itl|pl|menu|201712131549414940_10',
-          label: 'Wszystkie modele sof'
+          label: 'All models of sofas'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10661/?icid=itl|pl|menu|201712131549414940_11',
-          label: 'Sofy nierozkĹadane'
+          label: 'Unheated sofas'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10662/?icid=itl|pl|menu|201712131549414940_12',
-          label: 'Sofy skĂłrzane i ze sztucznej skĂłry'
+          label: 'Leather sofas and artificial leather'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10663/?icid=itl|pl|menu|201712131549414940_13',
-          label: 'Sofy rozkĹadane'
+          label: 'Unfolded sofas'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/16238/?icid=itl|pl|menu|201712131549414940_14',
-          label: 'Sofy moduĹowe'
+          label: 'Modular sofas'
         }
       ],
       [{
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/20926/?icid=itl|pl|menu|201712131549414940_15',
-          label: 'PodnĂłĹźki i pufy'
+          label: 'Stools and footstools'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/16239/?icid=itl|pl|menu|201712131549414940_16',
-          label: 'Fotele'
+          label: 'Armchairs'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10664/?icid=itl|pl|menu|201712131549414940_17',
-          label: 'Dodatkowe pokrycia'
+          label: 'Additional covers'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10705/?icid=itl|pl|menu|201712131549414940_18',
-          label: 'Stoliki kawowe i nocne'
+          label: 'Coffee and night tables'
         }
       ]
     ];
     var shelves = [
       [{
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10475/?icid=itl|pl|menu|201712131549414940_19',
-          label: 'Szafki RTV'
+          label: 'RTV cabinets'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/29882/?icid=itl|pl|menu|201712131549414940_20',
-          label: 'System moduĹowy BESTA'
+          label: 'BESTA module system'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/11465/?icid=itl|pl|menu|201712131549414940_21',
-          label: 'RegaĹy'
+          label: 'Shelves'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10550/?icid=itl|pl|menu|201712131549414940_22',
-          label: 'PudeĹka do regaĹĂłw'
+          label: 'Boxes for shelves'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10382/?icid=itl|pl|menu|201712131549414940_23',
-          label: 'Biblioteczki'
+          label: 'Bookcases'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10384/?icid=itl|pl|menu|201712131549414940_24',
-          label: 'Witryny'
+          label: 'Sites'
         }
       ],
       [{
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/bedroom/10451/?icid=itl|pl|menu|201712131549414940_25',
-          label: 'Komody'
+          label: 'Chests'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10398/?icid=itl|pl|menu|201712131549414940_26',
-          label: 'PĂłĹki Ĺcienne'
+          label: 'Shelves wall'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/living_room/10550/?icid=itl|pl|menu|201712131549414940_27',
-          label: 'PudĹa, kosze i kartony'
+          label: 'Box, baskets and cartons'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/kitchen/16200/?icid=itl|pl|menu|201712131549414940_28',
-          label: 'RegaĹy do spiĹźarni'
+          label: 'Racks for the pantry'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/laundry/11751/?icid=itl|pl|menu|201712131549414940_29',
-          label: 'System moduĹowy ALGOT'
+          label: 'ALGOT module system'
         }
       ]
     ];
@@ -576,19 +576,19 @@
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/workspaces/10711/?icid=itl|pl|menu|201712131549414959_90',
-          label: 'Komody i kontenerki'
+          label: 'Irish Scotch'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/workspaces/20502/?icid=itl|pl|menu|201712131549414959_91',
-          label: 'Lampy do pracy'
+          label: 'Ukrainian vodka'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/workspaces/10398/?icid=itl|pl|menu|201712131549414959_92',
-          label: 'PĂłĹki Ĺcienne'
+          label: 'Russian vodka'
         },
         {
           url: '//www.ikea.com/pl/pl/catalog/categories/departments/workspaces/11465/?icid=itl|pl|menu|201712131549414959_93',
-          label: 'RegaĹy'
+          label: 'Finlandian vodka'
         }
       ],
       [{
@@ -1059,40 +1059,40 @@
     var banners = {
       textiles: {
         "color": "text-white",
-        "link": "http://www.ikea.com/pl/pl/catalog/products/50163773/?cid=iba|pl|menu_banners|201709131724447946_1",
-        "image": "/ms/pl_PL/img/header/banner_dywany.jpg",
-        "name": "ĂDUM",
-        "category": "Dywan z dĹugim wĹosiem",
-        "price": "199 PLN",
-        "previousPrice": "249 PLN",
+        "link": "//www.ikea.com/pl/pl/catalog/products/50163773/?cid=iba|pl|menu_banners|201709131724447946_1",
+        "image": "//www.ikea.com/ms/pl_PL/img/header/banner_dywany.jpg",
+        "name": "IKEA HAND MADE",
+        "category": "Very cool sofa",
+        "price": "1899 UAH",
+        "previousPrice": "2249 UAH",
         "nnc": "block"
       },
       beds: {
-        "link": "http://www.ikea.com/pl/pl/catalog/products/00318881/?cid=iba|pl|menu_banners|201709131725073963_1",
-        "image": "/ms/pl_PL/img/header/banner_lozka.jpg",
+        "link": "//www.ikea.com/pl/pl/catalog/products/00318881/?cid=iba|pl|menu_banners|201709131725073963_1",
+        "image": "//www.ikea.com/ms/pl_PL/img/header/banner_lozka.jpg",
         "name": "FYRESDAL",
-        "category": "Rama leĹźanki",
-        "price": "599 PLN",
-        "previousPrice": "649 PLN",
+        "category": "This is something...",
+        "price": "3599 UAH",
+        "previousPrice": "4649 UAH",
         "nnc": "block"
       },
       kitchen: {
-        "link": "http://www.ikea.com/pl/pl/catalog/categories/departments/kitchen/?cid=iba|pl|menu_banners|201711071433246905_1",
-        "image": "/ms/pl_PL/img/header/banner_raty_kuchnia_v3.jpg",
+        "link": "//www.ikea.com/pl/pl/catalog/categories/departments/kitchen/?cid=iba|pl|menu_banners|201711071433246905_1",
+        "image": "//www.ikea.com/ms/pl_PL/img/header/banner_raty_kuchnia_v3.jpg",
         "nnc": "none"
       },
       lightning: {
-        "link": "http://www.ikea.com/pl/pl/catalog/categories/departments/kitchen/16282/",
+        "link": "//www.ikea.com/pl/pl/catalog/categories/departments/kitchen/16282/",
         "image": "//api-ikea.pl/img/banners/baner_oswietlenie.jpg",
         "nnc": "none"
       },
       lightning: {
-        "link": "http://www.ikea.com/pl/pl/catalog/categories/departments/kitchen/16282/",
+        "link": "//www.ikea.com/pl/pl/catalog/categories/departments/kitchen/16282/",
         "image": "//api-ikea.pl/img/banners/baner_oswietlenie.jpg",
         "nnc": "none"
       },
       sofas: {
-        "link": "http://www.ikea.com/pl/pl/zrob_miejsce_na_radosc/?cid=iba|pl|menu_banners|201711071433295819_2",
+        "link": "//www.ikea.com/pl/pl/zrob_miejsce_na_radosc/?cid=iba|pl|menu_banners|201711071433295819_2",
         "image": "//www.ikea.com/ms/pl_PL/img/header/IKEA_Fotele_banner_menu_promo_666x239.jpg",
         "nnc": "none"
       }
@@ -1131,91 +1131,91 @@
     homeElectronics = _this.generateProductList(homeElectronics, productsTmpl);
 
     var productsCategories = [{
-        label: 'Sofy i fotele',
+        label: 'Sofas',
         products: sofas,
         banner: banners.sofas
       },
       {
-        label: 'RegaĹy i przechowywanie ',
+        label: 'Shelves',
         products: shelves
       },
       {
-        label: 'StoĹy, stoliki, krzesĹa i Ĺawki',
+        label: 'Tables',
         products: tables,
         banner: banners.tables
       },
       {
-        label: 'Tekstylia i dywany',
+        label: 'Textiles',
         products: textiles,
         banner: banners.textiles
       },
       {
-        label: 'OĹwietlenie',
+        label: 'Lightning',
         products: lightning,
         banner: banners.lightning
       },
       {
-        label: 'Dekoracje i roĹliny',
+        label: 'Decoration',
         products: decoration
       },
       {
-        label: 'Nauka i praca',
+        label: 'Study',
         products: study
       },
       {
-        label: 'Meble dla dzieci i mĹodzieĹźy',
+        label: 'IKEA for children',
         products: children
       },
       {
-        label: 'Szafy i przechowywanie ubraĹ',
+        label: 'Wardrobes',
         products: wardrobes
       },
       {
-        label: 'ĹĂłĹźka i materace',
+        label: 'Beds',
         products: beds,
         banner: banners.beds
       },
       {
-        label: 'Meble i akcesoria Ĺazienkowe',
+        label: 'Bathroom',
         products: bathroom
       },
       {
-        label: 'Organizacja w domu i sprzÄtanie',
+        label: 'Cleaning',
         products: cleaning
       },
       {
-        label: 'Meble kuchenne i AGD',
+        label: 'Kitchen',
         products: kitchen
       },
       {
-        label: 'Akcesoria do gotowania',
+        label: 'Cooking',
         products: cooking
       },
       {
-        label: 'Jedzenie i serwowanie potraw',
+        label: 'Eating',
         products: eating
       },
       {
-        label: 'Elektronika domowa',
+        label: 'Home electronics',
         products: homeElectronics
       },
       {
-        label: 'Panele sĹoneczne',
+        label: 'Any questions else?',
         url: '//www.ikea.com/pl/pl/energia-sloneczna-dla-domu/index.html?icid=itl|pl|menu|201712131549414989_196'
       }
     ];
 
     var additional = [{
         url: '//www.ikea.com/ms/pl_PL/nnc/',
-        label: 'NOWE NIĹťSZE CENY'
+        label: 'HOT PRICES'
       },
       {
         url: '//www.ikea.com/pl/pl/catalog/news/departments/',
-        label: 'NOWOĹCI'
+        label: 'NEWS'
       },
       {
         url: '//www.ikea.com/pl/pl/ofertylokalne/index.html',
-        label: 'OFERTY LOKALNE'
+        label: 'SOMETHING INTERESTING'
       }
     ];
 
