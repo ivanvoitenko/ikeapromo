@@ -62,7 +62,7 @@ div.buttonContainer a:hover, div.buttonContainer a.hover {
 }
 
 div.buttonContainer a div, div.buttonContainer a span, div.buttonContainer div, div.buttonContainer span {
-  background-image: url('http://www.ikea.com/ms/img/button/button.gif')
+  background-image: url(//www.ikea.com/ms/img/button/button.gif)
 }
 
 div.buttonContainer a .buttonCaption, div.buttonContainer .buttonCaption {
@@ -543,7 +543,7 @@ a.skipToMainContent:active, a.skipToMainContent:focus {
   font-size: 1.15em;
   height: 3.23em;
   width: 81.3em;
-  background: url(http://www.ikea.com/ms/img/misc/filter_bot_bg.gif) bottom left repeat-x;
+  background: url(//www.ikea.com/ms/img/misc/filter_bot_bg.gif) bottom left repeat-x;
   margin-top: .52em;
   border-bottom: 1px solid #BABABA;
   border-top: 1px solid #F2F2F2
@@ -1117,7 +1117,7 @@ a.shoppingListLink {
 }
 
 .flashHtml .mainImage .shadow {
-  background-image: url("http://www.ikea.com/ms/img/html_ad/html_ad_container_shadow.png");
+  background-image: url(//www.ikea.com/ms/img/html_ad/html_ad_container_shadow.png);
   background-repeat: no-repeat;
   bottom: -9px;
   height: 60px;
@@ -1278,7 +1278,7 @@ a.shoppingListLink {
   height: 63px;
   width: 50px;
   background-repeat: no-repeat;
-  background-image: url('http://www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png')
+  background-image: url(//www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png)
 }
 
 .flashHtml .mainImage a.previous {
@@ -1420,7 +1420,7 @@ a.shoppingListLink {
   text-align: center;
   left: 320px;
   bottom: 0;
-  background-image: url(http://www.ikea.com/ms/img/html_ad/page_no_bg.png)
+  background-image: url(//www.ikea.com/ms/img/html_ad/page_no_bg.png)
 }
 
 .flashHtml .mainImage .prevAnimContainer {
@@ -1447,7 +1447,7 @@ a.shoppingListLink {
 
 .flashHtml .mainImage .prevAnimContainer .rightEdge {
   width: 10px;
-  background-image: url(http://www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png);
+  background-image: url(//www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png);
   background-position: -40px 50%;
   float: left;
   height: 63px
@@ -1477,7 +1477,7 @@ a.shoppingListLink {
 
 .flashHtml .mainImage .nextAnimContainer .rightEdge {
   width: 10px;
-  background-image: url(http://www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png);
+  background-image: url(//www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png);
   background-position: 50px 50%;
   float: right;
   height: 63px
@@ -1541,7 +1541,7 @@ a.shoppingListLink {
   bottom: -11px;
   left: 58px;
   width: 21px;
-  background: url(http://www.ikea.com/ms/img/sharePluginArrow.png) no-repeat top left
+  background: url(//www.ikea.com/ms/img/sharePluginArrow.png) no-repeat top left
 }
 
 #miniaturePopup .prodName, #miniaturePopup .prodPrice {
@@ -1855,13 +1855,13 @@ img.hidden {
 }
 
 .mainMenu td {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -297px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -297px;
   padding: 0;
   white-space: nowrap
 }
 
 .mainMenu td a .separator {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -264px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -264px;
   width: 100%;
   height: 23px;
   padding-top: 10px;
@@ -1870,17 +1870,17 @@ img.hidden {
 }
 
 .mainMenu td.allProducts a .separator {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -132px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -132px;
   display: block
 }
 
 .mainMenu td.allProducts a:hover .separator, .mainMenu td.allProducts a.active .separator {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -165px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -165px;
   display: block
 }
 
 .mainMenu td.allProducts a .end {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat left 0;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat left 0;
   width: 100%;
   height: 100%;
   cursor: pointer;
@@ -1888,11 +1888,11 @@ img.hidden {
 }
 
 .mainMenu td.allProducts a:hover .end, .mainMenu td.allProducts a.active .end {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat left -33px
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat left -33px
 }
 
 .mainMenu td.moreRooms a .end {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -363px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -363px;
   width: 100%;
   height: 23px;
   padding-top: 10px;
@@ -1901,7 +1901,7 @@ img.hidden {
 }
 
 .mainMenu td.moreRooms a:hover .end, .mainMenu td.moreRooms a:active .end {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -396px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -396px;
   display: block
 }
 
@@ -1920,21 +1920,21 @@ img.hidden {
 }
 
 .mainMenu td a:hover, .mainMenu td a.active {
-  background: #FF9209 url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -330px;
+  background: #FF9209 url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -330px;
   text-decoration: none;
   color: #FFF
 }
 
 .mainMenu td.allProducts {
-  background: #0167CB url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -66px
+  background: #0167CB url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -66px
 }
 
 .mainMenu td.allProducts a:hover, .mainMenu td.allProducts a.active {
-  background: #0167CB url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -99px
+  background: #0167CB url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -99px
 }
 
 .mainMenu td.newAtIkea {
-  background: #000 url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -198px
+  background: #000 url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -198px
 }
 
 .mainMenu td.newAtIkea .padding {
@@ -1942,7 +1942,7 @@ img.hidden {
 }
 
 .mainMenu td.newAtIkea a:hover, .mainMenu td.newAtIkea a.active {
-  background: #000 url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -231px
+  background: #000 url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -231px
 }
 
 .mainMenu ul {
@@ -1951,13 +1951,13 @@ img.hidden {
   text-align: left;
   margin: 0;
   padding: 0;
-  background: url(http://www.ikea.com/ms/img/header/header.gif) repeat-x 0 -297px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -297px;
   list-style-type: none;
   height: 33px
 }
 
 .mainMenu li {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -297px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -297px;
   padding: 0;
   white-space: nowrap;
   display: block;
@@ -1967,7 +1967,7 @@ img.hidden {
 
 .mainMenu li:after {
   content: "";
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -264px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -264px;
   width: 1px;
   height: 23px;
   padding-top: 10px;
@@ -1983,17 +1983,17 @@ img.hidden {
 }
 
 .mainMenu li.allProducts a .separator {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -132px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -132px;
   display: block
 }
 
 .mainMenu li.allProducts a:hover .separator, .mainMenu li.allProducts a.active .separator {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -165px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -165px;
   display: block
 }
 
 .mainMenu li.allProducts a .end {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat left 0;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat left 0;
   width: 100%;
   height: 100%;
   cursor: pointer;
@@ -2001,11 +2001,11 @@ img.hidden {
 }
 
 .mainMenu li.allProducts a:hover .end, .mainMenu li.allProducts a.active .end {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat left -33px
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat left -33px
 }
 
 .mainMenu li.moreRooms a .end {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -363px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -363px;
   width: 100%;
   height: 23px;
   padding-top: 10px;
@@ -2014,7 +2014,7 @@ img.hidden {
 }
 
 .mainMenu li.moreRooms a:hover .end, .mainMenu li.moreRooms a:active .end {
-  background: url('http://www.ikea.com/ms/img/header/header.gif') no-repeat right -396px;
+  background: url(//www.ikea.com/ms/img/header/header.gif) no-repeat right -396px;
   display: block
 }
 
@@ -2036,21 +2036,21 @@ img.hidden {
 }
 
 .mainMenu li a:hover, .mainMenu li a.active {
-  background: #FF9209 url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -330px;
+  background: #FF9209 url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -330px;
   text-decoration: none;
   color: #FFF
 }
 
 .mainMenu li.allProducts {
-  background: #0167CB url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -66px
+  background: #0167CB url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -66px
 }
 
 .mainMenu li.allProducts a:hover, .mainMenu li.allProducts a.active {
-  background: #0167CB url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -99px
+  background: #0167CB url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -99px
 }
 
 .mainMenu li.newAtIkea {
-  background: #000 url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -198px
+  background: #000 url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -198px
 }
 
 .mainMenu li.newAtIkea .padding {
@@ -2058,7 +2058,7 @@ img.hidden {
 }
 
 .mainMenu li.newAtIkea a:hover, .mainMenu li.newAtIkea a.active {
-  background: #000 url('http://www.ikea.com/ms/img/header/header.gif') repeat-x 0 -231px
+  background: #000 url(//www.ikea.com/ms/img/header/header.gif) repeat-x 0 -231px
 }
 
 li#moreRooms #moreRoomsMenu {
@@ -2215,21 +2215,21 @@ li#moreRooms #moreRoomsMenu li .productImage {
   float: left;
   width: .52em;
   height: .52em;
-  background: url('http://www.ikea.com/ms/img/header/sub_menu.gif') 0 0 no-repeat
+  background: url(//www.ikea.com/ms/img/header/sub_menu.gif) 0 0 no-repeat
 }
 
 #allContent #moreRoomsMenu .endCenter {
   float: left;
   height: .52em;
   width: 43.12em;
-  background: url('http://www.ikea.com/ms/img/header/sub_menu.gif') 0 -5px repeat-x
+  background: url(//www.ikea.com/ms/img/header/sub_menu.gif) 0 -5px repeat-x
 }
 
 #allContent #moreRoomsMenu .endRight {
   float: right;
   width: .52em;
   height: .52em;
-  background: url('http://www.ikea.com/ms/img/header/sub_menu.gif') 0 -10px no-repeat
+  background: url(//www.ikea.com/ms/img/header/sub_menu.gif) 0 -10px no-repeat
 }
 
 #allContent #moreRoomsMenu img {
@@ -2240,7 +2240,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
 }
 
 #allContent #moreRoomsMenu .productImage {
-  background-image: url('http://www.ikea.com/ms/img/menu/products/products_small.gif');
+  background-image: url(//www.ikea.com/ms/img/menu/products/products_small.gif);
   width: 2.26em;
   height: 2.26em;
   margin-right: .91em;
@@ -2490,7 +2490,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
   float: right;
   margin-right: .45em;
   margin-top: .36em;
-  background: #ccc url('http://www.ikea.com/ms/img/navigation/plus.gif') no-repeat;
+  background: #ccc url(//www.ikea.com/ms/img/navigation/plus.gif) no-repeat;
   height: .727em;
   width: .727em;
   text-indent: .727em;
@@ -2499,7 +2499,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
 }
 
 .leftNavigation span.navToggleOpen {
-  background-image: url('http://www.ikea.com/ms/img/navigation/minus.gif')
+  background-image: url(//www.ikea.com/ms/img/navigation/minus.gif)
 }
 
 .leftNavigation .navigationBlock .navItem a:hover span.navToggle, .leftNavigation .navigationBlock .subItem a:hover span.navToggle {
@@ -2864,7 +2864,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
   display: block;
   width: 71.88em;
   height: 34px;
-  background: #EEE url(http://www.ikea.com/ms/img/filter/filter_bg.gif) repeat-x scroll left bottom;
+  background: #EEE url(//www.ikea.com/ms/img/filter/filter_bg.gif) repeat-x scroll left bottom;
   clear: both;
   margin: 1.04em 0 0 .94em;
   border-right: 1px solid #e0e0e0;
@@ -2882,13 +2882,13 @@ li#moreRooms #moreRoomsMenu li .productImage {
   padding-left: 15px;
   padding-right: 15px;
   cursor: pointer;
-  background: url(http://www.ikea.com/ms/img/filter/filter_divider.gif) no-repeat center right;
+  background: url(//www.ikea.com/ms/img/filter/filter_divider.gif) no-repeat center right;
   margin-left: -1px;
   position: relative
 }
 
 .filterContainer .filter:hover, .filterContainer .filterActive {
-  background: url(http://www.ikea.com/ms/img/filter/filter_bg_on.gif) repeat-x scroll left bottom;
+  background: url(//www.ikea.com/ms/img/filter/filter_bg_on.gif) repeat-x scroll left bottom;
   font-size: 14px;
   line-height: 34px;
   float: left;
@@ -2898,7 +2898,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
 }
 
 .filter .text {
-  background: url(http://www.ikea.com/ms/img/filter/filter_arrow_off.gif) no-repeat scroll right 15px;
+  background: url(//www.ikea.com/ms/img/filter/filter_arrow_off.gif) no-repeat scroll right 15px;
   padding-right: 16px;
   cursor: pointer;
   position: relative;
@@ -3085,11 +3085,11 @@ li#moreRooms #moreRoomsMenu li .productImage {
   *border: 0;
   *width: 14px;
   *height: 14px;
-  *background: #FFF url(http://www.ikea.com/ms/img/filter/color_transp.png) no-repeat scroll 0 0
+  *background: #FFF url(//www.ikea.com/ms/img/filter/color_transp.png) no-repeat scroll 0 0
 }
 
 .rightContent .filterDropdowns .multicolor {
-  background-image: url(http://www.ikea.com/ms/img/filter/multicolor.gif);
+  background-image: url(//www.ikea.com/ms/img/filter/multicolor.gif);
   background-position: -6px -5px;
   *background-position: -5px -4px
 }
@@ -3097,11 +3097,11 @@ li#moreRooms #moreRoomsMenu li .productImage {
 .rightContent .filter .color {
   margin-right: 6px;
   margin-top: 11px;
-  *background: #FFF url(http://www.ikea.com/ms/img/filter/color_menu_transp.png) no-repeat scroll 0 0
+  *background: #FFF url(//www.ikea.com/ms/img/filter/color_menu_transp.png) no-repeat scroll 0 0
 }
 
 .rightContent .filter .colorHover {
-  *background: #FFF url(http://www.ikea.com/ms/img/filter/color_menu_transp_hover.png) no-repeat scroll 0 0
+  *background: #FFF url(//www.ikea.com/ms/img/filter/color_menu_transp_hover.png) no-repeat scroll 0 0
 }
 
 .rightContent .tabsContainer {
@@ -3558,15 +3558,15 @@ li#moreRooms #moreRoomsMenu li .productImage {
   height: 19px;
   background-color: #efefef;
   text-decoration: none;
-  background: url(http://www.ikea.com/ms/img/zoom_off.gif) no-repeat top left
+  background: url(//www.ikea.com/ms/img/zoom_off.gif) no-repeat top left
 }
 
 #productPopup a.zoom:hover {
-  background: url(http://www.ikea.com/ms/img/zoom_on.gif) no-repeat top left
+  background: url(//www.ikea.com/ms/img/zoom_on.gif) no-repeat top left
 }
 
 #popupBg {
-  background: url(http://www.ikea.com/ms/img/bgPop.gif) repeat-y top left;
+  background: url(//www.ikea.com/ms/img/bgPop.gif) repeat-y top left;
   padding-left: 4px;
   padding-right: 4px;
   position: relative;
@@ -3576,7 +3576,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
 #popupBgTop {
   width: 147px;
   height: 8px;
-  background: url(http://www.ikea.com/ms/img/bgPopTop.gif) no-repeat top left;
+  background: url(//www.ikea.com/ms/img/bgPopTop.gif) no-repeat top left;
   position: relative;
   z-index: 10;
   margin-bottom: -5px
@@ -3585,7 +3585,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
 #popupBgBot {
   width: 147px;
   height: 8px;
-  background: url(http://www.ikea.com/ms/img/bgPopBot.gif) no-repeat bottom left;
+  background: url(//www.ikea.com/ms/img/bgPopBot.gif) no-repeat bottom left;
   position: relative;
   z-index: 10;
   margin-top: -3px
@@ -4157,7 +4157,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
 
 .rightContent .heroBannerContainer .rightContainer .adContainer .linkContainer a {
   padding-left: 1.04em;
-  background: url(http://www.ikea.com/ms/img/link_arrow.gif) no-repeat center left
+  background: url(//www.ikea.com/ms/img/link_arrow.gif) no-repeat center left
 }
 
 .rightContent .heroLeftTextContainer {
@@ -4238,7 +4238,7 @@ li#moreRooms #moreRoomsMenu li .productImage {
 
 .rightContent .heroLeftTextContainer .link {
   padding-left: 1.04em;
-  background: url(http://www.ikea.com/ms/img/link_arrow.gif) no-repeat 0 .31em
+  background: url(//www.ikea.com/ms/img/link_arrow.gif) no-repeat 0 .31em
 }
 
 .allLinkBoxContainer {
@@ -4684,7 +4684,7 @@ div#prfinfo .btns {
   top: 0;
   width: 1.2em;
   height: 1.2em;
-  background: url(http://www.ikea.com/ms/img/popup_shadow.png) right top no-repeat
+  background: url(//www.ikea.com/ms/img/popup_shadow.png) right top no-repeat
 }
 
 #productPopup .corner-a {
@@ -4697,7 +4697,7 @@ div#prfinfo .btns {
   bottom: 0;
   width: 1.2em;
   height: 1.2em;
-  background: url(http://www.ikea.com/ms/img/popup_shadow.png) left bottom no-repeat
+  background: url(//www.ikea.com/ms/img/popup_shadow.png) left bottom no-repeat
 }
 
 #productPopup .corner-b {
@@ -4714,14 +4714,14 @@ div#prfinfo .btns {
 }
 
 .shadow-two {
-  background: url(http://www.ikea.com/ms/img/popup_shadow.png) right bottom no-repeat
+  background: url(//www.ikea.com/ms/img/popup_shadow.png) right bottom no-repeat
 }
 
 .shadow-three {
   position: relative;
   left: -1.2em;
   top: -1.2em;
-  background: url(http://www.ikea.com/ms/img/popup_shadow.png) left top no-repeat
+  background: url(//www.ikea.com/ms/img/popup_shadow.png) left top no-repeat
 }
 
 .shadow-four {
@@ -4736,12 +4736,12 @@ div#prfinfo .btns {
 }
 
 .nlpContent .loader {
-  background: url("http://www.ikea.com/ms/img/loading.gif") center center no-repeat;
+  background: url(//www.ikea.com/ms/img/loading.gif) center center no-repeat;
   height: 11.98em
 }
 
 .nlpContent .leftBtn {
-  background: url('http://www.ikea.com/ms/img/nlp/btnLeft.png') no-repeat;
+  background: url(//www.ikea.com/ms/img/nlp/btnLeft.png) no-repeat;
   width: 24px;
   height: 24px;
   position: absolute;
@@ -4751,11 +4751,11 @@ div#prfinfo .btns {
 }
 
 .nlpContent .leftBtn:hover {
-  background: url('http://www.ikea.com/ms/img/nlp/btnLeftMouseOver.png') no-repeat
+  background: url(//www.ikea.com/ms/img/nlp/btnLeftMouseOver.png) no-repeat
 }
 
 .nlpContent .rightBtn {
-  background: url('http://www.ikea.com/ms/img/nlp/btnRight.png') no-repeat;
+  background: url(//www.ikea.com/ms/img/nlp/btnRight.png) no-repeat;
   width: 24px;
   height: 24px;
   position: absolute;
@@ -4765,7 +4765,7 @@ div#prfinfo .btns {
 }
 
 .nlpContent .rightBtn:hover {
-  background: url('http://www.ikea.com/ms/img/nlp/btnRightMouseOver.png') no-repeat
+  background: url(//www.ikea.com/ms/img/nlp/btnRightMouseOver.png) no-repeat
 }
 
 .nlpContent .nlpClipArea {
@@ -4815,11 +4815,11 @@ div#prfinfo .btns {
 }
 
 #productPopup a.zoom {
-  background: transparent url(http://www.ikea.com/ms/img/slideshow/zoom_off.gif) no-repeat scroll left top
+  background: transparent url(//www.ikea.com/ms/img/slideshow/zoom_off.gif) no-repeat scroll left top
 }
 
 #productPopup a.zoom:hover {
-  background: url(http://www.ikea.com/ms/img/slideshow/zoom_on.gif) no-repeat top left
+  background: url(//www.ikea.com/ms/img/slideshow/zoom_on.gif) no-repeat top left
 }
 
 #slideshowElements {
@@ -4865,7 +4865,7 @@ div#prfinfo .btns {
 }
 
 #slideshowCloseBtn {
-  background-image: url(http://www.ikea.com/ms/img/closePopup.gif);
+  background-image: url(//www.ikea.com/ms/img/closePopup.gif);
   background-position: 0 0;
   width: 32px;
   height: 32px;
@@ -5057,7 +5057,7 @@ div#prfinfo .btns {
   width: 32px;
   position: absolute;
   top: 25px;
-  background-image: url(http://www.ikea.com/ms/img/slideshow/btnNavigation.gif)
+  background-image: url(//www.ikea.com/ms/img/slideshow/btnNavigation.gif)
 }
 
 #slideshowBtnPrev {
@@ -5119,7 +5119,7 @@ div#prfinfo .btns {
 .tabLeft {
   display: inline;
   float: left;
-  background: #fff url('http://www.ikea.com/ms/img/navigation/tab.gif') no-repeat 0 0;
+  background: #fff url(//www.ikea.com/ms/img/navigation/tab.gif) no-repeat 0 0;
   width: 4px;
   height: 26px;
   margin-top: 4px;
@@ -5129,7 +5129,7 @@ div#prfinfo .btns {
 .tabRight {
   display: inline;
   float: left;
-  background: #fff url('http://www.ikea.com/ms/img/navigation/tab.gif') no-repeat 0 -56px;
+  background: #fff url(//www.ikea.com/ms/img/navigation/tab.gif) no-repeat 0 -56px;
   width: 4px;
   height: 26px;
   margin-top: 4px;
@@ -5139,7 +5139,7 @@ div#prfinfo .btns {
 .tabBody {
   display: inline;
   float: left;
-  background: #fff url('http://www.ikea.com/ms/img/navigation/tab.gif') repeat-x 0 -28px;
+  background: #fff url(//www.ikea.com/ms/img/navigation/tab.gif) repeat-x 0 -28px;
   height: 26px;
   padding-right: 11px;
   padding-left: 11px;
@@ -5150,7 +5150,7 @@ div#prfinfo .btns {
 .tabLeftSelected {
   display: inline;
   float: left;
-  background: #fff url('http://www.ikea.com/ms/img/navigation/tab.gif') no-repeat 0 -168px;
+  background: #fff url(//www.ikea.com/ms/img/navigation/tab.gif) no-repeat 0 -168px;
   width: 4px;
   height: 31px
 }
@@ -5158,7 +5158,7 @@ div#prfinfo .btns {
 .tabRightSelected {
   display: inline;
   float: left;
-  background: #fff url('http://www.ikea.com/ms/img/navigation/tab.gif') no-repeat 0 -232px;
+  background: #fff url(//www.ikea.com/ms/img/navigation/tab.gif) no-repeat 0 -232px;
   width: 4px;
   height: 31px
 }
@@ -5166,7 +5166,7 @@ div#prfinfo .btns {
 .tabBodySelected {
   display: inline;
   float: left;
-  background: #fff url('http://www.ikea.com/ms/img/navigation/tab.gif') repeat-x 0 -200px;
+  background: #fff url(//www.ikea.com/ms/img/navigation/tab.gif) repeat-x 0 -200px;
   height: 31px;
   padding-right: 11px;
   padding-left: 11px;
@@ -5241,7 +5241,7 @@ div.tabContainer a:hover .tabRight, div.tabContainer a.hover .tabRight {
   display: block;
   width: 71.88em;
   height: 3.542em;
-  background: #FFF url(http://www.ikea.com/ms/img/filter/filter_bg.gif) repeat-x scroll left bottom;
+  background: #FFF url(//www.ikea.com/ms/img/filter/filter_bg.gif) repeat-x scroll left bottom;
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
   clear: both;
@@ -5375,31 +5375,31 @@ div.tabContainer a:hover .tabRight, div.tabContainer a.hover .tabRight {
 }
 
 .rightContent .paginationMenu .paginationButtonTextPaddingPrev a {
-  background: url('http://www.ikea.com/ms/img/navigation/paging_arrow_left_active.gif') no-repeat left 3px;
+  background: url(//www.ikea.com/ms/img/navigation/paging_arrow_left_active.gif) no-repeat left 3px;
   padding-left: 9px
 }
 
 .rightContent .paginationMenu .paginationButtonTextPaddingNext a {
-  background: url('http://www.ikea.com/ms/img/navigation/paging_arrow_right_active.gif') no-repeat right 3px;
+  background: url(//www.ikea.com/ms/img/navigation/paging_arrow_right_active.gif) no-repeat right 3px;
   padding-right: 9px
 }
 
 .rightContent .paginationMenu .paginationButtonTextPaddingPrev a:hover {
-  background-image: url('http://www.ikea.com/ms/img/navigation/paging_arrow_left_hover.gif')
+  background-image: url(//www.ikea.com/ms/img/navigation/paging_arrow_left_hover.gif)
 }
 
 .rightContent .paginationMenu .paginationButtonTextPaddingNext a:hover {
-  background-image: url('http://www.ikea.com/ms/img/navigation/paging_arrow_right_hover.gif')
+  background-image: url(//www.ikea.com/ms/img/navigation/paging_arrow_right_hover.gif)
 }
 
 .rightContent .paginationMenu .paginationButtonTextPaddingPrevInactive {
-  background: url('http://www.ikea.com/ms/img/navigation/paging_arrow_left_disabled.gif') no-repeat left 3px;
+  background: url(//www.ikea.com/ms/img/navigation/paging_arrow_left_disabled.gif) no-repeat left 3px;
   padding-left: 9px;
   color: #999
 }
 
 .rightContent .paginationMenu .paginationButtonTextPaddingNextInactive {
-  background: url('http://www.ikea.com/ms/img/navigation/paging_arrow_right_disabled.gif') no-repeat right 3px;
+  background: url(//www.ikea.com/ms/img/navigation/paging_arrow_right_disabled.gif) no-repeat right 3px;
   padding-right: 9px;
   color: #999
 }
@@ -5919,12 +5919,12 @@ div.tabContainer a:hover .tabRight, div.tabContainer a.hover .tabRight {
 }
 
 .carouselContainer .loader {
-  background: url("http://www.ikea.com/ms/img/loading.gif") center center no-repeat;
+  background: url(//www.ikea.com/ms/img/loading.gif) center center no-repeat;
   height: 11.98em
 }
 
 .carouselContainer .leftBtn {
-  background: url('http://www.ikea.com/ms/img/nlp/btnLeft.png') no-repeat;
+  background: url(//www.ikea.com/ms/img/nlp/btnLeft.png) no-repeat;
   width: 24px;
   height: 24px;
   position: absolute;
@@ -5934,11 +5934,11 @@ div.tabContainer a:hover .tabRight, div.tabContainer a.hover .tabRight {
 }
 
 .carouselContainer .leftBtn:hover {
-  background: url('http://www.ikea.com/ms/img/nlp/btnLeftMouseOver.png') no-repeat
+  background: url(//www.ikea.com/ms/img/nlp/btnLeftMouseOver.png) no-repeat
 }
 
 .carouselContainer .rightBtn {
-  background: url('http://www.ikea.com/ms/img/nlp/btnRight.png') no-repeat;
+  background: url(//www.ikea.com/ms/img/nlp/btnRight.png) no-repeat;
   width: 24px;
   height: 24px;
   position: absolute;
@@ -5948,7 +5948,7 @@ div.tabContainer a:hover .tabRight, div.tabContainer a.hover .tabRight {
 }
 
 .carouselContainer .rightBtn:hover {
-  background: url('http://www.ikea.com/ms/img/nlp/btnRightMouseOver.png') no-repeat
+  background: url(//www.ikea.com/ms/img/nlp/btnRightMouseOver.png) no-repeat
 }
 
 .carouselContainer .carouselClipArea {
@@ -6069,7 +6069,7 @@ div.tabContainer a:hover .tabRight, div.tabContainer a.hover .tabRight {
 }
 
 .replaceFlashLeftArrow {
-  background-image: url("http://www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png");
+  background-image: url(//www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png);
   background-repeat: no-repeat;
   height: 6.5625em;
   position: absolute;
@@ -6083,7 +6083,7 @@ div.tabContainer a:hover .tabRight, div.tabContainer a.hover .tabRight {
 }
 
 .replaceFlashRightArrow {
-  background-image: url("http://www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png");
+  background-image: url(//www.ikea.com/ms/img/html_ad/html_ad_navigation_arrows.png);
   background-position: -100px 0;
   background-repeat: no-repeat;
   height: 6.5625em;
@@ -6601,7 +6601,7 @@ div.tabContainer a:hover .tabRight, div.tabContainer a.hover .tabRight {
 }
 
 #compare .productBottom {
-  background: url('http://www.ikea.com/ms/img/ppc/dotline_228.gif') repeat-x;
+  background: url(//www.ikea.com/ms/img/ppc/dotline_228.gif) repeat-x;
   margin: .42em .42em .42em .52em;
   overflow: hidden;
   width: auto;
@@ -7284,7 +7284,7 @@ div.buttonContainer.clickCollectButton>div {
 }
 
 #liteboxLoading {
-  background-image: url(http://www.ikea.com/ms/img/loading.gif);
+  background-image: url(//www.ikea.com/ms/img/loading.gif);
   background-repeat: no-repeat;
   background-position: center;
   width: 50.52em;
@@ -7301,7 +7301,7 @@ div.buttonContainer.clickCollectButton>div {
 .lbContainerTop {
   position: absolute;
   z-index: 3000;
-  background-image: url(http://www.ikea.com/ms/img/lb_border_bg.png)
+  background-image: url(//www.ikea.com/ms/img/lb_border_bg.png)
 }
 
 .lbContainerTop .lbBorder {
@@ -7315,7 +7315,7 @@ div.buttonContainer.clickCollectButton>div {
 }
 
 #lbCloseBtn {
-  background-image: url(http://www.ikea.com/ms/img/close_btn.png);
+  background-image: url(//www.ikea.com/ms/img/close_btn.png);
   background-position: 0 0;
   width: 32px;
   height: 32px;
@@ -7337,7 +7337,7 @@ div.buttonContainer.clickCollectButton>div {
   width: auto!important;
   height: 16px!important;
   background: none!important;
-  background: url('http://www.ikea.com/ms/img/flashLiteClose.png') right top no-repeat!important;
+  background: url(//www.ikea.com/ms/img/flashLiteClose.png) right top no-repeat!important;
   color: #FFF;
   overflow: hidden;
   text-decoration: none
@@ -7562,11 +7562,11 @@ div.buttonContainer.clickCollectButton>div {
   height: 19px;
   background-color: #ccc;
   text-decoration: none;
-  background: url(http://www.ikea.com/ms/img/slideshow/zoom_off.gif) no-repeat top left
+  background: url(//www.ikea.com/ms/img/slideshow/zoom_off.gif) no-repeat top left
 }
 
 #popupContent a.zoom:hover {
-  background: url(http://www.ikea.com/ms/img/slideshow/zoom_on.gif) no-repeat top left
+  background: url(//www.ikea.com/ms/img/slideshow/zoom_on.gif) no-repeat top left
 }
 
 #popupContent .productContainer .nlpImage {
@@ -8099,7 +8099,7 @@ div.buttonContainer.clickCollectButton>div {
   bottom: -11px;
   left: 58px;
   width: 140px;
-  background: url(http://www.ikea.com/ms/img/sharePluginArrow.png) no-repeat top left
+  background: url(//www.ikea.com/ms/img/sharePluginArrow.png) no-repeat top left
 }
 
 #pluginPopup .topArrow {
@@ -8107,7 +8107,7 @@ div.buttonContainer.clickCollectButton>div {
   top: -12px;
   left: 58px;
   width: 140px;
-  background: url(http://www.ikea.com/ms/img/sharePluginArrowUp.png) no-repeat top left
+  background: url(//www.ikea.com/ms/img/sharePluginArrowUp.png) no-repeat top left
 }
 
 #parentEmailContainer {
@@ -9840,7 +9840,7 @@ a.productFicheSmall.align-center {
 }
 
 #energyLabelCloseBtn {
-  background-image: url(http://www.ikea.com/ms/img/closePopup.gif);
+  background-image: url(//www.ikea.com/ms/img/closePopup.gif);
   background-position: 0 0;
   width: 32px;
   height: 32px;
@@ -10289,7 +10289,7 @@ div.ovenCapacity {
 }
 
 .moreOption .prev a {
-  background: url('http://www.ikea.com/ms/img/more_options/inactive_left.png') no-repeat;
+  background: url(//www.ikea.com/ms/img/more_options/inactive_left.png) no-repeat;
   width: 24px;
   height: 24px;
   position: absolute;
@@ -10299,7 +10299,7 @@ div.ovenCapacity {
 }
 
 .moreOption .next a {
-  background: url('http://www.ikea.com/ms/img/more_options/inactive_right.png') no-repeat;
+  background: url(//www.ikea.com/ms/img/more_options/inactive_right.png) no-repeat;
   width: 24px;
   height: 24px;
   position: absolute;
@@ -10314,19 +10314,19 @@ div.ovenCapacity {
 }
 
 #popupContent .moreOption .prev a {
-  background: url('http://www.ikea.com/ms/img/more_options/hover_left.png') no-repeat
+  background: url(//www.ikea.com/ms/img/more_options/hover_left.png) no-repeat
 }
 
 #popupContent .moreOption .next a {
-  background: url('http://www.ikea.com/ms/img/more_options/hover_right.png') no-repeat
+  background: url(//www.ikea.com/ms/img/more_options/hover_right.png) no-repeat
 }
 
 #popupContent .moreOption .prev a:hover {
-  background: url('http://www.ikea.com/ms/img/more_options/mouseover_left.png') no-repeat
+  background: url(//www.ikea.com/ms/img/more_options/mouseover_left.png) no-repeat
 }
 
 #popupContent .moreOption .next a:hover {
-  background: url('http://www.ikea.com/ms/img/more_options/mouseover_right.png') no-repeat
+  background: url(//www.ikea.com/ms/img/more_options/mouseover_right.png) no-repeat
 }
 
 .productContainerCategory .moreOption {
@@ -10344,7 +10344,7 @@ div.ovenCapacity {
 }
 
 .moreOption .prevDisabled a {
-  background: url('http://www.ikea.com/ms/img/more_options/inactive_left.png') no-repeat;
+  background: url(//www.ikea.com/ms/img/more_options/inactive_left.png) no-repeat;
   width: 24px;
   height: 24px;
   position: absolute;
@@ -10354,7 +10354,7 @@ div.ovenCapacity {
 }
 
 .moreOption .nextDisabled a {
-  background: url('http://www.ikea.com/ms/img/more_options/inactive_right.png') no-repeat;
+  background: url(//www.ikea.com/ms/img/more_options/inactive_right.png) no-repeat;
   width: 24px;
   height: 24px;
   position: absolute;
@@ -10364,11 +10364,11 @@ div.ovenCapacity {
 }
 
 #popupContent .moreOption .prevDisabled a {
-  background: url('http://www.ikea.com/ms/img/more_options/inactive_left.png') no-repeat
+  background: url(//www.ikea.com/ms/img/more_options/inactive_left.png) no-repeat
 }
 
 #popupContent .moreOption .nextDisabled a {
-  background: url('http://www.ikea.com/ms/img/more_options/inactive_right.png') no-repeat
+  background: url(//www.ikea.com/ms/img/more_options/inactive_right.png) no-repeat
 }
 
 .ecoBorder {
@@ -10841,7 +10841,7 @@ div.ovenCapacity {
 #bv-mbox-lightbox-list button.bv-mbox-close {
   top: 45px!important;
   right: 45px!important;
-  background-image: url(http://www.ikea.comhttp://www.ikea.com/ms/img/closePopup.gif)!important;
+  background-image: url(//www.ikea.comhttp://www.ikea.com/ms/img/closePopup.gif)!important;
   background-position: 0 0!important;
   width: 32px!important;
   height: 32px!important
@@ -11146,82 +11146,82 @@ div.ovenCapacity {
     _background-image: none
   }
   .backgroundImage .textbox_00abbd .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_00abbd.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_00abbd.png')
   }
   .backgroundImage .textbox_eedb00 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_eedb00.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_eedb00.png')
   }
   .backgroundImage .textbox_f49ac1 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_f49ac1.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_f49ac1.png')
   }
   .backgroundImage .textbox_00bdf2 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_00bdf2.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_00bdf2.png')
   }
   .backgroundImage .textbox_00a650 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_00a650.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_00a650.png')
   }
   .backgroundImage .textbox_ff6600 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_ff6600.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_ff6600.png')
   }
   .backgroundImage .textbox_b3d334 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_b3d334.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_b3d334.png')
   }
   .backgroundImage .textbox_ed1c24 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_ed1c24.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_ed1c24.png')
   }
   .backgroundImage .textbox_f68b1f .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_f68b1f.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_f68b1f.png')
   }
   .backgroundImage .textbox_d6007f .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_d6007f.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_d6007f.png')
   }
   .backgroundImage .textbox_2db33a .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_2db33a.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_2db33a.png')
   }
   .backgroundImage .textbox_0293d0 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_0293d0.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_0293d0.png')
   }
   .backgroundImage .textbox_fff200 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_fff200.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_fff200.png')
   }
   .backgroundImage .textbox_ffcc00 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_ffcc00.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_ffcc00.png')
   }
   .backgroundImage .textbox_003399 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_003399.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_003399.png')
   }
   .backgroundImage .textbox_cc0000 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_cc0000.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_cc0000.png')
   }
   .backgroundImage .textbox_5ddaec .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_5ddaec.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_5ddaec.png')
   }
   .backgroundImage .textbox_5a217b .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_5a217b.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_5a217b.png')
   }
   .backgroundImage .textbox_502f13 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_502f13.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_502f13.png')
   }
   .backgroundImage .textbox_773300 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_773300.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_773300.png')
   }
   .backgroundImage .textbox_000000 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_000000.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_000000.png')
   }
   .backgroundImage .textbox_333333 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_333333.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_333333.png')
   }
   .backgroundImage .textbox_666666 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_666666.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_666666.png')
   }
   .backgroundImage .textbox_999999 .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_999999.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_999999.png')
   }
   .backgroundImage .textbox_cccccc .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_cccccc.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_cccccc.png')
   }
   .backgroundImage .textbox_ffffff .textboxCorner .textboxCornerImage {
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ikea.com/ms/img/About_IKEA/corner_ffffff.png')
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.ikea.com/ms/img/About_IKEA/corner_ffffff.png')
   }
   .textAndTextBox_25 .rightColumn {
     width: 74.99%
@@ -11645,4 +11645,4 @@ div.ovenCapacity {
     margin-bottom: -0.1042em!important
   }
   .subdivpad {
-    // margin:-0.2084em 0 1.5em 0!important}.rightContent .servicesContainer{padding:1.415em 0 2.620em .93em!important}#rightNavContainer .servTd{margin-top:-1.3em!important}#rightNavContainer .salesArguments{margin:.55em 0 1.2em 0!important}#rightNavContainer .disclaimerPdf{padding:.5em 0 .45em 0!important}.errorMsgDiv{width:27.5em!important}.stockSearchPaddBottom{padding-bottom:9px!important}.downloadBottomPad{padding-bottom:1.2em!important}#leftNavBottom .productInformationContainerBox{padding:.521em 1.352em 0 1.56em!important}.bottomRightContainer .moreProduct .moreHead{margin:.208em 0 .5em 0!important}.rightContent .troPrice span{line-height:14px!important}#localPriceHeader{zoom:1}.headerOuterContainer{zoom:1}#localPriceButton{margin-top:-2px}.localPriceContainer .formContainer select{margin-top:4px}.localPriceContainer .buttonContainer{margin-top:-3px}.localPriceContainer .overlapNewimg{margin-bottom:0!important;position:static!important}.lbContainerTopFullScrn .lbBorderFullScrn{margin-bottom:60px!important}.liteboxOutsideBgFullScrn{filter:alpha(opacity=40)!important}.prodInfoSubSection .sc_find_it_shadow{position:static!important;border-right:2px solid #CCC!important;border-bottom:2px solid #CCC!important}#localPriceBti{float:left}#localPriceBti .localPriceBtiTop{background:#fc0;height:6px;margin-right:6px;over-flow:hidden}#localPriceBti .localPriceBtiBottom{background:#f00;height:6px;margin-left:6px}#localPriceBti .localPriceBtiMid{background:#fc0;padding:2px 12px 10px 12px;background-image:url(http://www.ikea.com/ms/img/btired.gif);background-position:top right;background-repeat:repeat-y;text-align:center}.parentContainer .prevPrice{margin-left:2px}.product{zoom:1!important;z-index:9999}#prodInfoLanding .product .btiSpace{clear:both;padding-top:5px!important}.gridRow .imageStyle{-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=125,Color='#CCCCCC')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=125,Color='#CCCCCC')}.filterBlock .productsFilter .productsFilterLinks{-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=125,Color='#CCCCCC')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=125,Color='#CCCCCC')}.filterBlock{-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=125,Color='#CCCCCC')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=125,Color='#CCCCCC')}.filterBlock .productsFilterButtons .active{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.filterBlock .productsFilterColors .color{border:0;width:20px;height:20px;background:#FFF url(../images/color_transp.png) no-repeat scroll 0 0}.orangeBtn{background-color:#d7d7d7}.orangeBtn:hover{background-color:#f56426}.orangeBtn:active{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.blueBtn{background:linear-gradient(to bottom right,#0e7fd5,#0172c9)}.blueBtn:hover{background:linear-gradient(to bottom right,#2495eb,#0274cb)}.blueBtn:active{background:linear-gradient(to bottom right,#0374cb,#1182d9)}.greyBtn{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4',endColorstr='#eeeeee',GradientType=0)}.greyBtn:hover{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fbfbfb',endColorstr='#e1e1e1',GradientType=0);filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.greyBtn:active{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2f2f2',endColorstr='#fbfbfb',GradientType=0)}#prodInfoLanding .productLists{zoom:1!important;background-color:#fff}#prodInfoLanding .productLists{padding:4px 6px 18px 8px}.filterBlock .productsFilter .productsFilterOptions{margin-top:1px;width:1017px;padding-bottom:5px}.filterBlock .productsFilter .productsFilterLinks ul{overflow:hidden}.choiceGallery .gridRow{width:102%!important}.choiceGallery .gridRow ul{width:102%}.filterBlock .productsFilterSortBy{position:relative;z-index:10}.subContainer{position:absolute;top:0;right:0;z-index:100000}.choiceGallery .transperent{filter:alpha(opacity=60)}.clearAll{height:0}.filterBlock .productsFilterButtons .active{background:-ms-linear-gradient(top,#f56426 0,#f56426 100%)}.filterBlock .orangeBtn{background:-ms-linear-gradient(top,#d7d7d7 0,#c9c9c9 100%)}.filterBlock .orangeBtn:hover{background:-ms-linear-gradient(top,#f56426 0,#f56426 100%)}.allSeries .allSeriesContainer .allSeriesButton .orangeBtn{background-color:#d7d7d7;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.allSeries .allSeriesContainer:hover .allSeriesButton .orangeBtn{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.allSeries .allSeriesButton .orangeBtn:active{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}* html .choiceGallery .positionDiv{display:inline}* html .choiceGallery .transperent{position:absolute;text-align:left;padding-bottom:7px;padding-left:9px;padding-right:9px;background:#fff;FONT-SIZE:14px;font-weight:bold;padding-top:6px;filter:alpha(opacity=60)}.blueBtn input,.orangeBtn input{line-height:20px!important}#local_shoponline div.logoContainer .buttonContainer{top:-2px}#local_shoponline div.logoContainer .buttonContainer a .buttonCaption{padding-left:2px;padding-right:2px}#local_shoponline div.logoContainer .buttonContainer a input{position:relative;left:0;margin:0 auto;height:20px;overflow:visible}#local_shoponline div.logoContainer .buttonContainer a span input{position:relative;left:0;margin:0 -4px auto;height:20px;overflow:visible}form#login form div.loginNamePadd label.subText,form div.loginPassPadd label.subText{width:180px;padding-bottom:5px}#createUser div.buttonContainer a input,#privateUser div.buttonContainer a input,#changePassword div.buttonContainer a input,#familyUser div.buttonContainer a input,#changeUsername div.buttonContainer a input,#deleteUser div.buttonContainer a input,#shippingAddress div.buttonContainer a input,#familypreferences div.buttonContainer a input,#additionalInfo div.buttonContainer a input,{margin-bottom:-10px;margin-right:0;height:22px;line-height:22px;top:-5px;padding:0}#createUser #saveButton div.buttonContainer a input{margin-bottom:-10px;margin-right:0;height:22px;line-height:22px;top:-5px;padding:0}#createUser div.buttonContainer,#privateUser div.buttonContainer,#changePassword div.buttonContainer,#familyUser div.buttonContainer,#changeUsername div.buttonContainer,#deleteUser div.buttonContainer,#shippingAddress div.buttonContainer,#preferences div.buttonContainer,#familypreferences div.buttonContainer,#additionalInfo div.buttonContainer{top:0}#createUser div.buttonContainer a input.down,#privateUser div.buttonContainer a input.down,#changePassword div.buttonContainer a input.down,#familyUser div.buttonContainer a input.down,#changeUsername div.buttonContainer a input.down,#deleteUser div.buttonContainer a input.down,#shippingAddress div.buttonContainer a input.down,#preferences div.buttonContainer a input.down,#familypreferences div.buttonContainer a input.down,#additionalInfo div.buttonContainer a input.down{top:-6px;left:-1px;right:2px;bottom:5px}#createUser .rememberMeCheckbox,#resetPassword .rememberMeCheckbox{margin-top:40px}form#login div#loginFormErrorsServer{margin-bottom:15px;padding-bottom:10px}form#catreq div.buttonContainer a{font-size:1.15em}form#resetPassword div.checkBoxGroupItem input{border:0}.priceFilter #warningMsg{TEXT-ALIGN:right;LINE-HEIGHT:7px!important;MARGIN-TOP:-9px!important;MARGIN-BOTTOM:0!important;FLOAT:none;CLEAR:left;RIGHT:0!important;PADDING-TOP:3px!important}#filterImageTooltip a:hover span{filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.allSeries .allSeriesContainer .contentDetails{margin-top:10px!important}.adproductLists .gridrow{overflow:visible!important}.expandedview .active{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.roomsettingexpandedhide .bottomView .hide-btn{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4',endColorstr='#eeeeee',GradientType=0)}.roomsettingexpandedhide .bottomView .hide-btn{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fbfbfb',endColorstr='#e1e1e1',GradientType=0);filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.roomsettingexpandedhide .bottomView .hide-btn{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2f2f2',endColorstr='#fbfbfb',GradientType=0)}.hide-btn{float:left;margin-left:10px!important;margin-top:0!important}.rightLine{width:45%!important}#addToCart{margin-top:-7px}.contentInnerArea .formField .buttonContainer .buttonCaption input{height:13px;margin-top:1px}.marginForCartConatiner{padding:9px 1.25em 4px!important}#liteboxBg{position:absolute;z-index:100;background-color:#FFF;overflow:auto;height:360px;width:640px}.choiceGallery .shareMPAContainer{width:90%}.newRoomsetContainer{margin-top:-2px;margin-bottom:64px}.galleryContainer{margin-top:-5px}.roomsettingdetailsjsenabled{margin-bottom:12px!important}.roomsettingdetailsjsdisabled{margin-bottom:12px!important}#allContent #mainPadding #main div.galleryRow *{zoom:0}.corrosilnavigatingarrow{filter:alpha(opacity=80)}.corrosilnavigatingarrow:hover{filter:alpha(opacity=100)}#hotAreaToolTip.product .productDetails .redPrice{margin-top:-5px}#back-hov{filter:alpha(opacity=90);cursor:hand}#back-top{filter:alpha(opacity=40)}.contentArea .formField .checkBoxContainer{float:left}#allContent #mainPadding #main div.buttonContainer *{zoom:0}div.buttonWrapper input[type=button],div.buttonWrapper input[type=submit]{width:auto;overflow:visible}.contentArea table{*border-collapse:expression('separate',cellSpacing = '20px')}#ppContentContainer #adContentLP .ppRightAd{color:#666;font-weight:bold;margin:0;width:50%;text-align:left;overflow:visible;display:inline}.bottomMargin ~ .bottomMargin{margin-bottom:8px}.prodStyle3_B .familyOfferPriceDate{margin:1px 0 6px!important}.prodStyle1_B .familyOfferPriceDate{margin:2px 0 6px!important}.productDetails a div.familyOfferPriceDate{margin:3px 0 0!important}form .formField .primary.noshow{display:none;position:relative}#beginCheckout #totalValue .VATinforContainer{margin-left:10px}#ppContentContainer #adContentLP .upgradeBusinessFamily{margin-top:9px}#completeProdContainer .soldSeparately{color:#999;font-size:11px;font-style:italic;line-height:12px;padding-top:0}#topNavigation{font-size:0;overflow:hidden;width:100%;margin:0 0 46px 0!important}.gridRow.headThreeGray{line-height:45px}div.lessprf{position:absolute}.floatRight .orangeBtn{padding-top:15px;padding-left:20px}.divPopupMid{padding-left:5px}.ratingStarsOffLarge{font-size:21px}.ratingStarsOnLarge{font-size:21px;margin-top:-25px}.ratingsContainer{width:120px;margin-top:2px}.ratingsContainerLightbox{width:130px;margin-bottom:-5px;margin-top:0}.ratingStarsOnLargeLightbox{font-size:23px;margin-top:-28px}.hiddenSection .ratingsContainer{margin-top:-2px;margin-bottom:-2px}.ratingStarsOffLargeLightbox{font-size:23px}.txtPriceFamily .hiddenSection{margin-top:-9px!important}#IKEA-Component-Carousel-carousel-navigation position.carousel-arrow-right,#IKEA-Component-Carousel-carousel-navigation .carousel-arrow-right.IKEA-Component-Carousel-carousel-navigation-icon{right:-20px!important}}.autocomplete-suggestions{text-align:left;cursor:default;border:1px solid #ccc;border-top:0;background:#fff;box-shadow:-1px 1px 3px rgba(0,0,0,.1);position:absolute;display:none;z-index:9999;max-height:254px;overflow:hidden;overflow-y:auto;box-sizing:border-box}.autocomplete-suggestion{position:relative;padding:10px 5px;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:14px;color:#333;font-family:Verdana,Geneva,Tahoma,sans-serif;border-bottom:1px solid #ccc}.autocomplete-suggestion b{font-weight:normal;color:#1f8dd6}.autocomplete-suggestion.selected{background:#f0f0f0}
+    // margin:-0.2084em 0 1.5em 0!important}.rightContent .servicesContainer{padding:1.415em 0 2.620em .93em!important}#rightNavContainer .servTd{margin-top:-1.3em!important}#rightNavContainer .salesArguments{margin:.55em 0 1.2em 0!important}#rightNavContainer .disclaimerPdf{padding:.5em 0 .45em 0!important}.errorMsgDiv{width:27.5em!important}.stockSearchPaddBottom{padding-bottom:9px!important}.downloadBottomPad{padding-bottom:1.2em!important}#leftNavBottom .productInformationContainerBox{padding:.521em 1.352em 0 1.56em!important}.bottomRightContainer .moreProduct .moreHead{margin:.208em 0 .5em 0!important}.rightContent .troPrice span{line-height:14px!important}#localPriceHeader{zoom:1}.headerOuterContainer{zoom:1}#localPriceButton{margin-top:-2px}.localPriceContainer .formContainer select{margin-top:4px}.localPriceContainer .buttonContainer{margin-top:-3px}.localPriceContainer .overlapNewimg{margin-bottom:0!important;position:static!important}.lbContainerTopFullScrn .lbBorderFullScrn{margin-bottom:60px!important}.liteboxOutsideBgFullScrn{filter:alpha(opacity=40)!important}.prodInfoSubSection .sc_find_it_shadow{position:static!important;border-right:2px solid #CCC!important;border-bottom:2px solid #CCC!important}#localPriceBti{float:left}#localPriceBti .localPriceBtiTop{background:#fc0;height:6px;margin-right:6px;over-flow:hidden}#localPriceBti .localPriceBtiBottom{background:#f00;height:6px;margin-left:6px}#localPriceBti .localPriceBtiMid{background:#fc0;padding:2px 12px 10px 12px;background-image:url(//www.ikea.com/ms/img/btired.gif);background-position:top right;background-repeat:repeat-y;text-align:center}.parentContainer .prevPrice{margin-left:2px}.product{zoom:1!important;z-index:9999}#prodInfoLanding .product .btiSpace{clear:both;padding-top:5px!important}.gridRow .imageStyle{-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=125,Color='#CCCCCC')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=125,Color='#CCCCCC')}.filterBlock .productsFilter .productsFilterLinks{-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=125,Color='#CCCCCC')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=125,Color='#CCCCCC')}.filterBlock{-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=125,Color='#CCCCCC')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=125,Color='#CCCCCC')}.filterBlock .productsFilterButtons .active{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.filterBlock .productsFilterColors .color{border:0;width:20px;height:20px;background:#FFF url(../images/color_transp.png) no-repeat scroll 0 0}.orangeBtn{background-color:#d7d7d7}.orangeBtn:hover{background-color:#f56426}.orangeBtn:active{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.blueBtn{background:linear-gradient(to bottom right,#0e7fd5,#0172c9)}.blueBtn:hover{background:linear-gradient(to bottom right,#2495eb,#0274cb)}.blueBtn:active{background:linear-gradient(to bottom right,#0374cb,#1182d9)}.greyBtn{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4',endColorstr='#eeeeee',GradientType=0)}.greyBtn:hover{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fbfbfb',endColorstr='#e1e1e1',GradientType=0);filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.greyBtn:active{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2f2f2',endColorstr='#fbfbfb',GradientType=0)}#prodInfoLanding .productLists{zoom:1!important;background-color:#fff}#prodInfoLanding .productLists{padding:4px 6px 18px 8px}.filterBlock .productsFilter .productsFilterOptions{margin-top:1px;width:1017px;padding-bottom:5px}.filterBlock .productsFilter .productsFilterLinks ul{overflow:hidden}.choiceGallery .gridRow{width:102%!important}.choiceGallery .gridRow ul{width:102%}.filterBlock .productsFilterSortBy{position:relative;z-index:10}.subContainer{position:absolute;top:0;right:0;z-index:100000}.choiceGallery .transperent{filter:alpha(opacity=60)}.clearAll{height:0}.filterBlock .productsFilterButtons .active{background:-ms-linear-gradient(top,#f56426 0,#f56426 100%)}.filterBlock .orangeBtn{background:-ms-linear-gradient(top,#d7d7d7 0,#c9c9c9 100%)}.filterBlock .orangeBtn:hover{background:-ms-linear-gradient(top,#f56426 0,#f56426 100%)}.allSeries .allSeriesContainer .allSeriesButton .orangeBtn{background-color:#d7d7d7;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.allSeries .allSeriesContainer:hover .allSeriesButton .orangeBtn{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.allSeries .allSeriesButton .orangeBtn:active{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}* html .choiceGallery .positionDiv{display:inline}* html .choiceGallery .transperent{position:absolute;text-align:left;padding-bottom:7px;padding-left:9px;padding-right:9px;background:#fff;FONT-SIZE:14px;font-weight:bold;padding-top:6px;filter:alpha(opacity=60)}.blueBtn input,.orangeBtn input{line-height:20px!important}#local_shoponline div.logoContainer .buttonContainer{top:-2px}#local_shoponline div.logoContainer .buttonContainer a .buttonCaption{padding-left:2px;padding-right:2px}#local_shoponline div.logoContainer .buttonContainer a input{position:relative;left:0;margin:0 auto;height:20px;overflow:visible}#local_shoponline div.logoContainer .buttonContainer a span input{position:relative;left:0;margin:0 -4px auto;height:20px;overflow:visible}form#login form div.loginNamePadd label.subText,form div.loginPassPadd label.subText{width:180px;padding-bottom:5px}#createUser div.buttonContainer a input,#privateUser div.buttonContainer a input,#changePassword div.buttonContainer a input,#familyUser div.buttonContainer a input,#changeUsername div.buttonContainer a input,#deleteUser div.buttonContainer a input,#shippingAddress div.buttonContainer a input,#familypreferences div.buttonContainer a input,#additionalInfo div.buttonContainer a input,{margin-bottom:-10px;margin-right:0;height:22px;line-height:22px;top:-5px;padding:0}#createUser #saveButton div.buttonContainer a input{margin-bottom:-10px;margin-right:0;height:22px;line-height:22px;top:-5px;padding:0}#createUser div.buttonContainer,#privateUser div.buttonContainer,#changePassword div.buttonContainer,#familyUser div.buttonContainer,#changeUsername div.buttonContainer,#deleteUser div.buttonContainer,#shippingAddress div.buttonContainer,#preferences div.buttonContainer,#familypreferences div.buttonContainer,#additionalInfo div.buttonContainer{top:0}#createUser div.buttonContainer a input.down,#privateUser div.buttonContainer a input.down,#changePassword div.buttonContainer a input.down,#familyUser div.buttonContainer a input.down,#changeUsername div.buttonContainer a input.down,#deleteUser div.buttonContainer a input.down,#shippingAddress div.buttonContainer a input.down,#preferences div.buttonContainer a input.down,#familypreferences div.buttonContainer a input.down,#additionalInfo div.buttonContainer a input.down{top:-6px;left:-1px;right:2px;bottom:5px}#createUser .rememberMeCheckbox,#resetPassword .rememberMeCheckbox{margin-top:40px}form#login div#loginFormErrorsServer{margin-bottom:15px;padding-bottom:10px}form#catreq div.buttonContainer a{font-size:1.15em}form#resetPassword div.checkBoxGroupItem input{border:0}.priceFilter #warningMsg{TEXT-ALIGN:right;LINE-HEIGHT:7px!important;MARGIN-TOP:-9px!important;MARGIN-BOTTOM:0!important;FLOAT:none;CLEAR:left;RIGHT:0!important;PADDING-TOP:3px!important}#filterImageTooltip a:hover span{filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.allSeries .allSeriesContainer .contentDetails{margin-top:10px!important}.adproductLists .gridrow{overflow:visible!important}.expandedview .active{background-color:#f56426;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.roomsettingexpandedhide .bottomView .hide-btn{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4',endColorstr='#eeeeee',GradientType=0)}.roomsettingexpandedhide .bottomView .hide-btn{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fbfbfb',endColorstr='#e1e1e1',GradientType=0);filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=45,Color='#000000');filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1,Direction=135,Color='#000000')}.roomsettingexpandedhide .bottomView .hide-btn{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2f2f2',endColorstr='#fbfbfb',GradientType=0)}.hide-btn{float:left;margin-left:10px!important;margin-top:0!important}.rightLine{width:45%!important}#addToCart{margin-top:-7px}.contentInnerArea .formField .buttonContainer .buttonCaption input{height:13px;margin-top:1px}.marginForCartConatiner{padding:9px 1.25em 4px!important}#liteboxBg{position:absolute;z-index:100;background-color:#FFF;overflow:auto;height:360px;width:640px}.choiceGallery .shareMPAContainer{width:90%}.newRoomsetContainer{margin-top:-2px;margin-bottom:64px}.galleryContainer{margin-top:-5px}.roomsettingdetailsjsenabled{margin-bottom:12px!important}.roomsettingdetailsjsdisabled{margin-bottom:12px!important}#allContent #mainPadding #main div.galleryRow *{zoom:0}.corrosilnavigatingarrow{filter:alpha(opacity=80)}.corrosilnavigatingarrow:hover{filter:alpha(opacity=100)}#hotAreaToolTip.product .productDetails .redPrice{margin-top:-5px}#back-hov{filter:alpha(opacity=90);cursor:hand}#back-top{filter:alpha(opacity=40)}.contentArea .formField .checkBoxContainer{float:left}#allContent #mainPadding #main div.buttonContainer *{zoom:0}div.buttonWrapper input[type=button],div.buttonWrapper input[type=submit]{width:auto;overflow:visible}.contentArea table{*border-collapse:expression('separate',cellSpacing = '20px')}#ppContentContainer #adContentLP .ppRightAd{color:#666;font-weight:bold;margin:0;width:50%;text-align:left;overflow:visible;display:inline}.bottomMargin ~ .bottomMargin{margin-bottom:8px}.prodStyle3_B .familyOfferPriceDate{margin:1px 0 6px!important}.prodStyle1_B .familyOfferPriceDate{margin:2px 0 6px!important}.productDetails a div.familyOfferPriceDate{margin:3px 0 0!important}form .formField .primary.noshow{display:none;position:relative}#beginCheckout #totalValue .VATinforContainer{margin-left:10px}#ppContentContainer #adContentLP .upgradeBusinessFamily{margin-top:9px}#completeProdContainer .soldSeparately{color:#999;font-size:11px;font-style:italic;line-height:12px;padding-top:0}#topNavigation{font-size:0;overflow:hidden;width:100%;margin:0 0 46px 0!important}.gridRow.headThreeGray{line-height:45px}div.lessprf{position:absolute}.floatRight .orangeBtn{padding-top:15px;padding-left:20px}.divPopupMid{padding-left:5px}.ratingStarsOffLarge{font-size:21px}.ratingStarsOnLarge{font-size:21px;margin-top:-25px}.ratingsContainer{width:120px;margin-top:2px}.ratingsContainerLightbox{width:130px;margin-bottom:-5px;margin-top:0}.ratingStarsOnLargeLightbox{font-size:23px;margin-top:-28px}.hiddenSection .ratingsContainer{margin-top:-2px;margin-bottom:-2px}.ratingStarsOffLargeLightbox{font-size:23px}.txtPriceFamily .hiddenSection{margin-top:-9px!important}#IKEA-Component-Carousel-carousel-navigation position.carousel-arrow-right,#IKEA-Component-Carousel-carousel-navigation .carousel-arrow-right.IKEA-Component-Carousel-carousel-navigation-icon{right:-20px!important}}.autocomplete-suggestions{text-align:left;cursor:default;border:1px solid #ccc;border-top:0;background:#fff;box-shadow:-1px 1px 3px rgba(0,0,0,.1);position:absolute;display:none;z-index:9999;max-height:254px;overflow:hidden;overflow-y:auto;box-sizing:border-box}.autocomplete-suggestion{position:relative;padding:10px 5px;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:14px;color:#333;font-family:Verdana,Geneva,Tahoma,sans-serif;border-bottom:1px solid #ccc}.autocomplete-suggestion b{font-weight:normal;color:#1f8dd6}.autocomplete-suggestion.selected{background:#f0f0f0}
