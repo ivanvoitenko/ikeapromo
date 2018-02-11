@@ -4,7 +4,7 @@
 }
 
 #allContent #mainPadding {
-  padding-top: 130px;
+  padding-top: 45px;
 }
 
 
@@ -1074,6 +1074,7 @@ ul.minicart-products {
 }
 
 .top-banner-caption {
+  color: #f57129;
   font-weight: bold;
   text-transform: uppercase;
 }
