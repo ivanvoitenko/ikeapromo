@@ -1,0 +1,160 @@
+.header-nav-sublist .header-nav-sublist-title:last-child > a:first-of-type > em {
+    display: none;
+}
+.header-nav-sublist .header-nav-sublist-title:last-child.active .header-nav-group{
+    display: none;
+}
+.list-container .col-3 .product-list-27 .item-6 {
+    padding: 14px 0 0;
+    margin-top: 17px;
+    font-weight: bold;
+    border-top: 1px solid #e6e6e6;
+}
+.header-nav-sublist .header-nav-sublist-title:nth-of-type(9) > .header-nav-group .product-price{
+    color: #c00;
+}
+.serpSearchString + #productsContainer .nlpImage {
+    top: 7.91em;
+}
+#miniPip .productSearch .nlpImage {
+    top: 8.21em;
+}
+.nav-title {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    line-height: 14px;
+    padding: 5px 0;
+}
+
+#main .gridRow .visualNavContainer h3.categoryContainer {
+    font-size: 14px;
+    text-align: left;
+}
+
+/** Test AB fix - remove when test is finished **/
+#whysection > .fade-in { padding: 0 0 10px; }
+#whysection #banner-algot .gridComponent { height: 210px!important; }
+
+.main-header, body, #main { opacity: 1 !important;}
+
+/** CUSTOM BADGES PRODUCTS IN LISTINGS **/
+
+.image a[href="/pl/pl/catalog/products/70374562/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/90374561/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50374563/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70374562/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50374563/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/90374561/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40314678/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20314679/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20370793/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00374565/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80374566/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30374564/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20159678/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50168285/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30168286/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00374565/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80374566/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30374564/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20328228/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00328229/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30370844/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70264728/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10323293/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/90323294/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00323298/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80323299/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60370866/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30334035/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10334036/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10370864/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60323295/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40323296/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20374569/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40374568/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60374567/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20370774/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00381924/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70381925/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50381926/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50374558/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30374559/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10374560/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70334585/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50334586/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20374569/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40374568/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60374567/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00372359/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60372361/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00377903/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00381924/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70381925/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50381926/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50374558/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30374559/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10374560/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/90372331/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70372332/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50372333/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00314656/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80314657/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50327449/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30327450/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10370958/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20314660/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00314661/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50314654/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20314655/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60285260/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40285261/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/90370964/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60370965/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10370963/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10229035/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40229034/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80104862/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/90166449/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60229033/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80229032/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/90103254/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70166450/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40370966/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80239413/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30239415/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20285262/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00285263/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30251742/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10251743/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80320111/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20372018/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50372012/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00377578/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60372016/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/10372009/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80372015/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40372017/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70372011/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/80377579/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40372036/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60372035/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20377582/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40372022/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/00372024/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/60372021/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/20372023/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/70372025/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/40377581/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50372031/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/50372026/"].productLink::after,
+.image a[href="/pl/pl/catalog/products/30372032/"].productLink::after {
+    background: url('//www.ikea.com/ms/pl_PL/img/icons/handmade1.png') no-repeat;
+    content: ' ';
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    top: 0;
+    right: -20px;
+}
