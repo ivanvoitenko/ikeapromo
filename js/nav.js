@@ -15,14 +15,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/outdoor"><img src="http://www.ikea.com/ms/img/menu/products/25x25/outdoor_25x25.gif" alt="" border="0" /><span>Balkon i ogrÃ³d</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/outdoor"><img src="http://www.ikea.com/ms/img/menu/products/25x25/outdoor_25x25.gif" alt="" border="0" /><span>Outdoor</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/secondary_storage"><div class="productImage" style="background-position:-225px 0;"></div><span>Przechowywanie</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/secondary_storage"><div class="productImage" style="background-position:-225px 0;"></div><span>Secondary storage</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -31,14 +31,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/decoration"><div class="productImage" style="background-position:-450px 0;"></div><span>Dekoracje</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/decoration"><div class="productImage" style="background-position:-450px 0;"></div><span>Decoration</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/hallway"><div class="productImage" style="background-position:-375px 0;"></div><span>PrzedpokÃ³j</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/hallway"><div class="productImage" style="background-position:-375px 0;"></div><span>Hallway</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -47,14 +47,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/workspaces"><div class="productImage" style="background-position:-100px 0;"></div><span>Domowe biuro</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/workspaces"><div class="productImage" style="background-position:-100px 0;"></div><span>Work spaces</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/bedroom"><div class="productImage" style="background-position:-25px 0;"></div><span>Sypialnia</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/bedroom"><div class="productImage" style="background-position:-25px 0;"></div><span>Bedroom</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -63,14 +63,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/cooking"><div class="productImage" style="background-position:-125px 0;"></div><span>Gotowanie</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/cooking"><div class="productImage" style="background-position:-125px 0;"></div><span>Cooking</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/food"><img src="http://www.ikea.com/ms/img/menu/products/32x32/food_32x32.gif" alt="" border="0" /><span>Szwedzka Å¼ywnoÅ›Ä‡</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/food"><img src="http://www.ikea.com/ms/img/menu/products/32x32/food_32x32.gif" alt="" border="0" /><span>Food</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -79,14 +79,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/dining"><div class="productImage" style="background-position:-150px 0;"></div><span>Jadalnia</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/dining"><div class="productImage" style="background-position:-150px 0;"></div><span>Dining</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/Textiles"><div class="productImage" style="background-position:-325px 0;"></div><span>Tekstylia</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/Textiles"><div class="productImage" style="background-position:-325px 0;"></div><span>Textiles</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -95,14 +95,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/eating"><div class="productImage" style="background-position:-350px 0;"></div><span>Jedzenie</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/eating"><div class="productImage" style="background-position:-350px 0;"></div><span>Eating</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/indoor_gardening"><img src="http://www.ikea.com/ms/img/menu/products/32x32/pots_plants_32x32.gif" alt="" border="0" /><span>Uprawy domowe</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/indoor_gardening"><img src="http://www.ikea.com/ms/img/menu/products/32x32/pots_plants_32x32.gif" alt="" border="0" /><span>Indoor gardening</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -111,14 +111,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/kitchen"><div class="productImage" style="background-position:-0px 0;"></div><span>Meble kuchenne i sprzÄ™t AGD</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/kitchen"><div class="productImage" style="background-position:-0px 0;"></div><span>Kitchen</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/wireless_charging"><img src="http://www.ikea.com/ms/img/menu/products/32x32/wireless_charging_32x32.gif" alt="" border="0" /><span>Åadowanie bezprzewodowe</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/wireless_charging"><img src="http://www.ikea.com/ms/img/menu/products/32x32/wireless_charging_32x32.gif" alt="" border="0" /><span>Wireless charging</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -127,14 +127,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/lighting"><div class="productImage" style="background-position:-425px 0;"></div><span>OÅ›wietlenie</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/lighting"><div class="productImage" style="background-position:-425px 0;"></div><span>Lighting</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/bathroom"><div class="productImage" style="background-position:-75px 0;"></div><span>Åazienka</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/bathroom"><div class="productImage" style="background-position:-75px 0;"></div><span>Bathroom</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -143,14 +143,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/childrens_ikea"><div class="productImage" style="background-position:-300px 0;"></div><span>PokÃ³j dzieciÄ™cy</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/childrens_ikea"><div class="productImage" style="background-position:-300px 0;"></div><span>Children</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/ikea_family_products"><div class="productImage" style="background-position:-250px 0;"></div><span>Produkty IKEA FAMILY</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/ikea_family_products"><div class="productImage" style="background-position:-250px 0;"></div><span>IKEA FAMILY</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -159,14 +159,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/living_room"><div class="productImage" style="background-position:-200px 0;"></div><span>PokÃ³j dzienny</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/living_room"><div class="productImage" style="background-position:-200px 0;"></div><span>Living room</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/business"><img src="http://www.ikea.com/ms/img/menu/products/32x32/business_32x32.gif" alt="" border="0" /><span>Dla biznesu</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/business"><img src="http://www.ikea.com/ms/img/menu/products/32x32/business_32x32.gif" alt="" border="0" /><span>Business</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -175,14 +175,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/laundry"><div class="productImage" style="background-position:-275px 0;"></div><span>Pomieszczenie gospodarcze</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/laundry"><div class="productImage" style="background-position:-275px 0;"></div><span>Laundry</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/seasonal/winter_holidays"><img src="http://www.ikea.com/ms/img/menu/products/32x32/winter_collections_32x32.gif" alt="" border="0" /><span class="seasonal" style="color:#444444">Kolekcja ÅšwiÄ…teczna</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/seasonal/winter_holidays"><img src="http://www.ikea.com/ms/img/menu/products/32x32/winter_collections_32x32.gif" alt="" border="0" /><span class="seasonal" style="color:#444444">Winter holidays</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
@@ -191,14 +191,14 @@ function getProducts() {
   document.write('            <tr>');
   document.write('                <td>');
   document.write('                    <div class="contentLeft noBorder">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/small_storage"><div class="productImage" style="background-position:-50px 0;"></div><span>Przechowywanie drobne</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/departments/small_storage"><div class="productImage" style="background-position:-50px 0;"></div><span>Small storage</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
 
 
   document.write('                <td>');
   document.write('                    <div class="contentRight noBorder">');
-  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/seasonal/back_to_college"><img src="http://www.ikea.com/ms/img/menu/products/32x32/back_to_collage_32x32.gif" alt="" border="0" /><span class="seasonal" style="color:#444444">PowrÃ³t do szkoÅ‚y</span></a>');
+  document.write('                        <a href="http://www.ikea.com/pl/pl/catalog/categories/seasonal/back_to_college"><img src="http://www.ikea.com/ms/img/menu/products/32x32/back_to_collage_32x32.gif" alt="" border="0" /><span class="seasonal" style="color:#444444">Back to college</span></a>');
   document.write('                    </div>');
   document.write('                </td>');
   document.write('            </tr>');
