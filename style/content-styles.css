@@ -52,7 +52,7 @@
 
 .squared {
   position: relative;
-  display: inline-block;
+  float: left;
   width: 50%;
   height: 600px
 }
