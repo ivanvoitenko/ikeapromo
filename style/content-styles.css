@@ -17,6 +17,12 @@
   background-color: #407ab1;
 }
 
+
+.main-top-banner-inner a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .main-top-banner-inner:focus, .main-top-banner-inner:hover {
   text-decoration: none;
 }
@@ -78,8 +84,9 @@
 
 .element {
   position: relative;
-  display: inline-block;
+  float: left;
   font-size: 14px;
   width: 50%;
   height: 300px;
+  background: #407ab1;
 }
