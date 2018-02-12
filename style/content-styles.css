@@ -17,13 +17,11 @@
   background-color: #407ab1;
 }
 
-.main-top-banner-inner:focus,
-.main-top-banner-inner:hover {
+.main-top-banner-inner:focus, .main-top-banner-inner:hover {
   text-decoration: none;
 }
 
-.main-top-banner-text,
-.main-top-banner-title {
+.main-top-banner-text, .main-top-banner-title {
   overflow: hidden;
   font-size: 28px;
   line-height: normal;
@@ -31,12 +29,13 @@
   margin-bottom: 15px;
   color: #fff;
 }
-.main-top-banner-title a,
-.main-top-banner-title a:hover{
-	font-size: 28px;
-	color: #fff;
-	text-decoration: none;
+
+.main-top-banner-title a, .main-top-banner-title a:hover {
+  font-size: 28px;
+  color: #fff;
+  text-decoration: none;
 }
+
 .main-top-banner-text {
   font-size: 13px;
   height: 32px;
@@ -58,21 +57,29 @@
 }
 
 .page-btn {
-    font-size: 12px;
-    line-height: 43px;
-    width: auto;
-    height: 45px;
-    padding: 0 30px;
-    -webkit-transition: all .4s;
-    transition: all .4s;
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    -webkit-border-radius: 3px;
-    border-radius: 3px;
-    background-clip: padding-box;
-    line-height: 43px;
+  font-size: 12px;
+  line-height: 43px;
+  width: auto;
+  height: 45px;
+  padding: 0 30px;
+  -webkit-transition: all .4s;
+  transition: all .4s;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  background-clip: padding-box;
+  line-height: 43px;
   color: #fff;
   border: 1px solid #fff;
   background: 0 0;
+}
+
+.element {
+  position: relative;
+  display: inline-block;
+  font-size: 14px;
+  width: 50%;
+  height: 300px;
 }
