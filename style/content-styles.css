@@ -9,9 +9,9 @@
   position: absolute;
   z-index: 9;
   bottom: 0;
-  left: 58.95%;
+  left: 631px;
   display: block;
-  width: 511px;
+  width: 316px;
   padding: 40px;
   text-decoration: none;
   background-color: #407ab1;
@@ -27,7 +27,7 @@
   overflow: hidden;
   font-size: 28px;
   line-height: normal;
-  height: 68px;
+  height: 45px;
   margin-bottom: 15px;
   color: #fff;
 }
@@ -53,4 +53,26 @@
 .squared {
   display: block;
   float: left;
+  width: 50%;
+  height: 600px
+}
+
+.page-btn {
+    font-size: 12px;
+    line-height: 43px;
+    width: auto;
+    height: 45px;
+    padding: 0 30px;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    background-clip: padding-box;
+    line-height: 43px;
+  color: #fff;
+  border: 1px solid #fff;
+  background: 0 0;
 }
