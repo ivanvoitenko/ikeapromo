@@ -14,6 +14,7 @@
   width: 316px;
   padding: 40px;
   text-decoration: none;
+  border: 1px solid #aac6e0;
   background-color: #407ab1;
 }
 
@@ -99,6 +100,8 @@
   text-decoration: none;
   border: 1px solid #aac6e0;
   background: #407ab1;
+  box-sizing: border-box;
+  cursor: pointer;
 }
 
 .element:focus, .element:hover {
