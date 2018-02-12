@@ -51,8 +51,8 @@
 }
 
 .squared {
-  display: block;
-  float: left;
+  position: relative;
+  display: inline-block;
   width: 50%;
   height: 600px
 }
