@@ -1,0 +1,56 @@
+.main-top-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.main-top-banner-inner {
+  position: absolute;
+  z-index: 9;
+  bottom: 0;
+  left: 58.95%;
+  display: block;
+  width: 511px;
+  padding: 40px;
+  text-decoration: none;
+  background-color: #407ab1;
+}
+
+.main-top-banner-inner:focus,
+.main-top-banner-inner:hover {
+  text-decoration: none;
+}
+
+.main-top-banner-text,
+.main-top-banner-title {
+  overflow: hidden;
+  font-size: 28px;
+  line-height: normal;
+  height: 68px;
+  margin-bottom: 15px;
+  color: #fff;
+}
+.main-top-banner-title a,
+.main-top-banner-title a:hover{
+	font-size: 28px;
+	color: #fff;
+	text-decoration: none;
+}
+.main-top-banner-text {
+  font-size: 13px;
+  height: 32px;
+  margin-bottom: 20px;
+  opacity: .8;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.squared {
+  display: block;
+  float: left;
+}
