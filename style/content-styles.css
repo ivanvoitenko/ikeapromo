@@ -82,11 +82,26 @@
   background: 0 0;
 }
 
+.page-btn:hover {
+  text-decoration: none;
+  color: #407ab1;
+  background: #fff;
+}
+
 .element {
   position: relative;
   float: left;
   font-size: 14px;
   width: 50%;
   height: 300px;
+  transition: all .4s;
+  vertical-align: top;
+  text-decoration: none;
+  border: 1px solid #aac6e0;
   background: #407ab1;
+}
+
+.element:focus, .element:hover {
+  text-decoration: none;
+  background-color: rgba(0, 131, 81, 0.2);
 }

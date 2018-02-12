@@ -275,7 +275,7 @@ div.linkButtonContainer a input {
 #allContent #mainPadding {
   padding: .63em 1.02em;
   background-color: #FFF;
-  width: 110.417em;
+  width: 100%;
   text-align: center;
   overflow: none
 }
@@ -288,7 +288,7 @@ div.linkButtonContainer a input {
   background-color: #FFF;
   margin-top: .21em;
   overflow: hidden;
-  _overflow: none
+  overflow: none
 }
 
 a.arrowLink:link, a.arrowLink:visited, a.arrowLink:active {
