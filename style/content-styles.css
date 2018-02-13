@@ -77,8 +77,8 @@
 .tile {
   display: block;
   padding-top: 190px;
-  font-size: 18px;
-  color: #fff;
+  font-size: 14px;
+  color: #333;
 }
 
 .info-wrap {
@@ -265,7 +265,7 @@
 
 .element:focus, .element:hover {
   text-decoration: none;
-  background-color: rgba(0, 131, 81, 0.2);
+      opacity: .8;
 }
 
 .gradient {
