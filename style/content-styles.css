@@ -63,6 +63,74 @@
   height: 600px
 }
 
+.tile-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  width: 100%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.tile {
+  display: block;
+  padding-top: 190px;
+  font-size: 18px;
+  color: #fff;
+}
+
+.info-wrap {
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
+  left: 40px;
+}
+
+.info-marker {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 28px;
+    width: auto;
+    height: 28px;
+    margin-bottom: 16px;
+    padding: 0 15px;
+    cursor: default;
+    color: #fff;
+    -webkit-border-radius: 14px;
+    border-radius: 14px;
+}
+
+.info-marker-1 {
+  background: #e4721c;
+}
+
+.info-marker-1 {
+  background: #c81978;
+}
+
+.info-title {
+  font-size: 32px;
+  max-width: 600px;
+  margin-bottom: 10px;
+  letter-spacing: .7px;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.info-text {
+  font-size: 18px;
+  line-height: 23px;
+  max-width: 600px;
+  margin-bottom: 36px;
+  opacity: .9;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+}
+
 .page-btn, .page-btn-invert {
   font-size: 12px;
   line-height: 43px;
