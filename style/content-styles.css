@@ -18,7 +18,6 @@
   background-color: #407ab1;
 }
 
-
 .main-top-banner-inner a {
   text-decoration: none;
   color: #fff;
@@ -90,24 +89,24 @@
 }
 
 .info-marker {
-    display: inline-block;
-    font-size: 14px;
-    line-height: 28px;
-    width: auto;
-    height: 28px;
-    margin-bottom: 16px;
-    padding: 0 15px;
-    cursor: default;
-    color: #fff;
-    -webkit-border-radius: 14px;
-    border-radius: 14px;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 28px;
+  width: auto;
+  height: 28px;
+  margin-bottom: 16px;
+  padding: 0 15px;
+  cursor: default;
+  color: #fff;
+  -webkit-border-radius: 14px;
+  border-radius: 14px;
 }
 
 .info-marker-1 {
   background: #e4721c;
 }
 
-.info-marker-1 {
+.info-marker-2 {
   background: #c81978;
 }
 
@@ -129,6 +128,32 @@
   opacity: .9;
   color: #fff;
   text-shadow: 1px 1px 1px #000;
+}
+
+.fullinfo-title {
+  position: relative;
+  font-size: 32px;
+  line-height: 38px;
+  max-width: 600px;
+  margin-bottom: 69px;
+  text-transform: uppercase;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.fullinfo-text {
+  overflow: hidden;
+  font-size: 18px;
+  line-height: 24px;
+  max-width: 600px;
+  max-height: 195px;
+  color: #fff;
+}
+
+.fullinfo-control {
+  position: absolute;
+  bottom: 38px;
+  left: 40px;
 }
 
 .page-btn, .page-btn-invert {
