@@ -247,14 +247,13 @@
 }
 
 .page-btn-invert {
-  color: #407ab1;
+  color: #fff;
   background: #e4721c;
-  border: 1px solid #32608c;
+  border: 1px solid #fff;
 }
 
 .page-btn-invert:hover {
   text-decoration: none;
-  color: #fff;
   background: #407ab1;
 }
 
@@ -275,7 +274,7 @@
 
 .element:focus, .element:hover {
   text-decoration: none;
-      opacity: .8;
+  opacity: .8;
 }
 
 .gradient {
