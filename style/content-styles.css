@@ -107,7 +107,7 @@
 }
 
 .info-marker-2 {
-  background: #345a6d;
+  background: #c81978;
 }
 
 .info-marker-3 {
@@ -117,7 +117,7 @@
   font-size: 9px;
   line-height: 20px;
   height: 20px;
-  background: #c81978;
+  background: #345a6d;
 }
 
 .info-title {
@@ -248,7 +248,7 @@
 
 .page-btn-invert {
   color: #407ab1;
-  background: #fff;
+  background: #84add3;
   border: 1px solid #32608c;
 }
 
