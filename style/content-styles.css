@@ -156,6 +156,18 @@
   left: 40px;
 }
 
+.special {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  max-width: 100%;
+  padding: 30px 40px 40px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
 .page-btn, .page-btn-invert {
   font-size: 12px;
   line-height: 43px;
