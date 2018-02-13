@@ -247,13 +247,14 @@
 }
 
 .page-btn-invert {
-  color: #fff;
+  color: #fff !important;
   background: #e4721c;
   border: 1px solid #fff;
 }
 
 .page-btn-invert:hover {
   text-decoration: none;
+  color: #fff;
   background: #407ab1;
 }
 
