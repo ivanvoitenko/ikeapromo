@@ -169,26 +169,31 @@
 }
 
 .faq-title {
-    font-size: 32px;
-    margin-top: -6px;
-    margin-bottom: 22px;
-    letter-spacing: .7px;
-    color: #01935d;
+  font-size: 32px;
+  margin-top: -6px;
+  margin-bottom: 22px;
+  letter-spacing: .7px;
+  color: #01935d;
 }
 
 .faq-wrapper {
-    margin: 0 0 53px;
-    padding: 0;
+  margin: 0 0 53px;
+  padding: 0;
 }
 
 .faq-element {
-    margin: 0;
-    padding: 17px 40px 17px 0;
-    list-style: none;
-    -webkit-transition: all .4s;
-    transition: all .4s;
-    border-bottom: 1px solid #dfdfdf;
-    background: url(/ikeapromo/img/og/rightar.png) no-repeat center right;
+  margin: 0;
+  padding: 17px 40px 17px 0;
+  list-style: none;
+  -webkit-transition: all .4s;
+  transition: all .4s;
+  border-bottom: 1px solid #dfdfdf;
+  background: url(/ikeapromo/img/rightar.png) no-repeat center right;
+}
+
+.faq-element:hover {
+  font-weight: bold;
+  background: url(/ikeapromo/img/rightar.png) no-repeat 98% center;
 }
 
 .faq-control {
@@ -197,12 +202,20 @@
   left: 40px;
 }
 
+.faq-link {
+  display: block;
+  font-size: 18px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #333;
+}
+
 .page-btn, .page-btn-invert {
   font-size: 12px;
   line-height: 43px;
   width: auto;
   height: 45px;
-  padding: 0 30px;
+  padding: 16px 30px;
   -webkit-transition: all .4s;
   transition: all .4s;
   text-align: center;
@@ -224,7 +237,6 @@
 }
 
 .page-btn-invert {
-  padding: 16px 30px;
   color: #407ab1;
   background: #fff;
   border: 1px solid #32608c;
