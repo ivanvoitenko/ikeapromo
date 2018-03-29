@@ -166,7 +166,7 @@
         id: 'products-acc',
         url: '#',
         linkClass: 'menu-link arrow',
-        label: 'GOODS'
+        label: 'PRODUCTS'
       },
       {
         class: 'header-nav-sub-block-cnt menu-rooms',
